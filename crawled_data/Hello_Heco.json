@@ -3,7 +3,7 @@
     "url": "https://www.helloheco.com/",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/",
-      "loadedTime": "2025-04-26T16:03:50.096Z",
+      "loadedTime": "2025-04-26T17:41:45.164Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 0,
       "httpStatusCode": 200
@@ -47,11 +47,11 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:03:44 GMT",
+        "date": "Sat, 26 Apr 2025 17:41:37 GMT",
         "content-type": "text/html",
-        "cf-ray": "93674fdd1c6fd6b4-IAD",
+        "cf-ray": "9367df3f5bdc597a-IAD",
         "cf-cache-status": "HIT",
-        "age": "339155",
+        "age": "345028",
         "content-encoding": "gzip",
         "last-modified": "Tue, 22 Apr 2025 17:51:09 GMT",
         "strict-transport-security": "max-age=31536000",
@@ -59,7 +59,7 @@
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba45b32f66fd6 626808def39ba4b108f67021 626808def39ba47927f66ff4",
         "x-lambda-id": "91bdb28b-480e-4de7-9776-d3c51675e18d",
         "vary": "Accept-Encoding",
-        "set-cookie": "_cfuvid=WVGH0RZHEejonkCKr1MqfDrzXfG7nbdQULLH.YEh7cg-1745683424857-0.0.1.1-604800000; path=/; domain=.www.helloheco.com; HttpOnly; Secure; SameSite=None",
+        "set-cookie": "_cfuvid=GHo_G_rZw0XlACIh3RgMIGIp9Z8hRpPvliDL8bruAj8-1745689297858-0.0.1.1-604800000; path=/; domain=.www.helloheco.com; HttpOnly; Secure; SameSite=None",
         "server": "cloudflare",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
@@ -74,7 +74,7 @@
     "url": "https://www.helloheco.com/project/cresco-labs",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/cresco-labs",
-      "loadedTime": "2025-04-26T16:04:31.863Z",
+      "loadedTime": "2025-04-26T17:42:00.659Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -110,7 +110,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:02 GMT",
+        "date": "Sat, 26 Apr 2025 17:41:55 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -118,11 +118,11 @@
         "x-lambda-id": "a1cec603-93cf-4e92-b4e6-3a9108264537",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142291",
+        "age": "148164",
         "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "9367504c6ae6d6b4-IAD",
+        "cf-ray": "9367dfabee67597a-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -133,72 +133,10 @@
     "competitorName": "Hello Heco"
   },
   {
-    "url": "https://www.helloheco.com/project/blueboard",
-    "crawl": {
-      "loadedUrl": "https://www.helloheco.com/project/blueboard",
-      "loadedTime": "2025-04-26T16:04:33.870Z",
-      "referrerUrl": "https://www.helloheco.com/",
-      "depth": 1,
-      "httpStatusCode": 200
-    },
-    "metadata": {
-      "canonicalUrl": "https://www.helloheco.com/project/blueboard",
-      "title": "Blueboard, by Heco",
-      "description": "Heco provided branding, creative direction, copywriting, UX design, web design, web development and print design for Blueboard, an enterprise rewards and recognition platform powered by hand-curated experiences.",
-      "author": null,
-      "keywords": null,
-      "languageCode": null,
-      "openGraph": [
-        {
-          "property": "og:title",
-          "content": "Blueboard, by Heco"
-        },
-        {
-          "property": "og:description",
-          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, web development and print design for Blueboard, an enterprise rewards and recognition platform powered by hand-curated experiences."
-        },
-        {
-          "property": "twitter:title",
-          "content": "Blueboard, by Heco"
-        },
-        {
-          "property": "twitter:description",
-          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, web development and print design for Blueboard, an enterprise rewards and recognition platform powered by hand-curated experiences."
-        },
-        {
-          "property": "og:type",
-          "content": "website"
-        }
-      ],
-      "jsonLd": null,
-      "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:02 GMT",
-        "content-type": "text/html",
-        "strict-transport-security": "max-age=31536000",
-        "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
-        "surrogate-control": "max-age=432000",
-        "x-lambda-id": "170426c6-986e-44f5-acae-b1b2bbc1583c",
-        "content-encoding": "gzip",
-        "cf-cache-status": "HIT",
-        "age": "181136",
-        "last-modified": "Thu, 24 Apr 2025 13:45:06 GMT",
-        "vary": "Accept-Encoding",
-        "server": "cloudflare",
-        "cf-ray": "9367504d8dd1d6b4-IAD",
-        "alt-svc": "h3=\":443\"; ma=86400",
-        "x-firefox-spdy": "h2"
-      }
-    },
-    "screenshotUrl": null,
-    "text": "Blueboard, by Heco\nIn Collaboration With\nBlueboard is a rewards and recognition platform powered by hand-curated experiences. It enables companies to give employees personalized experiential rewards. We refreshed Blueboard’s brand and designed a demand-gen website that inspires companies to join the platform.\nSee the website\n*Our clients are empowered to evolve their websites on their own. Live websites may not reflect our original designs.\n‍\nWe wanted the new branding to resonate with enterprise clients, without compromising Blueboard’s personality. Authentic photography—much of it sourced from Blueboard’s social channels—gets people to imagine the impact of experiential rewards. Punchy type gives messages a sense of authority—without the corporate trappings—and an electric color palette brings the fun-loving energy.\nThe Blueboard Ripple and Gloji icons are signature brand elements. They’re inspired by the life (and business) changing impact of Blueboard rewards. As opposed to cash or gift cards, experiences generate shareable stories that ripple outwards and positively affect far more people than recipients alone.\nWe designed a demand-gen website to support Blueboard’s content marketing and SEO strategy. Tactful CTA’s and lead-generating content gates throughout the site help get customers into the sales funnel. Drawers and carousels support the bulk of content needed for great SEO performance, without overwhelming users.\nThe brand style guide we created helps Blueboard’s sales and marketing teams live the new brand—on the web, in print, and in person. Brand voice traits unpack the brand strategy and show creatives how to capture its ethos. And simple instructions make it easy to design things on point with the new branding.\nWe brought Heco on with a big goal of creating a new brand identity that communicated the value of rewarding top employees with Blueboard experiences. The process from ideation and discovery to execution was one of the best partnerships I've had in my +15 years in marketing. Since launching the website, we've seen new user growth of +140% YoY (fueled by the new site's ability to index more effectively for SEO), and more importantly, +215% YoY growth in goal conversions (users requesting demos on our website). I can't recommend working with Matt, JT, and the Heco team more, and look forward to our continued partnership.\nMorgan Chaney, Sr. Director of Marketing & Partnerships",
-    "markdown": "# Blueboard, by Heco\n\n##### In Collaboration With\n\n## Blueboard is a rewards and recognition platform powered by hand-curated experiences. It enables companies to give employees personalized experiential rewards. We refreshed Blueboard’s brand and designed a demand-gen website that inspires companies to join the platform.\n\n### [See the website](https://www.blueboard.com/)\n\n###### \\*Our clients are empowered to evolve their websites on their own. Live websites may not reflect our original designs.  \n\n‍\n\n![An image of the new Blueboard home page design, featuring a hero image of two scuba divers taking a selfie.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe181eb0a4280d105558c1_blueboard-1.jpg)\n\nWe wanted the new branding to resonate with enterprise clients, without compromising Blueboard’s personality. Authentic photography—much of it sourced from Blueboard’s social channels—gets people to imagine the impact of experiential rewards. Punchy type gives messages a sense of authority—without the corporate trappings—and an electric color palette brings the fun-loving energy.\n\n![A series of three images showing Blueboard's new brand design, including: An elderly couple on vacation taking a selfie, a man cliff jumping, and a woman exploring a redwood forest.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe182f4a49eee739590b72_bluecrew-2.jpg)\n\n![An image of an out-of-home billboard ad featuring a man standing on top of a mountain range and the headline \"Rewards that Wow.\"](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe18321c5c6d3044ff21b5_bluecrew-3.jpg)\n\nThe Blueboard Ripple and Gloji icons are signature brand elements. They’re inspired by the life (and business) changing impact of Blueboard rewards. As opposed to cash or gift cards, experiences generate shareable stories that ripple outwards and positively affect far more people than recipients alone.\n\n![An image from the new Blueboard brand style guide showing their new Gloji iconography style and the Blueboard ripple, which is a signature brand design element.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe183d18f2431825c43701_bluecrew-4.jpg)\n\n![An image of the Product landing page from the new Blueboard website design.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe18428046aa84db26d58c_bluecrew-5.jpg)\n\nWe designed a demand-gen website to support Blueboard’s content marketing and SEO strategy. Tactful CTA’s and lead-generating content gates throughout the site help get customers into the sales funnel. Drawers and carousels support the bulk of content needed for great SEO performance, without overwhelming users.\n\n![A collection of images showing key interactions and design moments across a variety of web pages](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe18534ab71157197bf65b_bluecrew-6.jpg)\n\n![An image of Blueboard's new blog landing page, showing a variety of filterable topics and featured articles.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe185d984b53f6fe8a5442_bluecrew-7.jpg)\n\nThe brand style guide we created helps Blueboard’s sales and marketing teams live the new brand—on the web, in print, and in person. Brand voice traits unpack the brand strategy and show creatives how to capture its ethos. And simple instructions make it easy to design things on point with the new branding.\n\n![A series of 12 thumbnail images showing key pages from Blueboard's brand style guide.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1861527715079b9541f5_bluecrew-7-1.jpg)\n\n> We brought Heco on with a big goal of creating a new brand identity that communicated the value of rewarding top employees with Blueboard experiences. The process from ideation and discovery to execution was one of the best partnerships I've had in my +15 years in marketing. Since launching the website, we've seen new user growth of +140% YoY (fueled by the new site's ability to index more effectively for SEO), and more importantly, +215% YoY growth in goal conversions (users requesting demos on our website). I can't recommend working with Matt, JT, and the Heco team more, and look forward to our continued partnership.\n\n##### Morgan Chaney, Sr. Director of Marketing & Partnerships",
-    "competitorName": "Hello Heco"
-  },
-  {
     "url": "https://www.helloheco.com/project/oliv",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/oliv",
-      "loadedTime": "2025-04-26T16:04:34.961Z",
+      "loadedTime": "2025-04-26T17:42:00.654Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -234,7 +172,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:03 GMT",
+        "date": "Sat, 26 Apr 2025 17:41:55 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -242,11 +180,11 @@
         "x-lambda-id": "fa8a4ed8-3deb-45c6-abdf-0cc98e7039fb",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "173565",
+        "age": "179437",
         "last-modified": "Thu, 24 Apr 2025 15:51:18 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936750511f49d6b4-IAD",
+        "cf-ray": "9367dfae2fab597a-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -257,45 +195,37 @@
     "competitorName": "Hello Heco"
   },
   {
-    "url": "https://www.helloheco.com/project/west-elm-hotels",
+    "url": "https://www.helloheco.com/project/blueboard",
     "crawl": {
-      "loadedUrl": "https://www.helloheco.com/project/west-elm-hotels",
-      "loadedTime": "2025-04-26T16:04:34.469Z",
+      "loadedUrl": "https://www.helloheco.com/project/blueboard",
+      "loadedTime": "2025-04-26T17:42:11.442Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
     },
     "metadata": {
-      "canonicalUrl": "https://www.helloheco.com/project/west-elm-hotels",
-      "title": "west elm Hotels, by Heco",
-      "description": "Heco provided creative direction, copywriting, UX design, web design and web development for west elm Hotels, a new line of boutique hotels.",
+      "canonicalUrl": "https://www.helloheco.com/project/blueboard",
+      "title": "Blueboard, by Heco",
+      "description": "Heco provided branding, creative direction, copywriting, UX design, web design, web development and print design for Blueboard, an enterprise rewards and recognition platform powered by hand-curated experiences.",
       "author": null,
       "keywords": null,
       "languageCode": null,
       "openGraph": [
         {
           "property": "og:title",
-          "content": "west elm Hotels, by Heco"
+          "content": "Blueboard, by Heco"
         },
         {
           "property": "og:description",
-          "content": "Heco provided creative direction, copywriting, UX design, web design and web development for west elm Hotels, a new line of boutique hotels."
-        },
-        {
-          "property": "og:image",
-          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f00229938079f5a9c0ed1_westelm.jpg"
+          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, web development and print design for Blueboard, an enterprise rewards and recognition platform powered by hand-curated experiences."
         },
         {
           "property": "twitter:title",
-          "content": "west elm Hotels, by Heco"
+          "content": "Blueboard, by Heco"
         },
         {
           "property": "twitter:description",
-          "content": "Heco provided creative direction, copywriting, UX design, web design and web development for west elm Hotels, a new line of boutique hotels."
-        },
-        {
-          "property": "twitter:image",
-          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f00229938079f5a9c0ed1_westelm.jpg"
+          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, web development and print design for Blueboard, an enterprise rewards and recognition platform powered by hand-curated experiences."
         },
         {
           "property": "og:type",
@@ -304,33 +234,33 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:22 GMT",
+        "date": "Sat, 26 Apr 2025 17:42:07 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
         "surrogate-control": "max-age=432000",
-        "x-lambda-id": "5dfa682a-cb64-4393-9fb6-228bcdbbda1c",
+        "x-lambda-id": "170426c6-986e-44f5-acae-b1b2bbc1583c",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142312",
-        "last-modified": "Fri, 25 Apr 2025 00:32:30 GMT",
+        "age": "187021",
+        "last-modified": "Thu, 24 Apr 2025 13:45:06 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936750c62a8981f4-IAD",
+        "cf-ray": "9367dff608965a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
     },
     "screenshotUrl": null,
-    "text": "west elm Hotels, by Heco\nIn Collaboration With\nDigital Kitchen\nwest elm Hotels is a new hospitality brand launched by west elm. The hotels are designed for modern travelers who want a hotel experience that fits their personal style while staying true to local culture.\nWe helped define the brand’s service philosophy—Wholehearted Hospitality™—and designed a site to attract investors and guests. The site lets people explore the vision for west elm Hotels, the initial hotel locations and the bona fides of the hotel management partner.\nVisit the site\nWe created the Bring Yourself launch campaign based on our key insight above. It positions west elm Hotels as energizing places, grounded in local culture and community, where every guest has the service and space they need to be themselves.",
-    "markdown": "# west elm Hotels, by Heco\n\n##### In Collaboration With\n\nDigital Kitchen\n\n## west elm Hotels is a new hospitality brand launched by west elm. The hotels are designed for modern travelers who want a hotel experience that fits their personal style while staying true to local culture.\n\n![West Elm Hotels Homepage](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/584190029c3a8336377a2ba5_we-home.jpg)\n\n![West Elm Hotels Web Design](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419007e29ff74437e9cd8e_we-home2.jpg)\n\nWe helped define the brand’s service philosophy—Wholehearted Hospitality™—and designed a site to attract investors and guests. The site lets people explore the vision for west elm Hotels, the initial hotel locations and the bona fides of the hotel management partner.  \n\n### [Visit the site](http://westelmhotels.com/)\n\n![Website Details](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841900ab2a9ecab03f61feb_we-web-snippet.jpg)\n\n![Typography](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841900f34f6093632abe484_we-headline.jpg)\n\nWe created the Bring Yourself launch campaign based on our key insight above. It positions west elm Hotels as energizing places, grounded in local culture and community, where every guest has the service and space they need to be themselves.\n\n![Iconogoraphy](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841901934f6093632abe4c2_we-elements.jpg)\n\n![West Elm Hotels Locations Web Design](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/584190249c3a8336377a2bc7_we-locations.jpg)\n\n![West Elm Hotels Mobile Responsive Web Design](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419020b2a9ecab03f61ff9_we-mobile.jpg)\n\n![West Elm Hotels Typography](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5834f7e35625803f7430312a_we-signoff%402x.jpg)",
+    "text": "Blueboard, by Heco\nIn Collaboration With\nBlueboard is a rewards and recognition platform powered by hand-curated experiences. It enables companies to give employees personalized experiential rewards. We refreshed Blueboard’s brand and designed a demand-gen website that inspires companies to join the platform.\nSee the website\n*Our clients are empowered to evolve their websites on their own. Live websites may not reflect our original designs.\n‍\nWe wanted the new branding to resonate with enterprise clients, without compromising Blueboard’s personality. Authentic photography—much of it sourced from Blueboard’s social channels—gets people to imagine the impact of experiential rewards. Punchy type gives messages a sense of authority—without the corporate trappings—and an electric color palette brings the fun-loving energy.\nThe Blueboard Ripple and Gloji icons are signature brand elements. They’re inspired by the life (and business) changing impact of Blueboard rewards. As opposed to cash or gift cards, experiences generate shareable stories that ripple outwards and positively affect far more people than recipients alone.\nWe designed a demand-gen website to support Blueboard’s content marketing and SEO strategy. Tactful CTA’s and lead-generating content gates throughout the site help get customers into the sales funnel. Drawers and carousels support the bulk of content needed for great SEO performance, without overwhelming users.\nThe brand style guide we created helps Blueboard’s sales and marketing teams live the new brand—on the web, in print, and in person. Brand voice traits unpack the brand strategy and show creatives how to capture its ethos. And simple instructions make it easy to design things on point with the new branding.\nWe brought Heco on with a big goal of creating a new brand identity that communicated the value of rewarding top employees with Blueboard experiences. The process from ideation and discovery to execution was one of the best partnerships I've had in my +15 years in marketing. Since launching the website, we've seen new user growth of +140% YoY (fueled by the new site's ability to index more effectively for SEO), and more importantly, +215% YoY growth in goal conversions (users requesting demos on our website). I can't recommend working with Matt, JT, and the Heco team more, and look forward to our continued partnership.\nMorgan Chaney, Sr. Director of Marketing & Partnerships",
+    "markdown": "# Blueboard, by Heco\n\n##### In Collaboration With\n\n## Blueboard is a rewards and recognition platform powered by hand-curated experiences. It enables companies to give employees personalized experiential rewards. We refreshed Blueboard’s brand and designed a demand-gen website that inspires companies to join the platform.\n\n### [See the website](https://www.blueboard.com/)\n\n###### \\*Our clients are empowered to evolve their websites on their own. Live websites may not reflect our original designs.  \n\n‍\n\n![An image of the new Blueboard home page design, featuring a hero image of two scuba divers taking a selfie.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe181eb0a4280d105558c1_blueboard-1.jpg)\n\nWe wanted the new branding to resonate with enterprise clients, without compromising Blueboard’s personality. Authentic photography—much of it sourced from Blueboard’s social channels—gets people to imagine the impact of experiential rewards. Punchy type gives messages a sense of authority—without the corporate trappings—and an electric color palette brings the fun-loving energy.\n\n![A series of three images showing Blueboard's new brand design, including: An elderly couple on vacation taking a selfie, a man cliff jumping, and a woman exploring a redwood forest.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe182f4a49eee739590b72_bluecrew-2.jpg)\n\n![An image of an out-of-home billboard ad featuring a man standing on top of a mountain range and the headline \"Rewards that Wow.\"](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe18321c5c6d3044ff21b5_bluecrew-3.jpg)\n\nThe Blueboard Ripple and Gloji icons are signature brand elements. They’re inspired by the life (and business) changing impact of Blueboard rewards. As opposed to cash or gift cards, experiences generate shareable stories that ripple outwards and positively affect far more people than recipients alone.\n\n![An image from the new Blueboard brand style guide showing their new Gloji iconography style and the Blueboard ripple, which is a signature brand design element.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe183d18f2431825c43701_bluecrew-4.jpg)\n\n![An image of the Product landing page from the new Blueboard website design.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe18428046aa84db26d58c_bluecrew-5.jpg)\n\nWe designed a demand-gen website to support Blueboard’s content marketing and SEO strategy. Tactful CTA’s and lead-generating content gates throughout the site help get customers into the sales funnel. Drawers and carousels support the bulk of content needed for great SEO performance, without overwhelming users.\n\n![A collection of images showing key interactions and design moments across a variety of web pages](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe18534ab71157197bf65b_bluecrew-6.jpg)\n\n![An image of Blueboard's new blog landing page, showing a variety of filterable topics and featured articles.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe185d984b53f6fe8a5442_bluecrew-7.jpg)\n\nThe brand style guide we created helps Blueboard’s sales and marketing teams live the new brand—on the web, in print, and in person. Brand voice traits unpack the brand strategy and show creatives how to capture its ethos. And simple instructions make it easy to design things on point with the new branding.\n\n![A series of 12 thumbnail images showing key pages from Blueboard's brand style guide.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1861527715079b9541f5_bluecrew-7-1.jpg)\n\n> We brought Heco on with a big goal of creating a new brand identity that communicated the value of rewarding top employees with Blueboard experiences. The process from ideation and discovery to execution was one of the best partnerships I've had in my +15 years in marketing. Since launching the website, we've seen new user growth of +140% YoY (fueled by the new site's ability to index more effectively for SEO), and more importantly, +215% YoY growth in goal conversions (users requesting demos on our website). I can't recommend working with Matt, JT, and the Heco team more, and look forward to our continued partnership.\n\n##### Morgan Chaney, Sr. Director of Marketing & Partnerships",
     "competitorName": "Hello Heco"
   },
   {
     "url": "https://www.helloheco.com/project/oncorps",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/oncorps",
-      "loadedTime": "2025-04-26T16:04:35.279Z",
+      "loadedTime": "2025-04-26T17:42:18.033Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -374,7 +304,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:12 GMT",
+        "date": "Sat, 26 Apr 2025 17:42:14 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -382,11 +312,11 @@
         "x-lambda-id": "3b3af37f-8f76-4058-ab7d-12f044302c2c",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142301",
+        "age": "148183",
         "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "93675086fe4ad6b4-IAD",
+        "cf-ray": "9367e02339175a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -397,10 +327,80 @@
     "competitorName": "Hello Heco"
   },
   {
+    "url": "https://www.helloheco.com/project/west-elm-hotels",
+    "crawl": {
+      "loadedUrl": "https://www.helloheco.com/project/west-elm-hotels",
+      "loadedTime": "2025-04-26T17:42:26.747Z",
+      "referrerUrl": "https://www.helloheco.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.helloheco.com/project/west-elm-hotels",
+      "title": "west elm Hotels, by Heco",
+      "description": "Heco provided creative direction, copywriting, UX design, web design and web development for west elm Hotels, a new line of boutique hotels.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "west elm Hotels, by Heco"
+        },
+        {
+          "property": "og:description",
+          "content": "Heco provided creative direction, copywriting, UX design, web design and web development for west elm Hotels, a new line of boutique hotels."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f00229938079f5a9c0ed1_westelm.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "west elm Hotels, by Heco"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Heco provided creative direction, copywriting, UX design, web design and web development for west elm Hotels, a new line of boutique hotels."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f00229938079f5a9c0ed1_westelm.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 17:42:21 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "5dfa682a-cb64-4393-9fb6-228bcdbbda1c",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "148191",
+        "last-modified": "Fri, 25 Apr 2025 00:32:30 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "9367e0502d515a39-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "west elm Hotels, by Heco\nIn Collaboration With\nDigital Kitchen\nwest elm Hotels is a new hospitality brand launched by west elm. The hotels are designed for modern travelers who want a hotel experience that fits their personal style while staying true to local culture.\nWe helped define the brand’s service philosophy—Wholehearted Hospitality™—and designed a site to attract investors and guests. The site lets people explore the vision for west elm Hotels, the initial hotel locations and the bona fides of the hotel management partner.\nVisit the site\nWe created the Bring Yourself launch campaign based on our key insight above. It positions west elm Hotels as energizing places, grounded in local culture and community, where every guest has the service and space they need to be themselves.",
+    "markdown": "# west elm Hotels, by Heco\n\n##### In Collaboration With\n\nDigital Kitchen\n\n## west elm Hotels is a new hospitality brand launched by west elm. The hotels are designed for modern travelers who want a hotel experience that fits their personal style while staying true to local culture.\n\n![West Elm Hotels Homepage](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/584190029c3a8336377a2ba5_we-home.jpg)\n\n![West Elm Hotels Web Design](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419007e29ff74437e9cd8e_we-home2.jpg)\n\nWe helped define the brand’s service philosophy—Wholehearted Hospitality™—and designed a site to attract investors and guests. The site lets people explore the vision for west elm Hotels, the initial hotel locations and the bona fides of the hotel management partner.  \n\n### [Visit the site](http://westelmhotels.com/)\n\n![Website Details](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841900ab2a9ecab03f61feb_we-web-snippet.jpg)\n\n![Typography](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841900f34f6093632abe484_we-headline.jpg)\n\nWe created the Bring Yourself launch campaign based on our key insight above. It positions west elm Hotels as energizing places, grounded in local culture and community, where every guest has the service and space they need to be themselves.\n\n![Iconogoraphy](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841901934f6093632abe4c2_we-elements.jpg)\n\n![West Elm Hotels Locations Web Design](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/584190249c3a8336377a2bc7_we-locations.jpg)\n\n![West Elm Hotels Mobile Responsive Web Design](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419020b2a9ecab03f61ff9_we-mobile.jpg)\n\n![West Elm Hotels Typography](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5834f7e35625803f7430312a_we-signoff%402x.jpg)",
+    "competitorName": "Hello Heco"
+  },
+  {
     "url": "https://www.helloheco.com/project/bluecrew",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/bluecrew",
-      "loadedTime": "2025-04-26T16:04:46.080Z",
+      "loadedTime": "2025-04-26T17:42:34.987Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -436,7 +436,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:41 GMT",
+        "date": "Sat, 26 Apr 2025 17:42:32 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -444,11 +444,11 @@
         "x-lambda-id": "1ef604b3-12b0-4521-9dc5-361391906f49",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "181228",
+        "age": "187099",
         "last-modified": "Thu, 24 Apr 2025 13:44:13 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "93675140bf0381f4-IAD",
+        "cf-ray": "9367e095bb715a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -459,10 +459,72 @@
     "competitorName": "Hello Heco"
   },
   {
+    "url": "https://www.helloheco.com/project/hub-on-campus",
+    "crawl": {
+      "loadedUrl": "https://www.helloheco.com/project/hub-on-campus",
+      "loadedTime": "2025-04-26T17:42:52.053Z",
+      "referrerUrl": "https://www.helloheco.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.helloheco.com/project/hub-on-campus",
+      "title": "Hub on Campus, by Heco",
+      "description": "Heco provided branding, creative direction, copywriting, UX design, web design, and print design for Hub on Campus, one of the leading student housing brands in the US and the flagship brand of Core Spaces.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Hub on Campus, by Heco"
+        },
+        {
+          "property": "og:description",
+          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, and print design for Hub on Campus, one of the leading student housing brands in the US and the flagship brand of Core Spaces."
+        },
+        {
+          "property": "twitter:title",
+          "content": "Hub on Campus, by Heco"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, and print design for Hub on Campus, one of the leading student housing brands in the US and the flagship brand of Core Spaces."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 17:42:40 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "aefae377-407d-45e0-b6c4-bf05fe55a628",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "148209",
+        "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "9367e0c5aeef5a39-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Hub on Campus, by Heco\nIn Collaboration With\nCore Spaces is one of the country’s leading student housing builders, and Hub On Campus is their flagship offering. We helped turn Hub into a true lifestyle brand and created a scalable design system for localizing properties.\nHub redefined what it means to live like a college student. Think killer interior design, awesome amenities, and rooftop pools. But as the category they created matured, a gap grew between Hub’s product experience (living at a property) and its brand experience. We helped close it by rethinking and reinvigorating Hub’s brand. We created an artful new brand design to make Hub a leader in personality and style. And we wrote new narratives and messaging to express what Hub stands for and inspire residents to sign a lease.\nLocalizing properties with designs and stories inspired by their locations is a key aspect of the new brand. The platform we created is easy to scale as new properties open. We developed a color and iconography system to give each property its own unique character. We worked with local brand ambassadors to write localized headlines and stories. And we created a standard set of design templates to streamline marketing efforts and drive brand consistency at the property level.\nWe redesigned HubonCampus.com to reflect the new brand and drive leasing. We streamlined the site’s content and UX to create a focused experience that gently funnels users to the leasing portal. And we used photography and storytelling to showcase Hub’s elevated lifestyle and position the brand as an icon of college living.\nWe also branded Hub Lifestyle, a hospitality platform that elevates life at Hub and provides everyday opportunities for residents to stay fit, meet new people, and grow as individuals. Fresh and freewheeling, the new brand and web design supports Hub in its mission to help residents thrive at college and beyond.\nStyle guides at both the parent brand and the property level enable Hub’s marketing team to create consistent collateral across a complex landscape of locations, channels, and touchpoints. New narratives, voice traits, and identity rules help creatives design things that are on point with the new branding and aligned with the character of each building.\nI want to say that Heco was the inspiration for our website way before I knew them. I want to say that they can take a lump of coal with good intention, breathe a soul into it and turn it into something I’d put on a billboard. I want to say that we’re incapable of consensus but Heco takes it in stride and shows us exactly what we’re looking for before we know what we’re looking for. I want to say they were instrumental in taking our flagship brand from just a logo to an entire platform. I want to say they make my job easier, more fun, and more inspiring. But I won’t say those things because I’m selfish. And you should totally not hire Heco for anything.\nMitch Dalton, Chief Director of Design at Core Spaces",
+    "markdown": "# Hub on Campus, by Heco\n\n##### In Collaboration With\n\n## Core Spaces is one of the country’s leading student housing builders, and Hub On Campus is their flagship offering. We helped turn Hub into a true lifestyle brand and created a scalable design system for localizing properties.\n\n![A series of images of the new Hub logo.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe192d0d55c614632b8670_hub-1.jpg)\n\n![A moodboard showing a variety of brand design moments, including typography, lifestyle photography, iconography, and color palette.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19310ee0441643aa817a_hub-2.jpg)\n\nHub redefined what it means to live like a college student. Think killer interior design, awesome amenities, and rooftop pools. But as the category they created matured, a gap grew between Hub’s product experience (living at a property) and its brand experience. We helped close it by rethinking and reinvigorating Hub’s brand. We created an artful new brand design to make Hub a leader in personality and style. And we wrote new narratives and messaging to express what Hub stands for and inspire residents to sign a lease.  \n\n![Hero image of four college students leaping into a lake, as well as a collection of other photos of college students relaxing, hanging out, and enjoying being together.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19467969279f226d7a36_hub-3.jpg)\n\nLocalizing properties with designs and stories inspired by their locations is a key aspect of the new brand. The platform we created is easy to scale as new properties open. We developed a color and iconography system to give each property its own unique character. We worked with local brand ambassadors to write localized headlines and stories. And we created a standard set of design templates to streamline marketing efforts and drive brand consistency at the property level.\n\n![Four images of new Hub swag and merchandise, including a baseball hat, a coffee mug, a tote bag, and a sticker.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1949c443a069014f742a_hub-4.jpg)\n\n![An image of a large Hub advertising poster wrapping around the scaffolding of a construction site.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19596be63a55f1745072_hub-5.jpg)\n\n![An image of Hub marketing collateral, specifically a Hub city guide and map featuring an exuberant illustration of Tucson, Arizona.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1960119999e42118c69e_hub-6.jpg)\n\n![Images of a variety of new Hub interior wayfinding signage, including apartment room numbers, directional signage, and amenity placards.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19676b4b5464b04f0c90_hub-7.jpg)\n\nWe redesigned HubonCampus.com to reflect the new brand and drive leasing. We streamlined the site’s content and UX to create a focused experience that gently funnels users to the leasing portal. And we used photography and storytelling to showcase Hub’s elevated lifestyle and position the brand as an icon of college living.\n\n![A variety of images featuring key pages from Hub's new website design.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe197eb5ea5dd529c5273d_hub-8.jpg)\n\nWe also branded Hub Lifestyle, a hospitality platform that elevates life at Hub and provides everyday opportunities for residents to stay fit, meet new people, and grow as individuals. Fresh and freewheeling, the new brand and web design supports Hub in its mission to help residents thrive at college and beyond.\n\nStyle guides at both the parent brand and the property level enable Hub’s marketing team to create consistent collateral across a complex landscape of locations, channels, and touchpoints. New narratives, voice traits, and identity rules help creatives design things that are on point with the new branding and aligned with the character of each building.\n\n![An image of the new Hub Lifestyle logo.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe196f6284b799417129bf_hub-8-1.jpg)\n\n![Fullscreen images of the new Hub Lifestyle website, including desktop and mobile designs.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe198e7f690233e7e3f0ca_hub-9.jpg)\n\n> I want to say that Heco was the inspiration for our website way before I knew them. I want to say that they can take a lump of coal with good intention, breathe a soul into it and turn it into something I’d put on a billboard. I want to say that we’re incapable of consensus but Heco takes it in stride and shows us exactly what we’re looking for before we know what we’re looking for. I want to say they were instrumental in taking our flagship brand from just a logo to an entire platform. I want to say they make my job easier, more fun, and more inspiring. But I won’t say those things because I’m selfish. And you should totally not hire Heco for anything.\n\n##### Mitch Dalton, Chief Director of Design at Core Spaces  \n\n![Four images of Instagram stories designed with the new Hub Lifestyle branding.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1997f93d7a00c340cd3f_hub-10.jpg)\n\n![A series of 20 thumbnail images showing key pages from the Hub brand style guide.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19a6dc78d363a8e10f8c_hub-11.jpg)",
+    "competitorName": "Hello Heco"
+  },
+  {
     "url": "https://www.helloheco.com/project/cyrus-hotel",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/cyrus-hotel",
-      "loadedTime": "2025-04-26T16:04:59.994Z",
+      "loadedTime": "2025-04-26T17:43:01.922Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -506,7 +568,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:45 GMT",
+        "date": "Sat, 26 Apr 2025 17:42:54 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -514,11 +576,11 @@
         "x-lambda-id": "d8a7038b-8085-463a-921c-0968ac9b1b8f",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "162410",
+        "age": "168299",
         "last-modified": "Thu, 24 Apr 2025 18:57:55 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "93675156fff481f4-IAD",
+        "cf-ray": "9367e11bf8df5a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -532,7 +594,7 @@
     "url": "https://www.helloheco.com/project/clyde",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/clyde",
-      "loadedTime": "2025-04-26T16:05:01.459Z",
+      "loadedTime": "2025-04-26T17:43:10.956Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -576,7 +638,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:51 GMT",
+        "date": "Sat, 26 Apr 2025 17:43:02 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -584,11 +646,11 @@
         "x-lambda-id": "097e0273-f2cb-46b7-8d0f-42e9c585b586",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "164690",
+        "age": "170581",
         "last-modified": "Thu, 24 Apr 2025 18:20:01 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "9367517d2a8d81f4-IAD",
+        "cf-ray": "9367e1537ad05a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -599,72 +661,10 @@
     "competitorName": "Hello Heco"
   },
   {
-    "url": "https://www.helloheco.com/project/hub-on-campus",
-    "crawl": {
-      "loadedUrl": "https://www.helloheco.com/project/hub-on-campus",
-      "loadedTime": "2025-04-26T16:05:05.057Z",
-      "referrerUrl": "https://www.helloheco.com/",
-      "depth": 1,
-      "httpStatusCode": 200
-    },
-    "metadata": {
-      "canonicalUrl": "https://www.helloheco.com/project/hub-on-campus",
-      "title": "Hub on Campus, by Heco",
-      "description": "Heco provided branding, creative direction, copywriting, UX design, web design, and print design for Hub on Campus, one of the leading student housing brands in the US and the flagship brand of Core Spaces.",
-      "author": null,
-      "keywords": null,
-      "languageCode": null,
-      "openGraph": [
-        {
-          "property": "og:title",
-          "content": "Hub on Campus, by Heco"
-        },
-        {
-          "property": "og:description",
-          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, and print design for Hub on Campus, one of the leading student housing brands in the US and the flagship brand of Core Spaces."
-        },
-        {
-          "property": "twitter:title",
-          "content": "Hub on Campus, by Heco"
-        },
-        {
-          "property": "twitter:description",
-          "content": "Heco provided branding, creative direction, copywriting, UX design, web design, and print design for Hub on Campus, one of the leading student housing brands in the US and the flagship brand of Core Spaces."
-        },
-        {
-          "property": "og:type",
-          "content": "website"
-        }
-      ],
-      "jsonLd": null,
-      "headers": {
-        "date": "Sat, 26 Apr 2025 16:04:45 GMT",
-        "content-type": "text/html",
-        "strict-transport-security": "max-age=31536000",
-        "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
-        "surrogate-control": "max-age=432000",
-        "x-lambda-id": "aefae377-407d-45e0-b6c4-bf05fe55a628",
-        "content-encoding": "gzip",
-        "cf-cache-status": "HIT",
-        "age": "142334",
-        "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
-        "vary": "Accept-Encoding",
-        "server": "cloudflare",
-        "cf-ray": "9367515aec2e81f4-IAD",
-        "alt-svc": "h3=\":443\"; ma=86400",
-        "x-firefox-spdy": "h2"
-      }
-    },
-    "screenshotUrl": null,
-    "text": "Hub on Campus, by Heco\nIn Collaboration With\nCore Spaces is one of the country’s leading student housing builders, and Hub On Campus is their flagship offering. We helped turn Hub into a true lifestyle brand and created a scalable design system for localizing properties.\nHub redefined what it means to live like a college student. Think killer interior design, awesome amenities, and rooftop pools. But as the category they created matured, a gap grew between Hub’s product experience (living at a property) and its brand experience. We helped close it by rethinking and reinvigorating Hub’s brand. We created an artful new brand design to make Hub a leader in personality and style. And we wrote new narratives and messaging to express what Hub stands for and inspire residents to sign a lease.\nLocalizing properties with designs and stories inspired by their locations is a key aspect of the new brand. The platform we created is easy to scale as new properties open. We developed a color and iconography system to give each property its own unique character. We worked with local brand ambassadors to write localized headlines and stories. And we created a standard set of design templates to streamline marketing efforts and drive brand consistency at the property level.\nWe redesigned HubonCampus.com to reflect the new brand and drive leasing. We streamlined the site’s content and UX to create a focused experience that gently funnels users to the leasing portal. And we used photography and storytelling to showcase Hub’s elevated lifestyle and position the brand as an icon of college living.\nWe also branded Hub Lifestyle, a hospitality platform that elevates life at Hub and provides everyday opportunities for residents to stay fit, meet new people, and grow as individuals. Fresh and freewheeling, the new brand and web design supports Hub in its mission to help residents thrive at college and beyond.\nStyle guides at both the parent brand and the property level enable Hub’s marketing team to create consistent collateral across a complex landscape of locations, channels, and touchpoints. New narratives, voice traits, and identity rules help creatives design things that are on point with the new branding and aligned with the character of each building.\nI want to say that Heco was the inspiration for our website way before I knew them. I want to say that they can take a lump of coal with good intention, breathe a soul into it and turn it into something I’d put on a billboard. I want to say that we’re incapable of consensus but Heco takes it in stride and shows us exactly what we’re looking for before we know what we’re looking for. I want to say they were instrumental in taking our flagship brand from just a logo to an entire platform. I want to say they make my job easier, more fun, and more inspiring. But I won’t say those things because I’m selfish. And you should totally not hire Heco for anything.\nMitch Dalton, Chief Director of Design at Core Spaces",
-    "markdown": "# Hub on Campus, by Heco\n\n##### In Collaboration With\n\n## Core Spaces is one of the country’s leading student housing builders, and Hub On Campus is their flagship offering. We helped turn Hub into a true lifestyle brand and created a scalable design system for localizing properties.\n\n![A series of images of the new Hub logo.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe192d0d55c614632b8670_hub-1.jpg)\n\n![A moodboard showing a variety of brand design moments, including typography, lifestyle photography, iconography, and color palette.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19310ee0441643aa817a_hub-2.jpg)\n\nHub redefined what it means to live like a college student. Think killer interior design, awesome amenities, and rooftop pools. But as the category they created matured, a gap grew between Hub’s product experience (living at a property) and its brand experience. We helped close it by rethinking and reinvigorating Hub’s brand. We created an artful new brand design to make Hub a leader in personality and style. And we wrote new narratives and messaging to express what Hub stands for and inspire residents to sign a lease.  \n\n![Hero image of four college students leaping into a lake, as well as a collection of other photos of college students relaxing, hanging out, and enjoying being together.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19467969279f226d7a36_hub-3.jpg)\n\nLocalizing properties with designs and stories inspired by their locations is a key aspect of the new brand. The platform we created is easy to scale as new properties open. We developed a color and iconography system to give each property its own unique character. We worked with local brand ambassadors to write localized headlines and stories. And we created a standard set of design templates to streamline marketing efforts and drive brand consistency at the property level.\n\n![Four images of new Hub swag and merchandise, including a baseball hat, a coffee mug, a tote bag, and a sticker.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1949c443a069014f742a_hub-4.jpg)\n\n![An image of a large Hub advertising poster wrapping around the scaffolding of a construction site.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19596be63a55f1745072_hub-5.jpg)\n\n![An image of Hub marketing collateral, specifically a Hub city guide and map featuring an exuberant illustration of Tucson, Arizona.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1960119999e42118c69e_hub-6.jpg)\n\n![Images of a variety of new Hub interior wayfinding signage, including apartment room numbers, directional signage, and amenity placards.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19676b4b5464b04f0c90_hub-7.jpg)\n\nWe redesigned HubonCampus.com to reflect the new brand and drive leasing. We streamlined the site’s content and UX to create a focused experience that gently funnels users to the leasing portal. And we used photography and storytelling to showcase Hub’s elevated lifestyle and position the brand as an icon of college living.\n\n![A variety of images featuring key pages from Hub's new website design.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe197eb5ea5dd529c5273d_hub-8.jpg)\n\nWe also branded Hub Lifestyle, a hospitality platform that elevates life at Hub and provides everyday opportunities for residents to stay fit, meet new people, and grow as individuals. Fresh and freewheeling, the new brand and web design supports Hub in its mission to help residents thrive at college and beyond.\n\nStyle guides at both the parent brand and the property level enable Hub’s marketing team to create consistent collateral across a complex landscape of locations, channels, and touchpoints. New narratives, voice traits, and identity rules help creatives design things that are on point with the new branding and aligned with the character of each building.\n\n![An image of the new Hub Lifestyle logo.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe196f6284b799417129bf_hub-8-1.jpg)\n\n![Fullscreen images of the new Hub Lifestyle website, including desktop and mobile designs.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe198e7f690233e7e3f0ca_hub-9.jpg)\n\n> I want to say that Heco was the inspiration for our website way before I knew them. I want to say that they can take a lump of coal with good intention, breathe a soul into it and turn it into something I’d put on a billboard. I want to say that we’re incapable of consensus but Heco takes it in stride and shows us exactly what we’re looking for before we know what we’re looking for. I want to say they were instrumental in taking our flagship brand from just a logo to an entire platform. I want to say they make my job easier, more fun, and more inspiring. But I won’t say those things because I’m selfish. And you should totally not hire Heco for anything.\n\n##### Mitch Dalton, Chief Director of Design at Core Spaces  \n\n![Four images of Instagram stories designed with the new Hub Lifestyle branding.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe1997f93d7a00c340cd3f_hub-10.jpg)\n\n![A series of 20 thumbnail images showing key pages from the Hub brand style guide.](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5ffe19a6dc78d363a8e10f8c_hub-11.jpg)",
-    "competitorName": "Hello Heco"
-  },
-  {
     "url": "https://www.helloheco.com/work",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/work",
-      "loadedTime": "2025-04-26T16:05:12.931Z",
+      "loadedTime": "2025-04-26T17:43:10.958Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -708,18 +708,19 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:05:11 GMT",
+        "date": "Sat, 26 Apr 2025 17:43:04 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba4abfaf66fee 626808def39ba4b108f67021",
         "surrogate-control": "max-age=432000",
         "x-lambda-id": "2017b705-f86f-4471-abc6-473fd12a136f",
         "content-encoding": "gzip",
-        "cf-cache-status": "MISS",
+        "cf-cache-status": "HIT",
+        "age": "5873",
         "last-modified": "Sat, 26 Apr 2025 16:05:11 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936751f10ed481f4-IAD",
+        "cf-ray": "9367e15f4a555a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -733,7 +734,7 @@
     "url": "https://www.helloheco.com/about-us",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/about-us",
-      "loadedTime": "2025-04-26T16:05:18.988Z",
+      "loadedTime": "2025-04-26T17:43:18.623Z",
       "referrerUrl": "https://www.helloheco.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -777,7 +778,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:05:17 GMT",
+        "date": "Sat, 26 Apr 2025 17:43:17 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba452b5f66fd9 626808def39ba4b34cf67036",
@@ -785,11 +786,11 @@
         "x-lambda-id": "29e56142-07a3-421a-bb76-1f9bb4e6a508",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "155344",
+        "age": "161224",
         "last-modified": "Thu, 24 Apr 2025 20:56:13 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936752216da281f4-IAD",
+        "cf-ray": "9367e1afa8a35a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -803,7 +804,7 @@
     "url": "https://www.helloheco.com/project/museum-of-science-and-industry-wired-to-wear",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/museum-of-science-and-industry-wired-to-wear",
-      "loadedTime": "2025-04-26T16:05:35.554Z",
+      "loadedTime": "2025-04-26T17:43:35.141Z",
       "referrerUrl": "https://www.helloheco.com/project/cresco-labs",
       "depth": 2,
       "httpStatusCode": 200
@@ -847,7 +848,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:05:22 GMT",
+        "date": "Sat, 26 Apr 2025 17:43:23 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -855,11 +856,11 @@
         "x-lambda-id": "9eeac5a9-c1fc-48ad-ae1e-ad43ab713b41",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "177694",
+        "age": "183576",
         "last-modified": "Thu, 24 Apr 2025 14:43:47 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "9367523c5b5581f4-IAD",
+        "cf-ray": "9367e1d1ac855a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -873,7 +874,7 @@
     "url": "https://www.helloheco.com/project/whittl",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/whittl",
-      "loadedTime": "2025-04-26T16:05:38.859Z",
+      "loadedTime": "2025-04-26T17:43:54.731Z",
       "referrerUrl": "https://www.helloheco.com/project/oliv",
       "depth": 2,
       "httpStatusCode": 200
@@ -917,7 +918,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:05:24 GMT",
+        "date": "Sat, 26 Apr 2025 17:43:40 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -925,11 +926,11 @@
         "x-lambda-id": "28b7ae76-e581-4d78-9db3-959568569ac1",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142372",
+        "age": "148268",
         "last-modified": "Fri, 25 Apr 2025 00:32:32 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "9367524d2f3281f4-IAD",
+        "cf-ray": "9367e23d4bf45a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -943,7 +944,7 @@
     "url": "https://www.helloheco.com/project/emery",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/emery",
-      "loadedTime": "2025-04-26T16:05:49.775Z",
+      "loadedTime": "2025-04-26T17:43:55.257Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -987,7 +988,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:05:44 GMT",
+        "date": "Sat, 26 Apr 2025 17:43:46 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -995,11 +996,11 @@
         "x-lambda-id": "27ad6801-b5b9-4660-a740-1ced8f624f3f",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "163513",
+        "age": "169395",
         "last-modified": "Thu, 24 Apr 2025 18:40:31 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936752c6de1881f4-IAD",
+        "cf-ray": "9367e2647ae95a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1013,7 +1014,7 @@
     "url": "https://www.helloheco.com/project/west-studio",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/west-studio",
-      "loadedTime": "2025-04-26T16:06:01.767Z",
+      "loadedTime": "2025-04-26T17:44:06.239Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1057,7 +1058,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:05:54 GMT",
+        "date": "Sat, 26 Apr 2025 17:44:01 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1065,11 +1066,11 @@
         "x-lambda-id": "455ed5d8-2582-4a51-ab8a-70dd0afc33a6",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "153721",
+        "age": "159608",
         "last-modified": "Thu, 24 Apr 2025 21:23:53 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "93675309ab6681f4-IAD",
+        "cf-ray": "9367e2bfb9525a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1083,7 +1084,7 @@
     "url": "https://www.helloheco.com/project/hu-hotel",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/hu-hotel",
-      "loadedTime": "2025-04-26T16:06:11.562Z",
+      "loadedTime": "2025-04-26T17:44:15.527Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1127,7 +1128,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:06:07 GMT",
+        "date": "Sat, 26 Apr 2025 17:44:12 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1135,11 +1136,11 @@
         "x-lambda-id": "c349caf1-b3ab-499f-ac17-e481654fce86",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142416",
+        "age": "148301",
         "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "93675356cbec81f4-IAD",
+        "cf-ray": "9367e3030a225a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1153,7 +1154,7 @@
     "url": "https://www.helloheco.com/project/second-city-works",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/second-city-works",
-      "loadedTime": "2025-04-26T16:06:17.173Z",
+      "loadedTime": "2025-04-26T17:44:26.255Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1197,7 +1198,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:06:12 GMT",
+        "date": "Sat, 26 Apr 2025 17:44:21 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1205,11 +1206,11 @@
         "x-lambda-id": "c0574063-7233-4ec8-9f5a-e645d59454c1",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "174875",
+        "age": "180764",
         "last-modified": "Thu, 24 Apr 2025 15:31:37 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "9367537808fe81f4-IAD",
+        "cf-ray": "9367e33c1f7e5a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1223,7 +1224,7 @@
     "url": "https://www.helloheco.com/project/glanbia-nutritionals",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/glanbia-nutritionals",
-      "loadedTime": "2025-04-26T16:06:39.060Z",
+      "loadedTime": "2025-04-26T17:44:39.253Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1267,7 +1268,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:06:22 GMT",
+        "date": "Sat, 26 Apr 2025 17:44:31 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1275,11 +1276,11 @@
         "x-lambda-id": "ca6eda4a-a3f7-4eaa-9ca0-21509498aafd",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "181645",
+        "age": "187534",
         "last-modified": "Thu, 24 Apr 2025 13:38:57 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936753b53c8681f4-IAD",
+        "cf-ray": "9367e37ebaab5a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1290,79 +1291,10 @@
     "competitorName": "Hello Heco"
   },
   {
-    "url": "https://www.helloheco.com/project/origin-investments",
-    "crawl": {
-      "loadedUrl": "https://www.helloheco.com/project/origin-investments",
-      "loadedTime": "2025-04-26T16:06:46.467Z",
-      "referrerUrl": "https://www.helloheco.com/work",
-      "depth": 2,
-      "httpStatusCode": 200
-    },
-    "metadata": {
-      "canonicalUrl": "https://www.helloheco.com/project/origin-investments",
-      "title": "Origin Investments, by Heco",
-      "description": "Heco provided branding, copywriting, print design, UX design, web design for Origin Investments, a private equity real estate investment firm.",
-      "author": null,
-      "keywords": null,
-      "languageCode": null,
-      "openGraph": [
-        {
-          "property": "og:title",
-          "content": "Origin Investments, by Heco"
-        },
-        {
-          "property": "og:description",
-          "content": "Heco provided branding, copywriting, print design, UX design, web design for Origin Investments, a private equity real estate investment firm."
-        },
-        {
-          "property": "og:image",
-          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f0055c9896a832c66d729_origin.jpg"
-        },
-        {
-          "property": "twitter:title",
-          "content": "Origin Investments, by Heco"
-        },
-        {
-          "property": "twitter:description",
-          "content": "Heco provided branding, copywriting, print design, UX design, web design for Origin Investments, a private equity real estate investment firm."
-        },
-        {
-          "property": "twitter:image",
-          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f0055c9896a832c66d729_origin.jpg"
-        },
-        {
-          "property": "og:type",
-          "content": "website"
-        }
-      ],
-      "jsonLd": null,
-      "headers": {
-        "date": "Sat, 26 Apr 2025 16:06:24 GMT",
-        "content-type": "text/html",
-        "strict-transport-security": "max-age=31536000",
-        "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
-        "surrogate-control": "max-age=432000",
-        "x-lambda-id": "14bc93e7-392d-4723-b81c-e6c33a055316",
-        "content-encoding": "gzip",
-        "cf-cache-status": "MISS",
-        "last-modified": "Sat, 26 Apr 2025 16:06:24 GMT",
-        "vary": "Accept-Encoding",
-        "server": "cloudflare",
-        "cf-ray": "936753beae9f81f4-IAD",
-        "alt-svc": "h3=\":443\"; ma=86400",
-        "x-firefox-spdy": "h2"
-      }
-    },
-    "screenshotUrl": null,
-    "text": "Origin Investments, by Heco\nIn Collaboration With\nDigital Kitchen\nOrigin Investments is a private equity real estate investment firm that combines a best-in-class web platform with the expertise of skilled fund managers. We developed their brand strategy and visual identity, and helped launch their investment platform with a new marketing website and anthem film.\nWe held workshops with stakeholders and investors to clarify Origin’s reason for being. That groundwork led to a new brand position based on true alignment with investors, as well as a bold new brand voice and persuasive new messaging.\nThe Compass & Pin identity we created captures Origin’s hybrid approach to investing, where old-school street smarts meet new-school tech. The typeface and color palette we selected blend classic and modern, inspiring trust but signaling an innovative approach. A new infographic style makes their data easier to understand, and new photography guidelines make the brand feel genuine and approachable.\nWe brought all the parts together with a set of tools that guide brand activation across touchpoints—from conference booths, to quarterly reports, to the web.\nTo help drive conversions, we set an overarching UX goal for Origin’s new site: Empower investors by giving them easy access to critical information and expert guidance. We made the site more persuasive with copy that calls out the advantages Origin gives investors. And strong calls-to-action give prospects clear pathways to invest.\nVisit the site\nWe are changing the way people invest in real estate, which makes marketing a real challenge. To get more investors our brand needs to build immediate trust. JT and Matt quickly learned our business and how our target thinks, and helped us clearly communicate what we do and why we do it better. Because of their work we now have a brand and website that has helped us achieve triple digit growth in the last 18 months.\nMichael Episcope, Principal at Origin Investments",
-    "markdown": "# Origin Investments, by Heco\n\n##### In Collaboration With\n\nDigital Kitchen\n\n## Origin Investments is a private equity real estate investment firm that combines a best-in-class web platform with the expertise of skilled fund managers. We developed their brand strategy and visual identity, and helped launch their investment platform with a new marketing website and anthem film.  \n\n![Origin Investments Logo](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419156e29ff74437e9d3ce_origin-logo.jpg)\n\n![Branding Mood-board Director's Treatment](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419168e29ff74437e9d3ee_origin-directors.jpg)\n\nWe held workshops with stakeholders and investors to clarify Origin’s reason for being. That groundwork led to a new brand position based on true alignment with investors, as well as a bold new brand voice and persuasive new messaging.\n\n![Business Cards and Marketing](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841916ce29ff74437e9d3f0_origin-collateral.jpg)\n\n![Identity Branding Mood Board](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419165e29ff74437e9d3d1_origin-moodboard.jpg)\n\nThe Compass & Pin identity we created captures Origin’s hybrid approach to investing, where old-school street smarts meet new-school tech. The typeface and color palette we selected blend classic and modern, inspiring trust but signaling an innovative approach. A new infographic style makes their data easier to understand, and new photography guidelines make the brand feel genuine and approachable.  \n\n![Typography and Color](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419171e29ff74437e9d3f1_origin-type.jpg)\n\n![Branding Style Guide](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841917534f6093632abe87f_origin-styleguide.jpg)\n\nWe brought all the parts together with a set of tools that guide brand activation across touchpoints—from conference booths, to quarterly reports, to the web.  \n\n![Web Design Homepage](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841917b34f6093632abe884_origin-homepage.jpg)\n\n![Illustrations](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841917ee29ff74437e9d417_origin-icons.jpg)\n\nTo help drive conversions, we set an overarching UX goal for Origin’s new site: Empower investors by giving them easy access to critical information and expert guidance. We made the site more persuasive with copy that calls out the advantages Origin gives investors. And strong calls-to-action give prospects clear pathways to invest.  \n\n### [Visit the site](https://www.origininvestments.com/)\n\n![Web Design Detail](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419189e29ff74437e9d4ab_origin-snippet.jpg)\n\n![](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419192e29ff74437e9d4b0_origin-investments.jpg)\n\n> We are changing the way people invest in real estate, which makes marketing a real challenge. To get more investors our brand needs to build immediate trust. JT and Matt quickly learned our business and how our target thinks, and helped us clearly communicate what we do and why we do it better. Because of their work we now have a brand and website that has helped us achieve triple digit growth in the last 18 months.\n\n##### Michael Episcope, Principal at Origin Investments",
-    "competitorName": "Hello Heco"
-  },
-  {
     "url": "https://www.helloheco.com/project/the-black-sheep-agency",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/the-black-sheep-agency",
-      "loadedTime": "2025-04-26T16:06:47.182Z",
+      "loadedTime": "2025-04-26T17:44:54.828Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1406,7 +1338,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:06:22 GMT",
+        "date": "Sat, 26 Apr 2025 17:44:44 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1414,11 +1346,11 @@
         "x-lambda-id": "40c3b54d-f39e-4507-aa66-2c8a0147971f",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142431",
+        "age": "148333",
         "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936753b75eed81f4-IAD",
+        "cf-ray": "9367e3d06b2a5a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1429,10 +1361,80 @@
     "competitorName": "Hello Heco"
   },
   {
+    "url": "https://www.helloheco.com/project/origin-investments",
+    "crawl": {
+      "loadedUrl": "https://www.helloheco.com/project/origin-investments",
+      "loadedTime": "2025-04-26T17:45:05.942Z",
+      "referrerUrl": "https://www.helloheco.com/work",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.helloheco.com/project/origin-investments",
+      "title": "Origin Investments, by Heco",
+      "description": "Heco provided branding, copywriting, print design, UX design, web design for Origin Investments, a private equity real estate investment firm.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Origin Investments, by Heco"
+        },
+        {
+          "property": "og:description",
+          "content": "Heco provided branding, copywriting, print design, UX design, web design for Origin Investments, a private equity real estate investment firm."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f0055c9896a832c66d729_origin.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Origin Investments, by Heco"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Heco provided branding, copywriting, print design, UX design, web design for Origin Investments, a private equity real estate investment firm."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/583f0055c9896a832c66d729_origin.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 17:45:00 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "14bc93e7-392d-4723-b81c-e6c33a055316",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "5916",
+        "last-modified": "Sat, 26 Apr 2025 16:06:24 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "9367e43509e45a39-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Origin Investments, by Heco\nIn Collaboration With\nDigital Kitchen\nOrigin Investments is a private equity real estate investment firm that combines a best-in-class web platform with the expertise of skilled fund managers. We developed their brand strategy and visual identity, and helped launch their investment platform with a new marketing website and anthem film.\nWe held workshops with stakeholders and investors to clarify Origin’s reason for being. That groundwork led to a new brand position based on true alignment with investors, as well as a bold new brand voice and persuasive new messaging.\nThe Compass & Pin identity we created captures Origin’s hybrid approach to investing, where old-school street smarts meet new-school tech. The typeface and color palette we selected blend classic and modern, inspiring trust but signaling an innovative approach. A new infographic style makes their data easier to understand, and new photography guidelines make the brand feel genuine and approachable.\nWe brought all the parts together with a set of tools that guide brand activation across touchpoints—from conference booths, to quarterly reports, to the web.\nTo help drive conversions, we set an overarching UX goal for Origin’s new site: Empower investors by giving them easy access to critical information and expert guidance. We made the site more persuasive with copy that calls out the advantages Origin gives investors. And strong calls-to-action give prospects clear pathways to invest.\nVisit the site\nWe are changing the way people invest in real estate, which makes marketing a real challenge. To get more investors our brand needs to build immediate trust. JT and Matt quickly learned our business and how our target thinks, and helped us clearly communicate what we do and why we do it better. Because of their work we now have a brand and website that has helped us achieve triple digit growth in the last 18 months.\nMichael Episcope, Principal at Origin Investments",
+    "markdown": "# Origin Investments, by Heco\n\n##### In Collaboration With\n\nDigital Kitchen\n\n## Origin Investments is a private equity real estate investment firm that combines a best-in-class web platform with the expertise of skilled fund managers. We developed their brand strategy and visual identity, and helped launch their investment platform with a new marketing website and anthem film.  \n\n![Origin Investments Logo](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419156e29ff74437e9d3ce_origin-logo.jpg)\n\n![Branding Mood-board Director's Treatment](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419168e29ff74437e9d3ee_origin-directors.jpg)\n\nWe held workshops with stakeholders and investors to clarify Origin’s reason for being. That groundwork led to a new brand position based on true alignment with investors, as well as a bold new brand voice and persuasive new messaging.\n\n![Business Cards and Marketing](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841916ce29ff74437e9d3f0_origin-collateral.jpg)\n\n![Identity Branding Mood Board](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419165e29ff74437e9d3d1_origin-moodboard.jpg)\n\nThe Compass & Pin identity we created captures Origin’s hybrid approach to investing, where old-school street smarts meet new-school tech. The typeface and color palette we selected blend classic and modern, inspiring trust but signaling an innovative approach. A new infographic style makes their data easier to understand, and new photography guidelines make the brand feel genuine and approachable.  \n\n![Typography and Color](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419171e29ff74437e9d3f1_origin-type.jpg)\n\n![Branding Style Guide](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841917534f6093632abe87f_origin-styleguide.jpg)\n\nWe brought all the parts together with a set of tools that guide brand activation across touchpoints—from conference booths, to quarterly reports, to the web.  \n\n![Web Design Homepage](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841917b34f6093632abe884_origin-homepage.jpg)\n\n![Illustrations](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/5841917ee29ff74437e9d417_origin-icons.jpg)\n\nTo help drive conversions, we set an overarching UX goal for Origin’s new site: Empower investors by giving them easy access to critical information and expert guidance. We made the site more persuasive with copy that calls out the advantages Origin gives investors. And strong calls-to-action give prospects clear pathways to invest.  \n\n### [Visit the site](https://www.origininvestments.com/)\n\n![Web Design Detail](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419189e29ff74437e9d4ab_origin-snippet.jpg)\n\n![](https://cdn.prod.website-files.com/5825f89e8ad305816466d37f/58419192e29ff74437e9d4b0_origin-investments.jpg)\n\n> We are changing the way people invest in real estate, which makes marketing a real challenge. To get more investors our brand needs to build immediate trust. JT and Matt quickly learned our business and how our target thinks, and helped us clearly communicate what we do and why we do it better. Because of their work we now have a brand and website that has helped us achieve triple digit growth in the last 18 months.\n\n##### Michael Episcope, Principal at Origin Investments",
+    "competitorName": "Hello Heco"
+  },
+  {
     "url": "https://www.helloheco.com/project/world-without-exploitation",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/world-without-exploitation",
-      "loadedTime": "2025-04-26T16:06:56.977Z",
+      "loadedTime": "2025-04-26T17:45:15.821Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1476,7 +1478,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:06:52 GMT",
+        "date": "Sat, 26 Apr 2025 17:45:11 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1484,11 +1486,11 @@
         "x-lambda-id": "fa70aae0-679e-4b0d-a412-ffbe58314f2d",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142461",
+        "age": "148360",
         "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936754736a5d81f4-IAD",
+        "cf-ray": "9367e476adbf5a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1502,7 +1504,7 @@
     "url": "https://www.helloheco.com/project/avenir",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/avenir",
-      "loadedTime": "2025-04-26T16:07:09.190Z",
+      "loadedTime": "2025-04-26T17:45:27.537Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1546,7 +1548,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:07:02 GMT",
+        "date": "Sat, 26 Apr 2025 17:45:21 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1554,11 +1556,11 @@
         "x-lambda-id": "d39c4471-28eb-47a4-a91d-9b33f5b86a75",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "125305",
+        "age": "131204",
         "last-modified": "Fri, 25 Apr 2025 05:18:37 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936754b138e681f4-IAD",
+        "cf-ray": "9367e4b67f8e5a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1572,7 +1574,7 @@
     "url": "https://www.helloheco.com/project/museum-of-science-and-industry",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/museum-of-science-and-industry",
-      "loadedTime": "2025-04-26T16:07:25.097Z",
+      "loadedTime": "2025-04-26T17:45:43.884Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1616,7 +1618,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:07:14 GMT",
+        "date": "Sat, 26 Apr 2025 17:45:33 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1624,11 +1626,11 @@
         "x-lambda-id": "294d01bb-473d-428b-a6c3-1920d958dd25",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "142483",
+        "age": "148382",
         "last-modified": "Fri, 25 Apr 2025 00:32:31 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936754fd6bd581f4-IAD",
+        "cf-ray": "9367e4ff6a585a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -1642,7 +1644,7 @@
     "url": "https://www.helloheco.com/project/netcapital",
     "crawl": {
       "loadedUrl": "https://www.helloheco.com/project/netcapital",
-      "loadedTime": "2025-04-26T16:07:43.877Z",
+      "loadedTime": "2025-04-26T17:46:04.758Z",
       "referrerUrl": "https://www.helloheco.com/work",
       "depth": 2,
       "httpStatusCode": 200
@@ -1686,7 +1688,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 16:07:37 GMT",
+        "date": "Sat, 26 Apr 2025 17:45:56 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.helloheco.com 56d8a8f1100bc1bb7928eebd pageId:626808def39ba42d69f66fdf 626808def39ba4b108f67021 626808def39ba46a52f66ff2 626808def39ba445b8f66ff1 626808def39ba4df6bf6700c",
@@ -1694,11 +1696,11 @@
         "x-lambda-id": "860de37b-fd95-4f51-a689-45c70b3a24ba",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "166232",
+        "age": "172131",
         "last-modified": "Thu, 24 Apr 2025 17:57:05 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "9367558b1bd381f4-IAD",
+        "cf-ray": "9367e5931a465a39-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
