@@ -1,0 +1,42 @@
+{
+  "name": "competitor-blog-generator",
+  "version": "1.0.0",
+  "description": "Generate blog posts based on competitor intelligence",
+  "main": "dist/competitive-blog-generator-ts.js",
+  "bin": {
+    "blog-generator": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "add": "node dist/cli.js add-competitor",
+    "list": "node dist/cli.js list-competitors",
+    "crawl": "node dist/cli.js crawl",
+    "generate": "node dist/cli.js generate-blog"
+  },
+  "keywords": [
+    "langchain",
+    "blog",
+    "content-generation",
+    "competitive-intelligence",
+    "ai"
+  ],
+  "author": "Your Digital Agency",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/community": "^0.3.41",
+    "@langchain/core": "^0.3.49",
+    "@langchain/openai": "^0.5.7",
+    "apify-client": "^2.12.3",
+    "chromadb": "^2.3.0",
+    "commander": "^13.1.0",
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.6.0",
+    "langchain": "^0.3.24"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.15.2",
+    "typescript": "^5.8.3"
+  }
+}
