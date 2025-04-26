@@ -54,17 +54,47 @@ function initializeClients() {
  * Crawls competitor websites using Apify
  * @param competitors Array of competitor URLs and names
  * @param customCrawlPatterns Optional array of regex patterns to limit crawling to specific URL patterns
+ * @param debug Optional flag to enable debug mode
  * @returns JSON data from crawled sites
  */
 export async function crawlCompetitorSites(
   competitors: CompetitorData[],
-  customCrawlPatterns?: string[]
+  customCrawlPatterns?: string[],
+  debug: boolean = false
 ): Promise<Record<string, any>[]> {
   const { apifyClient } = initializeClients();
   const results: Record<string, any>[] = [];
 
+  // Debug logging function
+  const debugLog = (message: string) => {
+    if (debug) {
+      console.log(`[DEBUG] ${message}`);
+    }
+  };
+
+  debugLog('Starting crawl with the following configuration:');
+  debugLog(`Custom patterns: ${customCrawlPatterns ? JSON.stringify(customCrawlPatterns) : 'Using defaults'}`);
+
   for (const competitor of competitors) {
     console.log(`Crawling ${competitor.name} at ${competitor.url}`);
+
+    // Determine which patterns to use
+    const patterns = customCrawlPatterns || [
+      ".*\/blog.*",
+      ".*\/articles.*",
+      ".*\/news.*",
+      ".*\/insights.*",
+      ".*\/resources.*",
+      ".*\/designmind.*",
+      ".*\/stories.*",
+      ".*\/thoughts.*",
+      ".*\/thinking.*",
+      ".*\/journal.*",
+      ".*\/posts.*"
+    ];
+
+    debugLog(`Using the following patterns for ${competitor.name}:`);
+    patterns.forEach(pattern => debugLog(`- ${pattern}`));
 
     // Run the Apify crawler with blog-specific configuration
     const run = await apifyClient.actor("apify/website-content-crawler").call({
@@ -73,107 +103,34 @@ export async function crawlCompetitorSites(
       maxCrawlDepth: 3,  // Increased depth to better find blog content
       additionalMimeTypes: ["application/json", "text/plain"],
 
-      // Target blog-specific URL patterns or use custom patterns if provided
-      crawlPatterns: customCrawlPatterns || [
-        ".*\\/blog.*",
-        ".*\\/articles.*",
-        ".*\\/news.*",
-        ".*\\/insights.*",
-        ".*\\/resources.*",
-        ".*\\/designmind.*",
-        ".*\\/stories.*",
-        ".*\\/thoughts.*",
-        ".*\\/thinking.*",
-        ".*\\/journal.*",
-        ".*\\/posts.*"
-      ],
+      // Use the patterns we defined above
+      crawlPatterns: patterns,
 
-      // Limit crawling to only pages matching these patterns
+      // Strictly limit crawling to only pages matching these patterns
       limitCrawlPatterns: true,
 
-      // Specific link selector to prioritize navigation and blog content
-      linkSelector: "a[href]:not([href*='?']):not([href*='#']):not([href*='tel:']):not([href*='mailto:'])",
+      // Force respecting the crawl patterns
+      skipNavigation: false,
+      respectRobotsTxt: false, // Ignore robots.txt to ensure we can crawl all matching patterns
 
-      // Additional options for better content extraction
-      pageFunction: `async function pageFunction(context) {
-    const { request, log, html, $ } = context;
+      // Specific link selector to prioritize content links and avoid navigation/utility links
+      linkSelector: "a[href]:not([href*='?']):not([href*='#']):not([href*='tel:']):not([href*='mailto:']):not([href*='login']):not([href*='signin']):not([href*='signup']):not([href*='account']):not([href*='cart']):not([href*='checkout'])",
 
-    const url = request.url;
-    const title = $('title').text().trim() || $('h1').first().text().trim();
-
-    // Focus on extracting blog content
-    let content = '';
-
-    // Look for common blog content containers
-    const blogContainers = [
-      'article',
-      '.blog-post',
-      '.post-content',
-      '.entry-content',
-      '.article-body',
-      '.blog-content',
-      '.post',
-      'main'
-    ];
-
-    // Try each container selector until we find content
-    for (const container of blogContainers) {
-      const containerElement = $(container);
-      if (containerElement.length) {
-        content = containerElement.text().trim();
-        if (content) break;
-      }
-    }
-
-    // If no specific container worked, fall back to body content
-    if (!content) {
-      // Exclude navigation, footer, header, etc.
-      $('nav, header, footer, .navigation, .menu, .sidebar, .comments, script, style').remove();
-      content = $('body').text().trim();
-    }
-
-    // Look for publication date
-    let publishDate = null;
-    const dateSelectors = [
-      'meta[property="article:published_time"]',
-      'time',
-      '.published-date',
-      '.post-date',
-      '.date',
-      '.pubdate'
-    ];
-
-    for (const selector of dateSelectors) {
-      const dateElement = $(selector);
-      if (dateElement.length) {
-        // Try to get date from attribute first, then from text
-        publishDate = dateElement.attr('content') || dateElement.attr('datetime') || dateElement.text().trim();
-        if (publishDate) break;
-      }
-    }
-
-    // Extract tags/categories
-    const tags = [];
-    $('.tag, .category, .topics a, .tags a').each((i, el) => {
-      const tag = $(el).text().trim();
-      if (tag) tags.push(tag);
-    });
-
-    return {
-      url,
-      title,
-      content,
-      publishDate,
-      tags,
-      isArticle: true
-    };
-  }`
     });
     // Get and process the dataset
     const { items } = await apifyClient.dataset(run.defaultDatasetId).listItems({
       clean: true,
       limit: 999,
     });
+
+    debugLog(`Crawled ${items.length} pages for ${competitor.name}`);
+
+    if (debug && items.length > 0) {
+      debugLog('First 5 crawled URLs:');
+      items.slice(0, 5).forEach((item: any, index: number) => {
+        debugLog(`${index + 1}. ${item.url}`);
+      });
+    }
 
     // Add competitor name to each record and save to results
     items.forEach((item: any) => {
@@ -191,6 +148,22 @@ export async function crawlCompetitorSites(
       path.join(outputDir, `${competitor.name.replace(/\s+/g, '_')}.json`),
       JSON.stringify(items, null, 2)
     );
+  }
+
+  // Final debug summary
+  debugLog(`Crawl completed with ${results.length} total pages crawled across all competitors`);
+  if (debug && results.length > 0) {
+    // Count pages per competitor
+    const competitorCounts: Record<string, number> = {};
+    results.forEach((item: any) => {
+      const name = item.competitorName || 'Unknown';
+      competitorCounts[name] = (competitorCounts[name] || 0) + 1;
+    });
+
+    debugLog('Pages crawled per competitor:');
+    Object.entries(competitorCounts).forEach(([name, count]) => {
+      debugLog(`- ${name}: ${count} pages`);
+    });
   }
 
   return results;
@@ -386,8 +359,8 @@ export class CompetitorIntelligenceSystem {
   ) {
   }
 
-  async crawlCompetitorSites(competitors: CompetitorData[], customCrawlPatterns?: string[]): Promise<Record<string, any>[]> {
-    return crawlCompetitorSites(competitors, customCrawlPatterns);
+  async crawlCompetitorSites(competitors: CompetitorData[], customCrawlPatterns?: string[], debug: boolean = false): Promise<Record<string, any>[]> {
+    return crawlCompetitorSites(competitors, customCrawlPatterns, debug);
   }
 
   async loadWebsitesDirectly(urls: string[]): Promise<Document[]> {

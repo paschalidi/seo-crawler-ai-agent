@@ -3,7 +3,7 @@
     "url": "https://www.akeo.com/",
     "crawl": {
       "loadedUrl": "https://www.akeo.com/",
-      "loadedTime": "2025-04-26T15:53:42.205Z",
+      "loadedTime": "2025-04-26T16:37:49.211Z",
       "referrerUrl": "https://www.akeo.com/",
       "depth": 0,
       "httpStatusCode": 200
@@ -59,11 +59,11 @@
         }
       ],
       "headers": {
-        "date": "Sat, 26 Apr 2025 15:53:34 GMT",
+        "date": "Sat, 26 Apr 2025 16:37:35 GMT",
         "content-type": "text/html",
-        "cf-ray": "936740f8edde81b8-IAD",
+        "cf-ray": "93678172b846d46d-IAD",
         "cf-cache-status": "HIT",
-        "age": "338680",
+        "age": "341321",
         "content-encoding": "gzip",
         "last-modified": "Tue, 22 Apr 2025 17:48:54 GMT",
         "strict-transport-security": "max-age=31536000",
@@ -71,7 +71,7 @@
         "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b935a25c80d75 63a1715aa97b93c7f9c80d71",
         "x-lambda-id": "605b24fd-47fa-4d72-b71f-9f46f1dcf56c",
         "vary": "Accept-Encoding",
-        "set-cookie": "_cfuvid=izZZIO9wB_pOm8WIOVHybLSgps80E9jSbP0OE09QkBU-1745682814929-0.0.1.1-604800000; path=/; domain=.www.akeo.com; HttpOnly; Secure; SameSite=None",
+        "set-cookie": "_cfuvid=vqffgQiSagqwajL3AYxJDwsCtx7wO.ustlbJ8IYqNsY-1745685455828-0.0.1.1-604800000; path=/; domain=.www.akeo.com; HttpOnly; Secure; SameSite=None",
         "server": "cloudflare",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
@@ -83,10 +83,68 @@
     "competitorName": "Akeo"
   },
   {
+    "url": "https://www.akeo.com/our-services",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/our-services",
+      "loadedTime": "2025-04-26T16:38:43.750Z",
+      "referrerUrl": "https://www.akeo.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/our-services",
+      "title": "Our Services",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Our Services"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6391a6f749636958e869e41b_Services.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Our Services"
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6391a6f749636958e869e41b_Services.jpg"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:38:08 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b932b3ac80d8a",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "3494d5a4-73fd-4745-8d5f-c56cab4cabb9",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "172538",
+        "last-modified": "Thu, 24 Apr 2025 16:42:30 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "9367823e7fc7083f-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Our Services\n01\nStrategy\nOur approach to design and development centers around a human and outcome-centric approach that balances the business goals of our clients and the needs of their consumers and end-users.We understand the importance of intersecting corporate strategy with design thinking and translating strategic vision and objectives into feasible and meaningful solutions.Our teams possess a holistic mindset and a knack for asking the right questions to solve the correct problems. We dive deep into the business domains of our clients and emerge with creative substance to craft new ideas or evolve existing brands, products, and experiences.\nProduct & Service strategy\n02\nBranding\nHuman-centric design is in our DNA. Our team ensures your narrative is articulated consistently across physical and digital touchpoints to strengthen your brand’s image in the audience's mind and leave lasting and impactful impressions that foster emotional and meaningful connections.\n03\nDigital Products\nAkeo designs and builds digital products across various industries, market niches, and use cases. We explore the spectrum of various mediums in the context of your business goals, and customer needs to deliver products that will have a lasting and transformative impact. Our cross-functional team will explore and analyze all the facets of the problems and pain points you are trying to solve to develop unique designs and cohesive stories that formulate and deliver solutions to the market.\nPrototyping and click dummies\nCustomer eXperience design\n04\nEnd-to-End\nDevelopment\nAkeo has successfully balanced the delicate and daunting quality of creative and technical expertise integrated into the same company. This has provided us with leverage and the unfair advantage of providing end-to-end solutions across a wide array of industries, markets, and use cases. The versatility and experience of our teams make Akeo your ideal partner to meet any challenge head-on in the digital environment.\nIntegration with other systems (ERP, CRM)\nOUR PROCESS\nHigh Velocity\nAs fast as 12 weeks from start to finish.\nProven\nFinely tuned from over a decade of building products in diverse industries.\nEgo-free\nYour business matters to us as much as our own.\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\nHANDPICKED\nCREAM OF\nTHE CROP\nSay hi or start a new project!",
+    "markdown": "# Our Services\n\n01\n\n### Strategy\n\nOur approach to design and development centers around a human and outcome-centric approach that balances the business goals of our clients and the needs of their consumers and end-users.We understand the importance of intersecting corporate strategy with design thinking and translating strategic vision and objectives into feasible and meaningful solutions.Our teams possess a holistic mindset and a knack for asking the right questions to solve the correct problems. We dive deep into the business domains of our clients and emerge with creative substance to craft new ideas or evolve existing brands, products, and experiences.\n\nProduct & Service strategy\n\n02\n\n### Branding\n\nHuman-centric design is in our DNA. Our team ensures your narrative is articulated consistently across physical and digital touchpoints to strengthen your brand’s image in the audience's mind and leave lasting and impactful impressions that foster emotional and meaningful connections.\n\n03\n\n### Digital Products\n\nAkeo designs and builds digital products across various industries, market niches, and use cases. We explore the spectrum of various mediums in the context of your business goals, and customer needs to deliver products that will have a lasting and transformative impact. Our cross-functional team will explore and analyze all the facets of the problems and pain points you are trying to solve to develop unique designs and cohesive stories that formulate and deliver solutions to the market.\n\nPrototyping and click dummies\n\nCustomer eXperience design\n\n04\n\n### **End-to-End  \nDevelopment**\n\nAkeo has successfully balanced the delicate and daunting quality of creative and technical expertise integrated into the same company. This has provided us with leverage and the unfair advantage of providing end-to-end solutions across a wide array of industries, markets, and use cases. The versatility and experience of our teams make Akeo your ideal partner to meet any challenge head-on in the digital environment.\n\nIntegration with other systems (ERP, CRM)\n\n### OUR PROCESS\n\n![scrubble2](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63555721256a8d069e667beb_scrubble3.webp)\n\n#### High Velocity\n\nAs fast as 12 weeks from start to finish.\n\n![scrubble3](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63555721738f5f924368ab78_scrubble2.webp)\n\n#### Proven\n\nFinely tuned from over a decade of building products in diverse industries.\n\n![scrubble1](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63555721d7638ba13daa331a_scrubble1.webp)\n\n#### Ego-free\n\nYour business matters to us as much as our own.\n\n[\n\n![grey arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63565216738f5f732d733771_Arrow-down-grey.png)![white arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/635653d9c396aed10056ab5f_Arrow-down-white.png)\n\n](#)\n\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\n\n[\n\n![grey arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63565216738f5f732d733771_Arrow-down-grey.png)![white arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/635653d9c396aed10056ab5f_Arrow-down-white.png)\n\n](#)\n\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\n\n[\n\n![grey arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63565216738f5f732d733771_Arrow-down-grey.png)![white arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/635653d9c396aed10056ab5f_Arrow-down-white.png)\n\n](#)\n\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\n\nHANDPICKED\n\n## CREAM OF  \n\n## THE CROP\n\nSay hi or start a new project!",
+    "competitorName": "Akeo"
+  },
+  {
     "url": "https://www.akeo.com/about-us",
     "crawl": {
       "loadedUrl": "https://www.akeo.com/about-us",
-      "loadedTime": "2025-04-26T15:54:10.201Z",
+      "loadedTime": "2025-04-26T16:38:42.465Z",
       "referrerUrl": "https://www.akeo.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -130,7 +188,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 15:53:55 GMT",
+        "date": "Sat, 26 Apr 2025 16:38:08 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b933a5fc80d7b 63a1715aa97b9357f4c80d72 63a1715aa97b93d3a4c80d70",
@@ -138,11 +196,11 @@
         "x-lambda-id": "c23fb0cb-fbe6-4712-b5f9-8d3cf4f5c619",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "167504",
+        "age": "170157",
         "last-modified": "Thu, 24 Apr 2025 17:22:11 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "93674176ec8c81b8-IAD",
+        "cf-ray": "936782403964083f-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -153,17 +211,17 @@
     "competitorName": "Akeo"
   },
   {
-    "url": "https://www.akeo.com/our-services",
+    "url": "https://www.akeo.com/careers",
     "crawl": {
-      "loadedUrl": "https://www.akeo.com/our-services",
-      "loadedTime": "2025-04-26T15:54:11.614Z",
+      "loadedUrl": "https://www.akeo.com/careers",
+      "loadedTime": "2025-04-26T16:39:13.070Z",
       "referrerUrl": "https://www.akeo.com/",
       "depth": 1,
       "httpStatusCode": 200
     },
     "metadata": {
-      "canonicalUrl": "https://www.akeo.com/our-services",
-      "title": "Our Services",
+      "canonicalUrl": "https://www.akeo.com/careers",
+      "title": "Careers",
       "description": null,
       "author": null,
       "keywords": null,
@@ -171,90 +229,237 @@
       "openGraph": [
         {
           "property": "og:title",
-          "content": "Our Services"
+          "content": "Careers"
         },
         {
           "property": "og:image",
-          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6391a6f749636958e869e41b_Services.jpg"
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6391a6f74f28360ea5dcef5e_Careers.jpg"
         },
         {
           "property": "twitter:title",
-          "content": "Our Services"
+          "content": "Careers"
         },
         {
           "property": "twitter:image",
-          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6391a6f749636958e869e41b_Services.jpg"
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6391a6f74f28360ea5dcef5e_Careers.jpg"
         }
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 15:53:54 GMT",
+        "date": "Sat, 26 Apr 2025 16:39:08 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
-        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b932b3ac80d8a",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b930763c80d7d 63a1715aa97b93d3a4c80d70",
         "surrogate-control": "max-age=432000",
-        "x-lambda-id": "3494d5a4-73fd-4745-8d5f-c56cab4cabb9",
+        "x-lambda-id": "2ddbf475-6222-4747-93e6-16b50b72b15f",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "169884",
-        "last-modified": "Thu, 24 Apr 2025 16:42:30 GMT",
+        "age": "147209",
+        "last-modified": "Thu, 24 Apr 2025 23:45:39 GMT",
         "vary": "Accept-Encoding",
+        "set-cookie": "_cfuvid=EeOkyCmQVcQbGVrKX4TgBITevSSPoNkHFybZj80WZ6k-1745685548844-0.0.1.1-604800000; path=/; domain=.www.akeo.com; HttpOnly; Secure; SameSite=None",
         "server": "cloudflare",
-        "cf-ray": "93674173b8be81b8-IAD",
+        "cf-ray": "936783b81dc9e5b6-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
     },
     "screenshotUrl": null,
-    "text": "Our Services\n01\nStrategy\nOur approach to design and development centers around a human and outcome-centric approach that balances the business goals of our clients and the needs of their consumers and end-users.We understand the importance of intersecting corporate strategy with design thinking and translating strategic vision and objectives into feasible and meaningful solutions.Our teams possess a holistic mindset and a knack for asking the right questions to solve the correct problems. We dive deep into the business domains of our clients and emerge with creative substance to craft new ideas or evolve existing brands, products, and experiences.\nProduct & Service strategy\n02\nBranding\nHuman-centric design is in our DNA. Our team ensures your narrative is articulated consistently across physical and digital touchpoints to strengthen your brand’s image in the audience's mind and leave lasting and impactful impressions that foster emotional and meaningful connections.\n03\nDigital Products\nAkeo designs and builds digital products across various industries, market niches, and use cases. We explore the spectrum of various mediums in the context of your business goals, and customer needs to deliver products that will have a lasting and transformative impact. Our cross-functional team will explore and analyze all the facets of the problems and pain points you are trying to solve to develop unique designs and cohesive stories that formulate and deliver solutions to the market.\nPrototyping and click dummies\nCustomer eXperience design\n04\nEnd-to-End\nDevelopment\nAkeo has successfully balanced the delicate and daunting quality of creative and technical expertise integrated into the same company. This has provided us with leverage and the unfair advantage of providing end-to-end solutions across a wide array of industries, markets, and use cases. The versatility and experience of our teams make Akeo your ideal partner to meet any challenge head-on in the digital environment.\nIntegration with other systems (ERP, CRM)\nOUR PROCESS\nHigh Velocity\nAs fast as 12 weeks from start to finish.\nProven\nFinely tuned from over a decade of building products in diverse industries.\nEgo-free\nYour business matters to us as much as our own.\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\nHANDPICKED\nCREAM OF\nTHE CROP\nSay hi or start a new project!",
-    "markdown": "# Our Services\n\n01\n\n### Strategy\n\nOur approach to design and development centers around a human and outcome-centric approach that balances the business goals of our clients and the needs of their consumers and end-users.We understand the importance of intersecting corporate strategy with design thinking and translating strategic vision and objectives into feasible and meaningful solutions.Our teams possess a holistic mindset and a knack for asking the right questions to solve the correct problems. We dive deep into the business domains of our clients and emerge with creative substance to craft new ideas or evolve existing brands, products, and experiences.\n\nProduct & Service strategy\n\n02\n\n### Branding\n\nHuman-centric design is in our DNA. Our team ensures your narrative is articulated consistently across physical and digital touchpoints to strengthen your brand’s image in the audience's mind and leave lasting and impactful impressions that foster emotional and meaningful connections.\n\n03\n\n### Digital Products\n\nAkeo designs and builds digital products across various industries, market niches, and use cases. We explore the spectrum of various mediums in the context of your business goals, and customer needs to deliver products that will have a lasting and transformative impact. Our cross-functional team will explore and analyze all the facets of the problems and pain points you are trying to solve to develop unique designs and cohesive stories that formulate and deliver solutions to the market.\n\nPrototyping and click dummies\n\nCustomer eXperience design\n\n04\n\n### **End-to-End  \nDevelopment**\n\nAkeo has successfully balanced the delicate and daunting quality of creative and technical expertise integrated into the same company. This has provided us with leverage and the unfair advantage of providing end-to-end solutions across a wide array of industries, markets, and use cases. The versatility and experience of our teams make Akeo your ideal partner to meet any challenge head-on in the digital environment.\n\nIntegration with other systems (ERP, CRM)\n\n### OUR PROCESS\n\n![scrubble2](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63555721256a8d069e667beb_scrubble3.webp)\n\n#### High Velocity\n\nAs fast as 12 weeks from start to finish.\n\n![scrubble3](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63555721738f5f924368ab78_scrubble2.webp)\n\n#### Proven\n\nFinely tuned from over a decade of building products in diverse industries.\n\n![scrubble1](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63555721d7638ba13daa331a_scrubble1.webp)\n\n#### Ego-free\n\nYour business matters to us as much as our own.\n\n[\n\n![grey arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63565216738f5f732d733771_Arrow-down-grey.png)![white arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/635653d9c396aed10056ab5f_Arrow-down-white.png)\n\n](#)\n\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\n\n[\n\n![grey arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63565216738f5f732d733771_Arrow-down-grey.png)![white arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/635653d9c396aed10056ab5f_Arrow-down-white.png)\n\n](#)\n\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\n\n[\n\n![grey arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63565216738f5f732d733771_Arrow-down-grey.png)![white arrow down](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/635653d9c396aed10056ab5f_Arrow-down-white.png)\n\n](#)\n\nYou may have a clear vision of what the ultimate end goal is for your organisation. But how to get there? We turn meticulous research and data-driven insights into robust, actionable strategies which have a logical, reachable and measurable destination.\n\nHANDPICKED\n\n## CREAM OF  \n\n## THE CROP\n\nSay hi or start a new project!",
+    "text": "Careers\n01\nTrue Partners\nTrue partners create relationships that go beyond monotonous online meetings. Our employees are ready to travel to clients' offices and work face-to-face to ensure we are heading in the same direction. High-intensity workshops and product explorations lead to exceptional solutions that may have never surfaced otherwise.\n03\nCross-Office Collaboration\nCreativity is a group process, and when people with unique skill sets and viewpoints collaborate, creativity thrives. Moreover, learning from members with different motives and strengths broadens everyone’s perspective and boosts problem-solving skills. We encourage our employees to work side-by-side with their cross-office teammates to develop unique and innovative solutions and further strengthen our relationship.\n05\nModern Environment\nWe ensure our employees' well-being by creating an inspirational atmosphere and pleasant environment. Modern office and high-quality equipment provide our team with the tools they need to perform their jobs efficiently. On top of that, our employees have the latest software available to showcase their skills and acquire new ones.\n02\nA Culture of Learning\nWe love seeing our team grow both professionally and personally. Investing in employee development is more than just upskilling employees with technical skills. Focusing on skills like effective communication, adaptability, and teamwork helps prime employees for whatever changes come their way. We appreciate our team's eagerness to learn and grow by supporting them with a personal, educational budget.\n04\nPet-friendly workplace\nA friendly and welcoming company culture speaks a lot about who we are. Our primary consideration is to embrace a healthy lifestyle. Pets create a cozy and comfortable environment that makes our employees counterbalance work and personal life. The positive mentality that our employees develop by being around the pets in the office significantly improves their general performance.\n06\nFlexibility\nIn Akeo, it's all about flexibility - whether flexible working hours or workplace. We value a healthy work-life balance and care for our team's well-being. Our employees have the freedom to choose when and where they'll work, boosting creativity and efficiency to another level. Flexibility in work additionally increases the autonomy of each individual, making them feel trusted and allowing them to work the way that is most conducive to their own best performance.\n01\nTrue Partners\nTrue partners create relationships that go beyond monotonous online meetings. Our employees are ready to travel to clients' offices and work face-to-face to ensure we are heading in the same direction. High-intensity workshops and product explorations lead to exceptional solutions that may have never surfaced otherwise.\n02\nA Culture of Learning\nWe love seeing our team grow both professionally and personally. Investing in employee development is more than just upskilling employees with technical skills. Focusing on skills like effective communication, adaptability, and teamwork helps prime employees for whatever changes come their way. We appreciate our team's eagerness to learn and grow by supporting them with a personal, educational budget.\n03\nCross-Office Collaboration\nCreativity is a group process, and when people with unique skill sets and viewpoints collaborate, creativity thrives. Moreover, learning from members with different motives and strengths broadens everyone’s perspective and boosts problem-solving skills. We encourage our employees to work side-by-side with their cross-office teammates to develop unique and innovative solutions and further strengthen our relationship.\n04\nPet-friendly workplace\nA friendly and welcoming company culture speaks a lot about who we are. Our primary consideration is to embrace a healthy lifestyle. Pets create a cozy and comfortable environment that makes our employees counterbalance work and personal life. The positive mentality that our employees develop by being around the pets in the office significantly improves their general performance.\n05\nModern Environment\nWe ensure our employees' well-being by creating an inspirational atmosphere and pleasant environment. Modern office and high-quality equipment provide our team with the tools they need to perform their jobs efficiently. On top of that, our employees have the latest software available to showcase their skills and acquire new ones.\n06\nFlexibility\nIn Akeo, it's all about flexibility - whether flexible working hours or workplace. We value a healthy work-life balance and care for our team's well-being. Our employees have the freedom to choose when and where they'll work, boosting creativity and efficiency to another level. Flexibility in work additionally increases the autonomy of each individual, making them feel trusted and allowing them to work the way that is most conducive to their own best performance.",
+    "markdown": "# Careers\n\n01\n\n### True Partners\n\nTrue partners create relationships that go beyond monotonous online meetings. Our employees are ready to travel to clients' offices and work face-to-face to ensure we are heading in the same direction. High-intensity workshops and product explorations lead to exceptional solutions that may have never surfaced otherwise.\n\n03\n\n### Cross-Office Collaboration\n\nCreativity is a group process, and when people with unique skill sets and viewpoints collaborate, creativity thrives. Moreover, learning from members with different motives and strengths broadens everyone’s perspective and boosts problem-solving skills. We encourage our employees to work side-by-side with their cross-office teammates to develop unique and innovative solutions and further strengthen our relationship.\n\n05\n\n### Modern Environment\n\nWe ensure our employees' well-being by creating an inspirational atmosphere and pleasant environment. Modern office and high-quality equipment provide our team with the tools they need to perform their jobs efficiently. On top of that, our employees have the latest software available to showcase their skills and acquire new ones.\n\n02\n\n### A Culture of Learning\n\nWe love seeing our team grow both professionally and personally. Investing in employee development is more than just upskilling employees with technical skills. Focusing on skills like effective communication, adaptability, and teamwork helps prime employees for whatever changes come their way. We appreciate our team's eagerness to learn and grow by supporting them with a personal, educational budget.\n\n04\n\n### Pet-friendly workplace\n\nA friendly and welcoming company culture speaks a lot about who we are. Our primary consideration is to embrace a healthy lifestyle. Pets create a cozy and comfortable environment that makes our employees counterbalance work and personal life. The positive mentality that our employees develop by being around the pets in the office significantly improves their general performance.\n\n06\n\n### Flexibility\n\nIn Akeo, it's all about flexibility - whether flexible working hours or workplace. We value a healthy work-life balance and care for our team's well-being. Our employees have the freedom to choose when and where they'll work, boosting creativity and efficiency to another level. Flexibility in work additionally increases the autonomy of each individual, making them feel trusted and allowing them to work the way that is most conducive to their own best performance.\n\n01\n\n### True Partners\n\nTrue partners create relationships that go beyond monotonous online meetings. Our employees are ready to travel to clients' offices and work face-to-face to ensure we are heading in the same direction. High-intensity workshops and product explorations lead to exceptional solutions that may have never surfaced otherwise.\n\n02\n\n### A Culture of Learning\n\nWe love seeing our team grow both professionally and personally. Investing in employee development is more than just upskilling employees with technical skills. Focusing on skills like effective communication, adaptability, and teamwork helps prime employees for whatever changes come their way. We appreciate our team's eagerness to learn and grow by supporting them with a personal, educational budget.\n\n03\n\n### Cross-Office Collaboration\n\nCreativity is a group process, and when people with unique skill sets and viewpoints collaborate, creativity thrives. Moreover, learning from members with different motives and strengths broadens everyone’s perspective and boosts problem-solving skills. We encourage our employees to work side-by-side with their cross-office teammates to develop unique and innovative solutions and further strengthen our relationship.\n\n04\n\n### Pet-friendly workplace\n\nA friendly and welcoming company culture speaks a lot about who we are. Our primary consideration is to embrace a healthy lifestyle. Pets create a cozy and comfortable environment that makes our employees counterbalance work and personal life. The positive mentality that our employees develop by being around the pets in the office significantly improves their general performance.\n\n05\n\n### Modern Environment\n\nWe ensure our employees' well-being by creating an inspirational atmosphere and pleasant environment. Modern office and high-quality equipment provide our team with the tools they need to perform their jobs efficiently. On top of that, our employees have the latest software available to showcase their skills and acquire new ones.\n\n06\n\n### Flexibility\n\nIn Akeo, it's all about flexibility - whether flexible working hours or workplace. We value a healthy work-life balance and care for our team's well-being. Our employees have the freedom to choose when and where they'll work, boosting creativity and efficiency to another level. Flexibility in work additionally increases the autonomy of each individual, making them feel trusted and allowing them to work the way that is most conducive to their own best performance.",
     "competitorName": "Akeo"
   },
   {
-    "url": "https://www.akeo.com/akeo-job-positions/senior-designer",
+    "url": "https://www.akeo.com/contact",
     "crawl": {
-      "loadedUrl": "https://www.akeo.com/akeo-job-positions/senior-designer",
-      "loadedTime": "2025-04-26T15:56:11.490Z",
-      "referrerUrl": "https://www.akeo.com/about-us",
-      "depth": 2,
+      "loadedUrl": "https://www.akeo.com/contact",
+      "loadedTime": "2025-04-26T16:39:28.547Z",
+      "referrerUrl": "https://www.akeo.com/",
+      "depth": 1,
       "httpStatusCode": 200
     },
     "metadata": {
-      "canonicalUrl": "https://www.akeo.com/akeo-job-positions/senior-designer",
-      "title": "senior-designer",
+      "canonicalUrl": "https://www.akeo.com/contact",
+      "title": "Contact",
       "description": null,
       "author": null,
       "keywords": null,
       "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Contact"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a948efb9e9ea4fc981d_Contact-1.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Contact"
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a948efb9e9ea4fc981d_Contact-1.jpg"
+        }
+      ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 15:55:33 GMT",
+        "date": "Sat, 26 Apr 2025 16:39:26 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
-        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b932054c80d80 63a1715aa97b93d3a4c80d70",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b93e0bac80d7f",
         "surrogate-control": "max-age=432000",
-        "x-lambda-id": "7d90b3ba-791f-4f9a-9cbc-4ad40ddd5ba0",
+        "x-lambda-id": "8617d130-e180-4980-aebd-39eca238d01e",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "144595",
-        "last-modified": "Thu, 24 Apr 2025 23:45:38 GMT",
+        "age": "179954",
+        "last-modified": "Thu, 24 Apr 2025 14:40:12 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936743de0ecc6fe6-IAD",
+        "cf-ray": "936784274a9fe5b6-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
     },
     "screenshotUrl": null,
-    "text": "senior-designer\nWe're seeking a dynamic and talented Mid/Senior digital designer to join our vibrant interdisciplinary team. We value individuals who excel in both UX and UI, demonstrating strong visual design skills. We’re looking for a proactive problem solver with strong communication skills, who thrives in fast-paced collaboration and is always eager to learn and embrace new challenges.\nShort Summary\n‍\n🕛 Full-time position\n🏝️ Fully Remote (but you can work from our Serbian or Slovenian office)\n🌟 Minimum 3+ years of digital design experience\n🇬🇧 Native or Professional English is a must\n🤑 Salary will be assessed according to your location and relevant experience\nKey Responsibilities:\nDevelop a deep understanding of user and business goals to inform design strategy.\nTackle complex design challenges and provide creative solutions that balance user needs, business objectives, and technical constraints.\nConduct user research to understand user needs, behaviors, and pain points. Analyze data and feedback to inform design decisions.\nCreate wireframes, user flows, and interactive prototypes to visualize and communicate design concepts. Iterate on designs based on feedback and user testing.\nFluent with design systems and the ability to establish them from scratch\nDevelop innovative high-fidelity UX/UI/Interaction/Print designs that adhere to brand guidelines and design systems. Ensure consistency across all customer touchpoints.\nPlan and conduct usability testing sessions to gather feedback and validate design decisions. Use insights to refine and enhance the user experience.\nAbility to take ownership of projects and influence decision-making.\nWork closely with cross-functional teams, including product managers, engineers, and other designers.\nEstablishing design systems from scratch\nWhat You Will Need\nProficient in industry-standard design tools (Figma, e.g., Adobe Creative Suite, Google Workspace, Slack).\nStrong understanding of web design principles, user experience (UX), and user interface (UI) design.\nA solid foundation in visual design theory encompassing composition, color theory, and typography is highly valued at Akeo. We prioritize attitude over existing skills, recognizing the dynamic nature of our field. Adaptability is key, and we are open to exploring new processes that enhance productivity, efficiency, and overall satisfaction.\nYou have a minimum of 3 years of experience delivering exceptional interaction design for web and mobile platforms within startups, studios, or agencies, significantly influencing brand direction.\nA strong command of design processes, methodologies, and principles, reflecting your passion for the art of design. Your focus on user experience and information architecture is a key asset.\nYour portfolio should demonstrate a mastery of crafting beautiful, usable experiences across various devices and contexts.\nBIG PLUS: Experience with animation tools such as Figma Prototype/After Effects/Rive and experience with 3D.\nWhat we offer\nHigh-end creative projects to work on!\nBasic gross salary that depends on your experience, knowledge, talent, and agreement.\nUp to 30% variable personal monthly reward for results above expectations.\nPermanent employment with a trial period of 3 months.\nOur standard workweek consists of 40 hours. Our agency operates between 9 am and 6 pm CET.\nUnlock the chance for personal growth, increased ownership, and skill enhancement.\nCooperation with international teams.\nPossibility to visit and work from our Slovenian/Serbian office.\nBenefit from a training budget to pursue your interests, and count on our continuous support for your personal growth.\nHiring process @Akeo\nYour application will be pre-selected based on your experiences, roles in specific projects, and skills.\nYou'll have a video call with the Akeo design lead, where you'll present a detailed look at one of your projects. Choose a project, tell us about your collaborators, the tools you used, and any challenges you encountered.\nShort intro call w/ Akeo leadership.\nWelcome to the team.\nPlease include a link to your portfolio showcasing relevant work samples. A portfolio submission is mandatory for consideration of your application.\nCheers! 🍻\n‍\n‍\nAkeo is a team of multidisciplinary digital product experts specialized in Web Design, Branding, and Product Design. We extend the design, development, and marketing departments of international clients. With an insight-based approach and an emphasis on digital experiences, we partner with brands and deliver them side-to-side customized solutions and services. We craft communication, identity, strategies, and commerce by continually merging aesthetics with purpose.",
-    "markdown": "# senior-designer\n\nWe're seeking a dynamic and talented Mid/Senior digital designer to join our vibrant interdisciplinary team. We value individuals who excel in both UX and UI, demonstrating strong visual design skills. We’re looking for a proactive problem solver with strong communication skills, who thrives in fast-paced collaboration and is always eager to learn and embrace new challenges.\n\n**Short Summary  \n‍**\n\n🕛 Full-time position\n\n🏝️ Fully Remote (but you can work from our Serbian or Slovenian office)\n\n🌟 Minimum 3+ years of digital design experience\n\n🇬🇧 Native or Professional English is a must\n\n🤑 Salary will be assessed according to your location and relevant experience  \n\n**Key Responsibilities:**  \n\n*   Develop a deep understanding of user and business goals to inform design strategy.\n*   Tackle complex design challenges and provide creative solutions that balance user needs, business objectives, and technical constraints.\n*   Conduct user research to understand user needs, behaviors, and pain points. Analyze data and feedback to inform design decisions.\n*   Create wireframes, user flows, and interactive prototypes to visualize and communicate design concepts. Iterate on designs based on feedback and user testing.\n*   Fluent with design systems and the ability to establish them from scratch\n*   Develop innovative high-fidelity UX/UI/Interaction/Print designs that adhere to brand guidelines and design systems. Ensure consistency across all customer touchpoints.\n*   Plan and conduct usability testing sessions to gather feedback and validate design decisions. Use insights to refine and enhance the user experience.\n*   Ability to take ownership of projects and influence decision-making.\n*   Work closely with cross-functional teams, including product managers, engineers, and other designers.\n*   Establishing design systems from scratch\n\n**What You Will Need**  \n\n*   Proficient in industry-standard design tools (Figma, e.g., Adobe Creative Suite, Google Workspace, Slack).\n*   Strong understanding of web design principles, user experience (UX), and user interface (UI) design.\n*   A solid foundation in visual design theory encompassing composition, color theory, and typography is highly valued at Akeo. We prioritize attitude over existing skills, recognizing the dynamic nature of our field. Adaptability is key, and we are open to exploring new processes that enhance productivity, efficiency, and overall satisfaction.\n*   You have a minimum of 3 years of experience delivering exceptional interaction design for web and mobile platforms within startups, studios, or agencies, significantly influencing brand direction.\n*   A strong command of design processes, methodologies, and principles, reflecting your passion for the art of design. Your focus on user experience and information architecture is a key asset.\n*   Your portfolio should demonstrate a mastery of crafting beautiful, usable experiences across various devices and contexts.\n*   **BIG PLUS: Experience with animation tools such as Figma Prototype/After Effects/Rive and experience with 3D.**\n\n**What we offer**  \n\n*   High-end creative projects to work on!\n*   Basic gross salary that depends on your experience, knowledge, talent, and agreement.\n*   Up to 30% variable personal monthly reward for results above expectations.\n*   Permanent employment with a trial period of 3 months.\n*   Our standard workweek consists of 40 hours. Our agency operates between 9 am and 6 pm CET.\n*   Unlock the chance for personal growth, increased ownership, and skill enhancement.\n*   Cooperation with international teams.\n*   Possibility to visit and work from our Slovenian/Serbian office.\n*   Benefit from a training budget to pursue your interests, and count on our continuous support for your personal growth.\n\n**Hiring process @Akeo**  \n\n*   Your application will be pre-selected based on your experiences, roles in specific projects, and skills.\n*   You'll have a video call with the Akeo design lead, where you'll present a detailed look at one of your projects. Choose a project, tell us about your collaborators, the tools you used, and any challenges you encountered.\n*   Short intro call w/ Akeo leadership.\n*   Welcome to the team.\n\n**Please include a link to your portfolio showcasing relevant work samples. A portfolio submission is mandatory for consideration of your application.  \nCheers! 🍻**\n\n**‍**\n\n‍  \n\nAkeo is a team of multidisciplinary digital product experts specialized in Web Design, Branding, and Product Design. We extend the design, development, and marketing departments of international clients. With an insight-based approach and an emphasis on digital experiences, we partner with brands and deliver them side-to-side customized solutions and services. We craft communication, identity, strategies, and commerce by continually merging aesthetics with purpose.",
+    "text": "Contact\nPlease turn your device on portrait mode for better user experience",
+    "markdown": "# Contact\n\nPlease turn your device on portrait mode for better user experience",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/tiska",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/tiska",
+      "loadedTime": "2025-04-26T16:39:35.858Z",
+      "referrerUrl": "https://www.akeo.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/tiska",
+      "title": "Tiska",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Tiska"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0c66acb0c4f74865f8_Tiska-1.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Tiska"
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0c66acb0c4f74865f8_Tiska-1.jpg"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:39:33 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b93d629c80d90",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "c24f45d4-6fd1-40e5-b98b-0c463420211c",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "170239",
+        "last-modified": "Thu, 24 Apr 2025 17:22:14 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "93678454ed24e5b6-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Tiska\nTiska is a print-on-demand website run and managed by Tekstina, offering roll2roll printing services for a sewist, crafters, do-it-yourselfers, hobbyists, and all other creatives who like to make and create.\n‍\nWe focused on organizing an ever-expanding range of fabrics in a systematic order, accentuating the impeccable quality of fabrics, and guiding users throughout the exploration phase with inspiring designs. That way, we managed to reach a like-minded goal with Tekstina and land the beginning of an exciting journey for all of Tiska’s users.",
+    "markdown": "# Tiska\n\nTiska is a print-on-demand website run and managed by Tekstina, offering roll2roll printing services for a sewist, crafters, do-it-yourselfers, hobbyists, and all other creatives who like to make and create.\n\n‍\n\nWe focused on organizing an ever-expanding range of fabrics in a systematic order, accentuating the impeccable quality of fabrics, and guiding users throughout the exploration phase with inspiring designs. That way, we managed to reach a like-minded goal with Tekstina and land the beginning of an exciting journey for all of Tiska’s users.",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/starburst",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/starburst",
+      "loadedTime": "2025-04-26T16:39:51.490Z",
+      "referrerUrl": "https://www.akeo.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/starburst",
+      "title": "Starburst Innovative Aviation And Space Accelerator",
+      "description": "Mission-driven, Starburst’s goal is to advance technology in the Aerospace sector. They support innovation by leveraging the expertise and novel ideation found in large and small businesses, government organizations, and academic institutions.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Starburst Innovative Aviation And Space Accelerator"
+        },
+        {
+          "property": "og:description",
+          "content": "Mission-driven, Starburst’s goal is to advance technology in the Aerospace sector. They support innovation by leveraging the expertise and novel ideation found in large and small businesses, government organizations, and academic institutions."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0b4d6847af4e058474_Starburst-1.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Starburst Innovative Aviation And Space Accelerator"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Mission-driven, Starburst’s goal is to advance technology in the Aerospace sector. They support innovation by leveraging the expertise and novel ideation found in large and small businesses, government organizations, and academic institutions."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0b4d6847af4e058474_Starburst-1.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:39:50 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b93060ec80d8d",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "5663003e-ed9b-4c7e-8452-fd0be0f99e5c",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "179803",
+        "last-modified": "Thu, 24 Apr 2025 14:43:07 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936784ba08790688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Starburst Innovative Aviation And Space Accelerator\nMission-driven, Starburst’s goal is to advance technology in the Aerospace sector. They support innovation by leveraging the expertise and novel ideation found in large and small businesses, government organizations, and academic institutions. Over the last decade, Starburst has proven that this future-focused, diverse ecosystem of collaborators can bring their partners to the forefront of innovation. Connecting visionary founders in their Aerospace accelerators to their extensive network of global aviation, space, and defense leaders–fostered in their parallel consulting practice–has changed the industry.\n‍\nThe main focus of this project was developing an extensive design construction system. A Series of iterations brought us to the smallest common denominator used for building endless possibilities of formations. The principle of stacking our base component was applied to the master brand logotype and logotypes for Starburst's accelerator programs. A comprehensive design system covered standards for using typography, color palette, and imagery. Apart from the design system, our task was creating collaterals for printed and digital elements.",
+    "markdown": "# Starburst Innovative Aviation And Space Accelerator\n\nMission-driven, Starburst’s goal is to advance technology in the Aerospace sector. They support innovation by leveraging the expertise and novel ideation found in large and small businesses, government organizations, and academic institutions. Over the last decade, Starburst has proven that this future-focused, diverse ecosystem of collaborators can bring their partners to the forefront of innovation. Connecting visionary founders in their Aerospace accelerators to their extensive network of global aviation, space, and defense leaders–fostered in their parallel consulting practice–has changed the industry.\n\n‍\n\nThe main focus of this project was developing an extensive design construction system. A Series of iterations brought us to the smallest common denominator used for building endless possibilities of formations. The principle of stacking our base component was applied to the master brand logotype and logotypes for Starburst's accelerator programs. A comprehensive design system covered standards for using typography, color palette, and imagery. Apart from the design system, our task was creating collaterals for printed and digital elements.",
     "competitorName": "Akeo"
   },
   {
     "url": "https://www.akeo.com/work/lipica",
     "crawl": {
       "loadedUrl": "https://www.akeo.com/work/lipica",
-      "loadedTime": "2025-04-26T15:56:12.006Z",
+      "loadedTime": "2025-04-26T16:40:07.289Z",
       "referrerUrl": "https://www.akeo.com/",
       "depth": 1,
       "httpStatusCode": 200
@@ -298,7 +503,7 @@
       ],
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 15:55:23 GMT",
+        "date": "Sat, 26 Apr 2025 16:40:05 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b933424c80d87",
@@ -306,11 +511,11 @@
         "x-lambda-id": "6de13d78-3824-4d6f-a91c-afa4eec6e596",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "121781",
+        "age": "124463",
         "last-modified": "Fri, 25 Apr 2025 06:05:42 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "936743a07d9d6fe6-IAD",
+        "cf-ray": "9367851baf4c0688-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -321,10 +526,190 @@
     "competitorName": "Akeo"
   },
   {
+    "url": "https://www.akeo.com/work/magnum-bikes",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/magnum-bikes",
+      "loadedTime": "2025-04-26T16:40:17.076Z",
+      "referrerUrl": "https://www.akeo.com/our-services",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/magnum-bikes",
+      "title": "Magnum Bikes A Fresh E-Commerce Experience",
+      "description": "The goal was to refresh the past digital experience of the Magnum website. We achieved it by highlighting the essential features and beauty of their new lineup of e-bikes.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Magnum Bikes A Fresh E-Commerce Experience"
+        },
+        {
+          "property": "og:description",
+          "content": "The goal was to refresh the past digital experience of the Magnum website. We achieved it by highlighting the essential features and beauty of their new lineup of e-bikes."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/638fbdb97de745534de3f0fb_Magnum.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Magnum Bikes A Fresh E-Commerce Experience"
+        },
+        {
+          "property": "twitter:description",
+          "content": "The goal was to refresh the past digital experience of the Magnum website. We achieved it by highlighting the essential features and beauty of their new lineup of e-bikes."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/638fbdb97de745534de3f0fb_Magnum.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:40:14 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b93144fc80d88",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "c2df4cbc-ae16-4409-af31-376fca3222d6",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "166333",
+        "last-modified": "Thu, 24 Apr 2025 18:28:01 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936785500fc10688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Magnum Bikes A Fresh E-Commerce Experience\n01\nProject \n— Overview\nDELIVERABLES\nUX / UI Design\nArt Direction\nVisual Design\nCreative Direction\nMotion Design\nWith a mission of reimagining transportation and paving the way into a green, sustainable future, Magnum eBikes stands out in the market by offering top quality yet affordable electric bikes, with custom-designed and welded frames and carefully-sourced and tested premium quality components from Samsung, Shimano, and other top-tier manufacturers. Magnum bikes can be found in over 250 locations across the U.S. and in several international markets, including Switzerland, Israel, and New Zealand.\n‍\nThe goal was to refresh the past digital experience of the Magnum website. We achieved it by highlighting the essential features and beauty of their new lineup of e-bikes. That enabled users to choose the purpose of the bike themselves and modes and gears that suit their needs.\nproject process\nWE UNDERSTAND\nWHO WE DESIGN FOR.\nWE UNDERSTAND\nWHO WE DESIGN \nFOR. ALWAYS.\n01 BUILD AWARENESS\nPresent the company’s vision, mission, core values, and how Magnum eBikes stand out from the competition. Showcase the features and satisfied customer stories in attractive ways. Showcase Magnum eBikes and all their features to customers in an easy-to-follow stream of information. Communicate that the product is designed in-house and communicate core product strengths.\n02 INCREASE ONLINE SALES\nProvide customers with the knowledge and ability to buy and assemble bikes with as much autonomy as possible. Sell accessories. Quiz/cookies, sizing with references & videos, various eBike categorizations, bike specs & manuals, shipping & assembly options, warranty registration, part compatibility indicator, upsell during checkout (step by step).\n03 PROVIDE CUSTOMER SUPPORT\nEstablish pre-sales support: Immortal content + Information architecture + help desk + live support to address all the questions customers ask.Establish after-sales support: Human customer support is available for all customers + the help desk FAQ section.\n24,9%\nBUILD AWARENESS\nAffordability; Cost of ownership; etc.Cost vs. Quality; Expense vs quality; Quality for dollars spent; etc.\n7,4%\nENHANCE CUSTOMER LOYALTY\nService availability; parts availability; finding a place to work on it; cost of repairs; etc. Customer service, product support\n20,6%\nSET UP ONLINE SALES\nDistance; range anxiety; etc.Battery sustainability and longevity; Battery life; Battery replacement costs; etc.\n7,4%\nPROVIDE CUSTOMER SUPPORT\nService availability; parts availability; finding a place to work on it; cost of repairs; etc. Customer service, product support\n24,2%\nPROVIDE CUSTOMER SUPPORT\nBattery sustainability and longevity; Battery life; Battery replacement costs; etc. Dependability, Reliable lifetime of electric and electronic components, especially while exposed to rain, snow, and road salt; Longevity; how long the bike would last; life expectancy etc.Product quality; Component quality; etc.\n70%\nPROVIDE CUSTOMER SUPPORT\nThere will be an easy way to compare bikes reachable from the product page. Comparing can also clash ride feeling and unique aspects from each bike in simple propositions, besides plainly comparing technical specs. (Example: Left: Stability highlighted, Right: Speed highlighted.)",
+    "markdown": "# Magnum Bikes A Fresh E-Commerce Experience\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6487735cd8ba60019c14d4bc_Rectangle%201.webp)\n\n01\n\n### Project  \n— Overview\n\nDELIVERABLES\n\nUX / UI Design  \nArt Direction  \nVisual Design  \nCreative Direction  \nMotion Design\n\nWith a mission of reimagining transportation and paving the way into a green, sustainable future, Magnum eBikes stands out in the market by offering top quality yet affordable electric bikes, with custom-designed and welded frames and carefully-sourced and tested premium quality components from Samsung, Shimano, and other top-tier manufacturers. Magnum bikes can be found in over 250 locations across the U.S. and in several international markets, including Switzerland, Israel, and New Zealand.\n\n‍\n\nThe goal was to refresh the past digital experience of the Magnum website. We achieved it by highlighting the essential features and beauty of their new lineup of e-bikes. That enabled users to choose the purpose of the bike themselves and modes and gears that suit their needs.\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648773b1e399b003b06018d7_Group%2021560.png)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bdda4ec7662085021c_Group%2021544.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772c05cadb69e1f4cfcf2_Group%2021559.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772be0455552d7eb9643b_Group%2021545.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772becd79ee4fea382c32_Group%2021546.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772befd8f1f9d076a6c71_Group%2021547.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772c24b619f099b979a9c_Group%2021521.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6487735d551af0e0b0e40aad_Rectangle%2023.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bf96d315174b434e61_Group%2021548.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bfd8ba60019c140380_Group%2021549.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bf16b10fc07152de08_Group%2021550.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bede75e4a87d345b2d_Frame%2021525.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bfe399b003b05e31c2_Group%2021553.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bf26324eb9118397b3_Group%2021552.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6487735d19b4d9fa286492fa_Rectangle%2029.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772be5cadb69e1f4cfb71_Group%2021529.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772beb2d8d832cd22b7ea_Frame%2021531.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772c0a5b1db808b02bf54_Group%2021555.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6487735c0c4dc2290b934e5a_Group%2021556.webp)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648772bfcb0c4084eba6dcd5_Group%2021558.webp)\n\nproject process\n\n### WE UNDERSTAND\n\n### WHO WE DESIGN FOR.\n\n### WE UNDERSTAND\n\n### WHO WE DESIGN\n\n## FOR. ALWAYS.\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6389b9932ea48413e5858264_10.webp)\n\n01 BUILD AWARENESS\n\nPresent the company’s vision, mission, core values, and how Magnum eBikes stand out from the competition. Showcase the features and satisfied customer stories in attractive ways. Showcase Magnum eBikes and all their features to customers in an easy-to-follow stream of information. Communicate that the product is designed in-house and communicate core product strengths.  \n\n02 INCREASE ONLINE SALES\n\nProvide customers with the knowledge and ability to buy and assemble bikes with as much autonomy as possible. Sell accessories. Quiz/cookies, sizing with references & videos, various eBike categorizations, bike specs & manuals, shipping & assembly options, warranty registration, part compatibility indicator, upsell during checkout (step by step).  \n\n03 PROVIDE CUSTOMER SUPPORT\n\nEstablish pre-sales support: Immortal content + Information architecture + help desk + live support to address all the questions customers ask.Establish after-sales support: Human customer support is available for all customers + the help desk FAQ section.  \n\n24,9%\n\n#### BUILD AWARENESS\n\nAffordability; Cost of ownership; etc.Cost vs. Quality; Expense vs quality; Quality for dollars spent; etc.\n\n7,4%\n\n#### ENHANCE CUSTOMER LOYALTY\n\nService availability; parts availability; finding a place to work on it; cost of repairs; etc. Customer service, product support\n\n20,6%\n\n#### SET UP ONLINE SALES\n\nDistance; range anxiety; etc.Battery sustainability and longevity; Battery life; Battery replacement costs; etc.\n\n7,4%\n\n#### PROVIDE CUSTOMER SUPPORT\n\nService availability; parts availability; finding a place to work on it; cost of repairs; etc. Customer service, product support\n\n24,2%\n\n#### PROVIDE CUSTOMER SUPPORT\n\nBattery sustainability and longevity; Battery life; Battery replacement costs; etc. Dependability, Reliable lifetime of electric and electronic components, especially while exposed to rain, snow, and road salt; Longevity; how long the bike would last; life expectancy etc.Product quality; Component quality; etc.\n\n70%\n\n#### PROVIDE CUSTOMER SUPPORT\n\nThere will be an easy way to compare bikes reachable from the product page. Comparing can also clash ride feeling and unique aspects from each bike in simple propositions, besides plainly comparing technical specs. (Example: Left: Stability highlighted, Right: Speed highlighted.)",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/essentia-pura",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/essentia-pura",
+      "loadedTime": "2025-04-26T16:40:32.771Z",
+      "referrerUrl": "https://www.akeo.com/our-services",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/essentia-pura",
+      "title": "Essentia Pura Manufacturer & CBD Supplier",
+      "description": "Essentia Pura is an expert in extraction processes in Southeastern Europe. It specializes in supercritical fluid extraction and the development of supercritical herbal extracts and biodynamic substances.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Essentia Pura Manufacturer & CBD Supplier"
+        },
+        {
+          "property": "og:description",
+          "content": "Essentia Pura is an expert in extraction processes in Southeastern Europe. It specializes in supercritical fluid extraction and the development of supercritical herbal extracts and biodynamic substances."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0bb7a79685c0454c5e_EssentiaPura-1.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Essentia Pura Manufacturer & CBD Supplier"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Essentia Pura is an expert in extraction processes in Southeastern Europe. It specializes in supercritical fluid extraction and the development of supercritical herbal extracts and biodynamic substances."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0bb7a79685c0454c5e_EssentiaPura-1.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:40:31 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b93e84ec80d84",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "98a1e862-7a72-43b1-bd3b-982b6d0c4a01",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "172884",
+        "last-modified": "Thu, 24 Apr 2025 16:39:07 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936785ba6a2c0688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Essentia Pura Manufacturer & CBD Supplier\nEssentia Pura is an expert in extraction processes in Southeastern Europe. It specializes in supercritical fluid extraction and development of supercritical herbal extracts and biodynamic substances. Through cooperation with industry experts, Essentia Pura is pushing the limits of advanced technologies to deliver the best experiences for its customers.\n‍\nEssentia Pura needed a new brand and a website of the caliber of their offer. We delivered precisely that, emphasizing Essentia Pura’s dedication to creating the highest quality products and making them available for every European citizen.",
+    "markdown": "# Essentia Pura Manufacturer & CBD Supplier\n\nEssentia Pura is an expert in extraction processes in Southeastern Europe. It specializes in supercritical fluid extraction and development of supercritical herbal extracts and biodynamic substances. Through cooperation with industry experts, Essentia Pura is pushing the limits of advanced technologies to deliver the best experiences for its customers.\n\n‍\n\nEssentia Pura needed a new brand and a website of the caliber of their offer. We delivered precisely that, emphasizing Essentia Pura’s dedication to creating the highest quality products and making them available for every European citizen.",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/akeo-job-positions/senior-designer",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/akeo-job-positions/senior-designer",
+      "loadedTime": "2025-04-26T16:40:43.857Z",
+      "referrerUrl": "https://www.akeo.com/about-us",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/akeo-job-positions/senior-designer",
+      "title": "senior-designer",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:40:42 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b932054c80d80 63a1715aa97b93d3a4c80d70",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "7d90b3ba-791f-4f9a-9cbc-4ad40ddd5ba0",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "147304",
+        "last-modified": "Thu, 24 Apr 2025 23:45:38 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "93678602dbd50688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "senior-designer\nWe're seeking a dynamic and talented Mid/Senior digital designer to join our vibrant interdisciplinary team. We value individuals who excel in both UX and UI, demonstrating strong visual design skills. We’re looking for a proactive problem solver with strong communication skills, who thrives in fast-paced collaboration and is always eager to learn and embrace new challenges.\nShort Summary\n‍\n🕛 Full-time position\n🏝️ Fully Remote (but you can work from our Serbian or Slovenian office)\n🌟 Minimum 3+ years of digital design experience\n🇬🇧 Native or Professional English is a must\n🤑 Salary will be assessed according to your location and relevant experience\nKey Responsibilities:\nDevelop a deep understanding of user and business goals to inform design strategy.\nTackle complex design challenges and provide creative solutions that balance user needs, business objectives, and technical constraints.\nConduct user research to understand user needs, behaviors, and pain points. Analyze data and feedback to inform design decisions.\nCreate wireframes, user flows, and interactive prototypes to visualize and communicate design concepts. Iterate on designs based on feedback and user testing.\nFluent with design systems and the ability to establish them from scratch\nDevelop innovative high-fidelity UX/UI/Interaction/Print designs that adhere to brand guidelines and design systems. Ensure consistency across all customer touchpoints.\nPlan and conduct usability testing sessions to gather feedback and validate design decisions. Use insights to refine and enhance the user experience.\nAbility to take ownership of projects and influence decision-making.\nWork closely with cross-functional teams, including product managers, engineers, and other designers.\nEstablishing design systems from scratch\nWhat You Will Need\nProficient in industry-standard design tools (Figma, e.g., Adobe Creative Suite, Google Workspace, Slack).\nStrong understanding of web design principles, user experience (UX), and user interface (UI) design.\nA solid foundation in visual design theory encompassing composition, color theory, and typography is highly valued at Akeo. We prioritize attitude over existing skills, recognizing the dynamic nature of our field. Adaptability is key, and we are open to exploring new processes that enhance productivity, efficiency, and overall satisfaction.\nYou have a minimum of 3 years of experience delivering exceptional interaction design for web and mobile platforms within startups, studios, or agencies, significantly influencing brand direction.\nA strong command of design processes, methodologies, and principles, reflecting your passion for the art of design. Your focus on user experience and information architecture is a key asset.\nYour portfolio should demonstrate a mastery of crafting beautiful, usable experiences across various devices and contexts.\nBIG PLUS: Experience with animation tools such as Figma Prototype/After Effects/Rive and experience with 3D.\nWhat we offer\nHigh-end creative projects to work on!\nBasic gross salary that depends on your experience, knowledge, talent, and agreement.\nUp to 30% variable personal monthly reward for results above expectations.\nPermanent employment with a trial period of 3 months.\nOur standard workweek consists of 40 hours. Our agency operates between 9 am and 6 pm CET.\nUnlock the chance for personal growth, increased ownership, and skill enhancement.\nCooperation with international teams.\nPossibility to visit and work from our Slovenian/Serbian office.\nBenefit from a training budget to pursue your interests, and count on our continuous support for your personal growth.\nHiring process @Akeo\nYour application will be pre-selected based on your experiences, roles in specific projects, and skills.\nYou'll have a video call with the Akeo design lead, where you'll present a detailed look at one of your projects. Choose a project, tell us about your collaborators, the tools you used, and any challenges you encountered.\nShort intro call w/ Akeo leadership.\nWelcome to the team.\nPlease include a link to your portfolio showcasing relevant work samples. A portfolio submission is mandatory for consideration of your application.\nCheers! 🍻\n‍\n‍\nAkeo is a team of multidisciplinary digital product experts specialized in Web Design, Branding, and Product Design. We extend the design, development, and marketing departments of international clients. With an insight-based approach and an emphasis on digital experiences, we partner with brands and deliver them side-to-side customized solutions and services. We craft communication, identity, strategies, and commerce by continually merging aesthetics with purpose.",
+    "markdown": "# senior-designer\n\nWe're seeking a dynamic and talented Mid/Senior digital designer to join our vibrant interdisciplinary team. We value individuals who excel in both UX and UI, demonstrating strong visual design skills. We’re looking for a proactive problem solver with strong communication skills, who thrives in fast-paced collaboration and is always eager to learn and embrace new challenges.\n\n**Short Summary  \n‍**\n\n🕛 Full-time position\n\n🏝️ Fully Remote (but you can work from our Serbian or Slovenian office)\n\n🌟 Minimum 3+ years of digital design experience\n\n🇬🇧 Native or Professional English is a must\n\n🤑 Salary will be assessed according to your location and relevant experience  \n\n**Key Responsibilities:**  \n\n*   Develop a deep understanding of user and business goals to inform design strategy.\n*   Tackle complex design challenges and provide creative solutions that balance user needs, business objectives, and technical constraints.\n*   Conduct user research to understand user needs, behaviors, and pain points. Analyze data and feedback to inform design decisions.\n*   Create wireframes, user flows, and interactive prototypes to visualize and communicate design concepts. Iterate on designs based on feedback and user testing.\n*   Fluent with design systems and the ability to establish them from scratch\n*   Develop innovative high-fidelity UX/UI/Interaction/Print designs that adhere to brand guidelines and design systems. Ensure consistency across all customer touchpoints.\n*   Plan and conduct usability testing sessions to gather feedback and validate design decisions. Use insights to refine and enhance the user experience.\n*   Ability to take ownership of projects and influence decision-making.\n*   Work closely with cross-functional teams, including product managers, engineers, and other designers.\n*   Establishing design systems from scratch\n\n**What You Will Need**  \n\n*   Proficient in industry-standard design tools (Figma, e.g., Adobe Creative Suite, Google Workspace, Slack).\n*   Strong understanding of web design principles, user experience (UX), and user interface (UI) design.\n*   A solid foundation in visual design theory encompassing composition, color theory, and typography is highly valued at Akeo. We prioritize attitude over existing skills, recognizing the dynamic nature of our field. Adaptability is key, and we are open to exploring new processes that enhance productivity, efficiency, and overall satisfaction.\n*   You have a minimum of 3 years of experience delivering exceptional interaction design for web and mobile platforms within startups, studios, or agencies, significantly influencing brand direction.\n*   A strong command of design processes, methodologies, and principles, reflecting your passion for the art of design. Your focus on user experience and information architecture is a key asset.\n*   Your portfolio should demonstrate a mastery of crafting beautiful, usable experiences across various devices and contexts.\n*   **BIG PLUS: Experience with animation tools such as Figma Prototype/After Effects/Rive and experience with 3D.**\n\n**What we offer**  \n\n*   High-end creative projects to work on!\n*   Basic gross salary that depends on your experience, knowledge, talent, and agreement.\n*   Up to 30% variable personal monthly reward for results above expectations.\n*   Permanent employment with a trial period of 3 months.\n*   Our standard workweek consists of 40 hours. Our agency operates between 9 am and 6 pm CET.\n*   Unlock the chance for personal growth, increased ownership, and skill enhancement.\n*   Cooperation with international teams.\n*   Possibility to visit and work from our Slovenian/Serbian office.\n*   Benefit from a training budget to pursue your interests, and count on our continuous support for your personal growth.\n\n**Hiring process @Akeo**  \n\n*   Your application will be pre-selected based on your experiences, roles in specific projects, and skills.\n*   You'll have a video call with the Akeo design lead, where you'll present a detailed look at one of your projects. Choose a project, tell us about your collaborators, the tools you used, and any challenges you encountered.\n*   Short intro call w/ Akeo leadership.\n*   Welcome to the team.\n\n**Please include a link to your portfolio showcasing relevant work samples. A portfolio submission is mandatory for consideration of your application.  \nCheers! 🍻**\n\n**‍**\n\n‍  \n\nAkeo is a team of multidisciplinary digital product experts specialized in Web Design, Branding, and Product Design. We extend the design, development, and marketing departments of international clients. With an insight-based approach and an emphasis on digital experiences, we partner with brands and deliver them side-to-side customized solutions and services. We craft communication, identity, strategies, and commerce by continually merging aesthetics with purpose.",
+    "competitorName": "Akeo"
+  },
+  {
     "url": "https://www.akeo.com/akeo-job-positions/senior-web-developer",
     "crawl": {
       "loadedUrl": "https://www.akeo.com/akeo-job-positions/senior-web-developer",
-      "loadedTime": "2025-04-26T15:56:14.293Z",
+      "loadedTime": "2025-04-26T16:40:59.345Z",
       "referrerUrl": "https://www.akeo.com/about-us",
       "depth": 2,
       "httpStatusCode": 200
@@ -338,7 +723,7 @@
       "languageCode": null,
       "jsonLd": null,
       "headers": {
-        "date": "Sat, 26 Apr 2025 15:55:43 GMT",
+        "date": "Sat, 26 Apr 2025 16:40:57 GMT",
         "content-type": "text/html",
         "strict-transport-security": "max-age=31536000",
         "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b932054c80d80 63a1715aa97b93d3a4c80d70",
@@ -346,11 +731,11 @@
         "x-lambda-id": "ef1db304-d26e-45d8-be8b-8f2f31f254fc",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "163660",
+        "age": "166374",
         "last-modified": "Thu, 24 Apr 2025 18:28:03 GMT",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "9367441d094c6fe6-IAD",
+        "cf-ray": "9367865d9d230688-IAD",
         "alt-svc": "h3=\":443\"; ma=86400",
         "x-firefox-spdy": "h2"
       }
@@ -358,6 +743,484 @@
     "screenshotUrl": null,
     "text": "senior-web-developer\nTražimo Medior/Senior developere (2-5) sa dosta iskustva u WordPress-u, WooCommerce-u, Javascriptu i Reactu.\n‍\nNaša očekivanja:\nOčekujemo da poseduješ dobar temelj opštih tehnologija za izradu web sajtova, osećaj za dizajn, debagovanje i rad u timu.\nOčekujemo da imaš više od 3 godina iskustva u pravljenju web aplikacija i web sajtova.\nDobro razumevanje HTML, CSS (SCSS), Mobile first i Responsive development principa i metodologija.\nPoznavanje frontend build alata (Grunt/Gulp, Webpack...).\nOdlično poznavanje Javascripta, manipulacije DOMa i njenih dobrih optimizacionih praksi.\nJako znanje o WordPressu i PHPu.\nDobro poznavanje alata za kontrolu verzija koda (Git/GitHub).\nIskustvo u radu sa aplikacijama zasnovanim na API-ju kao i dobro znanje REST principa.\nDodatno je dobrodošlo da imaš:\nIskustvo u optimizovanju, održavanju i unapređenju performansi web sajtova.\nIskustvo u rešavanju Cross-browser i Cross-device compatibility problema.\nIskustvo u pisanju plaginova i tema za WordPress.\nPlaniranje i postavljanje projekta od početka do kraja.\nDodatan plus su još iskustva iz:\nRada sa ACF blokovima kao i sa Gutenberg blokovima.\nIskustvo sa React-om i Nextjs-om ili bilo koji drugi JavaScript frameworkom.\nIskustvo sa Shopify-jem (\"custom built\").\nU našem timu očekujemo da imaš i:\nIskustvo komunikacije u timu i sa kupcima\nSavladaš Engleski jezik (aktivno; u govoru i pisano)\nDa ti je domać timski rad\nŠta nudimo:\nOsnovnu bruto platu koja zavisi od tvog iskustva, znanja, talenta (u okviru toga odradimo i tehnićki intervju) i dogovora\nDo 500 EUR mesečne bruto nagrade u zavisnosti od uspeha kvartalnog poslovanja kompanije\nDo 30% varijabilne lične mesečne nagrade za rezultate iznad očekivanja\nStalno zaposlenje sa probnim radom od 3 meseca\nFleksibilno radno vreme\nDruštvo od 15+ zaposlenih u kancelariji u Nišu.\nRad na međunarodnim projektima\nSaradnja sa međunarodnim timovima\nAkeo\nKompanijama pomažemo da iskoriste prednosti digitalnog okruženja. Bavimo se detaljnim istraživanjem krajnjih kupaca kao i razumevanjem poslovnog procesa našeg klijenta. Istražujemo viziju i ideju klijenta, kako i na koji način on želi da se predstavi svojim potencijalnim i postojećim kupcima. Dizajniramo i implementiramo kompletnu digitalnu prisutnost za naše klijente. Na kraju se pobrinemo da je sve estetski besprekorno. Mi smo tim od 15+ entuzijasta dizajna korisničkog iskustva, digitalnog dizajna, web tehnologija, mobilnih tehnologija te VR i AR tehnologija. Veći deo tima je u Novoj Gorici (Slovenija), a manji deo u Nišu i Los Anđelesu (SAD). Dve trećine naših projekata je za klijente iz inostranstva, a ostatak za odabrane slovenačke kompanije. Rastemo. I tražimo nove saradnike!",
     "markdown": "# senior-web-developer\n\nTražimo Medior/Senior developere (2-5) sa dosta iskustva u WordPress-u, WooCommerce-u, Javascriptu i Reactu.\n\n‍\n\n## Naša očekivanja:\n\n*   Očekujemo da poseduješ dobar temelj opštih tehnologija za izradu web sajtova, osećaj za dizajn, debagovanje i rad u timu.\n*   Očekujemo da imaš više od 3 godina iskustva u pravljenju web aplikacija i web sajtova.\n*   Dobro razumevanje HTML, CSS (SCSS), Mobile first i Responsive development principa i metodologija.\n*   Poznavanje frontend build alata (Grunt/Gulp, Webpack...).\n*   Odlično poznavanje Javascripta, manipulacije DOMa i njenih dobrih optimizacionih praksi.\n*   Jako znanje o WordPressu i PHPu.\n*   Dobro poznavanje alata za kontrolu verzija koda (Git/GitHub).\n*   Iskustvo u radu sa aplikacijama zasnovanim na API-ju kao i dobro znanje REST principa.\n\n## Dodatno je dobrodošlo da imaš:\n\n*   Iskustvo u optimizovanju, održavanju i unapređenju performansi web sajtova.\n*   Iskustvo u rešavanju Cross-browser i Cross-device compatibility problema.\n*   Iskustvo u pisanju plaginova i tema za WordPress.\n*   Planiranje i postavljanje projekta od početka do kraja.\n*   Dodatan plus su još iskustva iz:\n*   Rada sa ACF blokovima kao i sa Gutenberg blokovima.\n*   Iskustvo sa React-om i Nextjs-om ili bilo koji drugi JavaScript frameworkom.\n*   Iskustvo sa Shopify-jem (\"custom built\").\n\n## U našem timu očekujemo da imaš i:\n\n*   Iskustvo komunikacije u timu i sa kupcima\n*   Savladaš Engleski jezik (aktivno; u govoru i pisano)\n*   Da ti je domać timski rad\n\n## Šta nudimo:\n\n*   Osnovnu bruto platu koja zavisi od tvog iskustva, znanja, talenta (u okviru toga odradimo i tehnićki intervju) i dogovora\n*   Do 500 EUR mesečne bruto nagrade u zavisnosti od uspeha kvartalnog poslovanja kompanije\n*   Do 30% varijabilne lične mesečne nagrade za rezultate iznad očekivanja\n*   Stalno zaposlenje sa probnim radom od 3 meseca\n*   Fleksibilno radno vreme\n*   Društvo od 15+ zaposlenih u kancelariji u Nišu.\n*   Rad na međunarodnim projektima\n*   Saradnja sa međunarodnim timovima\n\n## Akeo\n\nKompanijama pomažemo da iskoriste prednosti digitalnog okruženja. Bavimo se detaljnim istraživanjem krajnjih kupaca kao i razumevanjem poslovnog procesa našeg klijenta. Istražujemo viziju i ideju klijenta, kako i na koji način on želi da se predstavi svojim potencijalnim i postojećim kupcima. Dizajniramo i implementiramo kompletnu digitalnu prisutnost za naše klijente. Na kraju se pobrinemo da je sve estetski besprekorno. Mi smo tim od 15+ entuzijasta dizajna korisničkog iskustva, digitalnog dizajna, web tehnologija, mobilnih tehnologija te VR i AR tehnologija. Veći deo tima je u Novoj Gorici (Slovenija), a manji deo u Nišu i Los Anđelesu (SAD). Dve trećine naših projekata je za klijente iz inostranstva, a ostatak za odabrane slovenačke kompanije. Rastemo. I tražimo nove saradnike!",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work",
+      "loadedTime": "2025-04-26T16:41:16.510Z",
+      "referrerUrl": "https://www.akeo.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work",
+      "title": "Work",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Work"
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a948fe63be4516970b4_Work-1.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Work"
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a948fe63be4516970b4_Work-1.jpg"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:41:03 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b93b085c80d94 647072b0862cc20af330c112",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "82d9b60c-e706-4675-9cf8-53a40f1536de",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "180307",
+        "last-modified": "Thu, 24 Apr 2025 14:35:56 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "93678687c8e20688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Work\nMission & Vision\nEMPOWERING THE \nNEXT GENERATION\nOF BRANDS\nEMPOWERING the\nNEXT GENERATION\nOF BRANDS\nOFFICE LIFE /\nAKEO NIS - SRB",
+    "markdown": "# Work\n\nMission & Vision\n\n## EMPOWERING THE  \n\n## NEXT GENERATION\n\n## OF BRANDS  \n\n## EMPOWERING the  \n\n## NEXT GENERATION\n\n## OF BRANDS\n\nOFFICE LIFE /  \nAKEO NIS - SRB",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/petonline",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/petonline",
+      "loadedTime": "2025-04-26T16:41:33.372Z",
+      "referrerUrl": "https://www.akeo.com/work/lipica",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/petonline",
+      "title": "Petonline Fine Italian Pet Grooming Products",
+      "description": "As an integral part of the world-famous Iv San Bernard ACADEMY, PetOnline is an international store that offers premium products to pet groomers, owners, breeders, and veterinarians.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Petonline Fine Italian Pet Grooming Products"
+        },
+        {
+          "property": "og:description",
+          "content": "As an integral part of the world-famous Iv San Bernard ACADEMY, PetOnline is an international store that offers premium products to pet groomers, owners, breeders, and veterinarians."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0b65ea184b91b623ce_PetOnline-1.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Petonline Fine Italian Pet Grooming Products"
+        },
+        {
+          "property": "twitter:description",
+          "content": "As an integral part of the world-famous Iv San Bernard ACADEMY, PetOnline is an international store that offers premium products to pet groomers, owners, breeders, and veterinarians."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63775a0b65ea184b91b623ce_PetOnline-1.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:41:32 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b938610c80d8b",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "744bb6c7-8561-4008-abdb-d0ca61a0700c",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "180321",
+        "last-modified": "Thu, 24 Apr 2025 14:36:11 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936787380b820688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Petonline Fine Italian Pet Grooming Products\nAs an integral part of the world-famous Iv San Bernard ACADEMY, PetOnline is an international store that offers premium products to pet groomers, owners, breeders, and veterinarians. With their team of international champions and specialists from various areas of hairdressing and \"master\" design techniques, they educate with an emphasis on correct care techniques in dermatology, derma cosmetology, and ozone therapy. They advise choosing suitable cosmetics, tools, and equipment for pets and provide various training in the professional care of small animals.\n‍\nOur goal was to create a website that would quickly identify customers' needs, record their pets' medical cards and offer high-quality products ideal for their pets. We took special care of our business customers by providing them with an extensive dashboard that tracks their spending and benefits over time. We extended their brand with a new set of friendly illustrations and distinctive typography that can be very well utilized both on the web and in print. We also dedicated a lot of effort to developing their brand style manual and social media templates.",
+    "markdown": "# Petonline Fine Italian Pet Grooming Products\n\nAs an integral part of the world-famous Iv San Bernard ACADEMY, PetOnline is an international store that offers premium products to pet groomers, owners, breeders, and veterinarians. With their team of international champions and specialists from various areas of hairdressing and \"master\" design techniques, they educate with an emphasis on correct care techniques in dermatology, derma cosmetology, and ozone therapy. They advise choosing suitable cosmetics, tools, and equipment for pets and provide various training in the professional care of small animals.\n\n‍\n\nOur goal was to create a website that would quickly identify customers' needs, record their pets' medical cards and offer high-quality products ideal for their pets. We took special care of our business customers by providing them with an extensive dashboard that tracks their spending and benefits over time. We extended their brand with a new set of friendly illustrations and distinctive typography that can be very well utilized both on the web and in print. We also dedicated a lot of effort to developing their brand style manual and social media templates.",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/treena",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/treena",
+      "loadedTime": "2025-04-26T16:41:46.558Z",
+      "referrerUrl": "https://www.akeo.com/work",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/treena",
+      "title": "Treena The Gateway To Fantasy Sports",
+      "description": "Creating a Treena end product was a real test for our design thinking approach. We started with thorough marketing and user research, carefully gathering and analyzing all the data points. The ideation phase covered much more than initially planned, from short-term and long-term goals to vanguard concepts yet to be seen in Metaverse.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Treena The Gateway To Fantasy Sports"
+        },
+        {
+          "property": "og:description",
+          "content": "Creating a Treena end product was a real test for our design thinking approach. We started with thorough marketing and user research, carefully gathering and analyzing all the data points. The ideation phase covered much more than initially planned, from short-term and long-term goals to vanguard concepts yet to be seen in Metaverse."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/638fbb0952ad765d5af3d585_Frame%2013722.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Treena The Gateway To Fantasy Sports"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Creating a Treena end product was a real test for our design thinking approach. We started with thorough marketing and user research, carefully gathering and analyzing all the data points. The ideation phase covered much more than initially planned, from short-term and long-term goals to vanguard concepts yet to be seen in Metaverse."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/638fbb0952ad765d5af3d585_Frame%2013722.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:41:44 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a1715aa97b9378b9c80d91",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "5dd50d20-5d27-41e9-a94e-ba937ada003d",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "166423",
+        "last-modified": "Thu, 24 Apr 2025 18:28:01 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936787830cd90688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Treena The Gateway To Fantasy Sports\n01\nProject \n— Overview\nDELIVERABLES\nUX / UI Design\nArt Direction\nVisual Design\nCreative Direction\nMotion Design\nCreating a Treena end product was a real test for our design thinking approach. We started with thorough marketing and user research, carefully gathering and analyzing all the data points. The ideation phase covered much more than initially planned, from short-term and long-term goals to vanguard concepts yet to be seen in Metaverse. \n‍\nA complete package of deliverables was expected from us - a clear business strategy, a strong brand statement, and a usable end product. Treena's team wanted to ensure full accessibility of their product - we created a responsive website and iOS app utilizing the best features of both platforms. We made sure to maintain the same look and feel across devices while still embracing the uniqueness that comes with it.\nTreena\n—Strategy\nDesigning for emerging markets doesn't necessarily mean there is no competition. Assessing how our future product compares to others was a complex, daunting, and continuous task. But we decided to get our hands dirty digging for ideas and build from the nuggets we uncovered. We conducted an extensive marketing analysis to pinpoint opportunities and threats in the unpredictable field. We captured a range of qualitative and quantitative data points to help us understand what kind of marketplace we are entering. Ultimately, we analyzed the data and extracted meaningful intelligence that shaped our UX strategy and the business model.\nTreena\n—Strategy\nDesigning for emerging markets doesn't necessarily mean there is no competition. Assessing how our future product compares to others was a complex, daunting, and continuous task. But we decided to get our hands dirty digging for ideas and build from the nuggets we uncovered. We conducted an extensive marketing analysis to pinpoint opportunities and threats in the unpredictable field. We captured a range of qualitative and quantitative data points to help us understand what kind of marketplace we are entering. Ultimately, we analyzed the data and extracted meaningful intelligence that shaped our UX strategy and the business model.\n“Akeo’s known for its track record of defining and launching the world’s best digital experiences—especially in retail. That’s why we chose them to help IKEA improve engagement with our customers across e-commerce, mobile shopping and in-store experiences.”\nBarbara Martin Coppola, Chief Digital Officer",
+    "markdown": "# Treena The Gateway To Fantasy Sports\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486f834e2f9583988840584_Rectangle%201.jpg)\n\n01\n\n### Project  \n— Overview\n\nDELIVERABLES\n\nUX / UI Design  \nArt Direction  \nVisual Design  \nCreative Direction  \nMotion Design\n\nCreating a Treena end product was a real test for our design thinking approach. We started with thorough marketing and user research, carefully gathering and analyzing all the data points. The ideation phase covered much more than initially planned, from short-term and long-term goals to vanguard concepts yet to be seen in Metaverse.\n\n‍\n\nA complete package of deliverables was expected from us - a clear business strategy, a strong brand statement, and a usable end product. Treena's team wanted to ensure full accessibility of their product - we created a responsive website and iOS app utilizing the best features of both platforms. We made sure to maintain the same look and feel across devices while still embracing the uniqueness that comes with it.\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486f8112b53a5efb0297b6b_Frame%2013668.jpg)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648700f8a33c763d33ece96a_Group%2021585.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486f812d9b8e8d40983a393_Group%2021586.jpg)\n\n### Treena  \n—Strategy\n\nDesigning for emerging markets doesn't necessarily mean there is no competition. Assessing how our future product compares to others was a complex, daunting, and continuous task. But we decided to get our hands dirty digging for ideas and build from the nuggets we uncovered. We conducted an extensive marketing analysis to pinpoint opportunities and threats in the unpredictable field. We captured a range of qualitative and quantitative data points to help us understand what kind of marketplace we are entering. Ultimately, we analyzed the data and extracted meaningful intelligence that shaped our UX strategy and the business model.\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fa23a4e43a6a1580cb19_Group%2021584.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486f812bffc9c629e2bcb95_Group%2021587.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fa05a33c763d33e2b080_Group%2021588.jpg)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fadc51bb7220373d69b1_Group%2021597.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486f834c2738334c26c1898_Rectangle%2015.jpg)\n\n### Treena  \n—Strategy\n\nDesigning for emerging markets doesn't necessarily mean there is no competition. Assessing how our future product compares to others was a complex, daunting, and continuous task. But we decided to get our hands dirty digging for ideas and build from the nuggets we uncovered. We conducted an extensive marketing analysis to pinpoint opportunities and threats in the unpredictable field. We captured a range of qualitative and quantitative data points to help us understand what kind of marketplace we are entering. Ultimately, we analyzed the data and extracted meaningful intelligence that shaped our UX strategy and the business model.\n\n“Akeo’s known for its track record of defining and launching the world’s best digital experiences—especially in retail. That’s why we chose them to help IKEA improve engagement with our customers across e-commerce, mobile shopping and in-store experiences.”\n\nBarbara Martin Coppola,                Chief Digital Officer\n\n![Akeo lady employee ](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63152b3a77fe7e5bc13b92bb_Hard%20worker%202-min.webp)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/64871081618ad3f15b05e16e_Group%2021558.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486f8111568ab29a297ade9_Frame%2021571.jpg)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648710caddeff466f24ff8a3_Group%2021591.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/648710caebb6e36f3d33f15f_Group%2021555.jpg)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fcf9ddeff466f233c8e7_Group%2021593.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fcf9cce85e8895751604_Group%2021592.jpg)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fd465b4d5580f7d7ebf4_Group%2021594.jpg)\n\n![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fda71568ab29a29f1883_Group%2021573.jpg)![](https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/6486fda751bb72203740e047_Group%2021595.jpg)",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/domino",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/domino",
+      "loadedTime": "2025-04-26T16:41:54.155Z",
+      "referrerUrl": "https://www.akeo.com/work",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/domino",
+      "title": "Domino",
+      "description": "Domino is a decentralized trading platform on a polygon, Ethereum, and Arbitrum. Swap, pool, and farm, lend and borrow, stake are just a few of the nifty features DOMINO offers. It has a high-yielding ecosystem, and besides the basic features, Domino rewards users for various platform activities with Domo tokens that can be exchanged via Domino. Our objective was to enhance the visual appeal of DEX's crypto user interface. We also offered updated branding, which gave both seasoned users and first-time visitors a new level of excitement.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Domino"
+        },
+        {
+          "property": "og:description",
+          "content": "Domino is a decentralized trading platform on a polygon, Ethereum, and Arbitrum. Swap, pool, and farm, lend and borrow, stake are just a few of the nifty features DOMINO offers. It has a high-yielding ecosystem, and besides the basic features, Domino rewards users for various platform activities with Domo tokens that can be exchanged via Domino. Our objective was to enhance the visual appeal of DEX's crypto user interface. We also offered updated branding, which gave both seasoned users and first-time visitors a new level of excitement."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63d8d72da1b031524f728519_Domino.webp"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Domino"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Domino is a decentralized trading platform on a polygon, Ethereum, and Arbitrum. Swap, pool, and farm, lend and borrow, stake are just a few of the nifty features DOMINO offers. It has a high-yielding ecosystem, and besides the basic features, Domino rewards users for various platform activities with Domo tokens that can be exchanged via Domino. Our objective was to enhance the visual appeal of DEX's crypto user interface. We also offered updated branding, which gave both seasoned users and first-time visitors a new level of excitement."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63d8d72da1b031524f728519_Domino.webp"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:41:52 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63d8d6bfc27c5b170fc5908e",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "cdeb3e88-4b72-444e-bef6-e93c71f5fd89",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "166430",
+        "last-modified": "Thu, 24 Apr 2025 18:28:02 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936787b52a6f0688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Domino\nDomino is a decentralized trading platform that runs on a polygon, Ethereum, and Arbitrum. Swap, pool, and farm, lend and borrow, stake, are just a few of the nifty features DOMINO offers. It has a high-yielding ecosystem and besides the basic features, Domino rewards users for various platform activities with Domo tokens that can be exchanged via Domino.\n‍\nOur objective was to enhance the visual appeal of DEX's crypto user interface. We also offered updated branding, which gave both seasoned users and first-time visitors a whole new level of excitement.",
+    "markdown": "# Domino\n\nDomino is a decentralized trading platform that runs on a polygon, Ethereum, and Arbitrum. Swap, pool, and farm, lend and borrow, stake, are just a few of the nifty features DOMINO offers. It has a high-yielding ecosystem and besides the basic features, Domino rewards users for various platform activities with Domo tokens that can be exchanged via Domino.\n\n‍\n\nOur objective was to enhance the visual appeal of DEX's crypto user interface. We also offered updated branding, which gave both seasoned users and first-time visitors a whole new level of excitement.",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/popri",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/popri",
+      "loadedTime": "2025-04-26T16:42:06.047Z",
+      "referrerUrl": "https://www.akeo.com/work",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/popri",
+      "title": "Popri",
+      "description": "Popri is an international youth business model competition that provides a platform for young entrepreneurs to pitch their business ideas and receive feedback and support from a panel of judges and industry experts. The competition is open to individuals and teams aged 18-30 worldwide.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Popri"
+        },
+        {
+          "property": "og:description",
+          "content": "Popri is an international youth business model competition that provides a platform for young entrepreneurs to pitch their business ideas and receive feedback and support from a panel of judges and industry experts. The competition is open to individuals and teams aged 18-30 worldwide."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63aaf945e473f38adfaae92b_Popri.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Popri"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Popri is an international youth business model competition that provides a platform for young entrepreneurs to pitch their business ideas and receive feedback and support from a panel of judges and industry experts. The competition is open to individuals and teams aged 18-30 worldwide."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63aaf945e473f38adfaae92b_Popri.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:42:02 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63aae6c090b0ca7c03e4cff1",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "e2a7b298-e6e6-4b91-9d41-5724466255f7",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "180287",
+        "last-modified": "Thu, 24 Apr 2025 14:37:15 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936787f59b790688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Popri\nPopri is an international youth business model competition that provides a platform for young entrepreneurs to pitch their business ideas and receive feedback and support from a panel of judges and industry experts. The competition is open to individuals and teams aged 18-30 worldwide. It offers a chance for participants to win cash prizes and valuable resources to help grow their businesses. Popri also offers educational workshops and networking opportunities to help young entrepreneurs develop their skills and connect with like-minded individuals. Popri aims to support and encourage the next generation of business leaders and innovators.\n‍\nOur main task was creating a brand identity that involved many considerations, including defining the target audience, determining the brand values and messaging, and developing a visual identity that includes elements such as a logo, color palette, and typography. We established clear brand guidelines to ensure consistency in how the brand is presented and marketed. To create a strong brand identity, we researched, gathered input from stakeholders, and tested and iterated on ideas until a cohesive and effective brand identity was achieved.",
+    "markdown": "# Popri\n\nPopri is an international youth business model competition that provides a platform for young entrepreneurs to pitch their business ideas and receive feedback and support from a panel of judges and industry experts. The competition is open to individuals and teams aged 18-30 worldwide. It offers a chance for participants to win cash prizes and valuable resources to help grow their businesses. Popri also offers educational workshops and networking opportunities to help young entrepreneurs develop their skills and connect with like-minded individuals. Popri aims to support and encourage the next generation of business leaders and innovators.\n\n‍\n\nOur main task was creating a brand identity that involved many considerations, including defining the target audience, determining the brand values and messaging, and developing a visual identity that includes elements such as a logo, color palette, and typography. We established clear brand guidelines to ensure consistency in how the brand is presented and marketed. To create a strong brand identity, we researched, gathered input from stakeholders, and tested and iterated on ideas until a cohesive and effective brand identity was achieved.",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/eye-origin",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/eye-origin",
+      "loadedTime": "2025-04-26T16:42:07.773Z",
+      "referrerUrl": "https://www.akeo.com/work",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/eye-origin",
+      "title": "Eye Origin",
+      "description": "Eye Origin is a leading innovative technology solution provider that combines iris photography and high-quality printing. Their advanced system captures stunning, high-resolution images of the iris and prints them onto various materials with unparalleled accuracy and detail. With applications in industries such as security, identity verification, and art and design, their technology is revolutionizing how we think about biometric identification and printing.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Eye Origin"
+        },
+        {
+          "property": "og:description",
+          "content": "Eye Origin is a leading innovative technology solution provider that combines iris photography and high-quality printing. Their advanced system captures stunning, high-resolution images of the iris and prints them onto various materials with unparalleled accuracy and detail. With applications in industries such as security, identity verification, and art and design, their technology is revolutionizing how we think about biometric identification and printing."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63bc100c04cd88a41066e36f_Eye%20Origin.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Eye Origin"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Eye Origin is a leading innovative technology solution provider that combines iris photography and high-quality printing. Their advanced system captures stunning, high-resolution images of the iris and prints them onto various materials with unparalleled accuracy and detail. With applications in industries such as security, identity verification, and art and design, their technology is revolutionizing how we think about biometric identification and printing."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63bc100c04cd88a41066e36f_Eye%20Origin.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:42:03 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63bbfde5e495ff1b2ac4c41b",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "d61f81ff-24f3-4eae-97d2-7e65bbcdedb8",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "166441",
+        "last-modified": "Thu, 24 Apr 2025 18:28:02 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "936787fdaa1f0688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Eye Origin\nEye Origin is a leading innovative technology solution provider that combines iris photography and high-quality printing. Their advanced system captures stunning, high-resolution images of the iris and prints them onto various materials with unparalleled accuracy and detail. With applications in industries such as security, identity verification, and art and design, their technology is revolutionizing how we think about biometric identification and printing.\n‍\nWe worked tirelessly on a comprehensive project of brand design, logo design, and digital footprint that would better represent Eye Origin's values and mission. We have refreshed their logo to better represent their company's spirit and energy. And we have improved their digital presence by rebranding a website and social media accounts, making it easier for their clients and partners to connect with them online.",
+    "markdown": "# Eye Origin\n\nEye Origin is a leading innovative technology solution provider that combines iris photography and high-quality printing. Their advanced system captures stunning, high-resolution images of the iris and prints them onto various materials with unparalleled accuracy and detail. With applications in industries such as security, identity verification, and art and design, their technology is revolutionizing how we think about biometric identification and printing.\n\n‍\n\nWe worked tirelessly on a comprehensive project of brand design, logo design, and digital footprint that would better represent Eye Origin's values and mission. We have refreshed their logo to better represent their company's spirit and energy. And we have improved their digital presence by rebranding a website and social media accounts, making it easier for their clients and partners to connect with them online.",
+    "competitorName": "Akeo"
+  },
+  {
+    "url": "https://www.akeo.com/work/alter-engineers",
+    "crawl": {
+      "loadedUrl": "https://www.akeo.com/work/alter-engineers",
+      "loadedTime": "2025-04-26T16:42:20.386Z",
+      "referrerUrl": "https://www.akeo.com/work",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.akeo.com/work/alter-engineers",
+      "title": "Alter Engineers",
+      "description": "Alter Consulting Engineers is well-versed to tackle projects of a wide variety of scales and scopes. They have experience specializing in the design of Zero Net Energy buildings, as well as LEED, and other high-performing building standards.",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Alter Engineers"
+        },
+        {
+          "property": "og:description",
+          "content": "Alter Consulting Engineers is well-versed to tackle projects of a wide variety of scales and scopes. They have experience specializing in the design of Zero Net Energy buildings, as well as LEED, and other high-performing building standards."
+        },
+        {
+          "property": "og:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63a1a27ec8ea8836a6301268_Alter%20Engineers.jpg"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Alter Engineers"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Alter Consulting Engineers is well-versed to tackle projects of a wide variety of scales and scopes. They have experience specializing in the design of Zero Net Energy buildings, as well as LEED, and other high-performing building standards."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://cdn.prod.website-files.com/6311e5018bf0c1dab8b0f893/63a1a27ec8ea8836a6301268_Alter%20Engineers.jpg"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 16:42:18 GMT",
+        "content-type": "text/html",
+        "strict-transport-security": "max-age=31536000",
+        "surrogate-key": "www.akeo.com 6311e5018bf0c1dab8b0f893 pageId:63a19a06caf8c9731bd863dc",
+        "surrogate-control": "max-age=432000",
+        "x-lambda-id": "91670fbd-9c72-4f9e-a21a-93edeb379eea",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "147400",
+        "last-modified": "Thu, 24 Apr 2025 23:45:38 GMT",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "cf-ray": "9367885b7e140688-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Alter Engineers\nAlter Consulting Engineers is well-versed to tackle projects of a wide variety of scales and scopes. They have experience specializing in the design of Zero Net Energy buildings, as well as LEED, and other high performing building standards.\n‍\nWith a long history of working in the state of California, their team is well-versed in Title 24 and CalGreen requirements. They have comprehensive experience in full design as well as design-build handoff projects, MEP concept development, and master planning. They have a special focus on energy modeling, which is extensively used in all phases of design to ensure all of their designs have optimized efficiency and performance.\n‍\nWe leveraged Alter Engineer’s physical and digital presence by creating a fresh brand identity and a brand-new website. We carefully chose the color palette and typography that would best communicate their value proposition. Additionally, we proposed social media guidelines for better digital exposure to a project.",
+    "markdown": "# Alter Engineers\n\nAlter Consulting Engineers is well-versed to tackle projects of a wide variety of scales and scopes. They have experience specializing in the design of Zero Net Energy buildings, as well as LEED, and other high performing building standards.\n\n‍\n\nWith a long history of working in the state of California, their team is well-versed in Title 24 and CalGreen requirements. They have comprehensive experience in full design as well as design-build handoff projects, MEP concept development, and master planning. They have a special focus on energy modeling, which is extensively used in all phases of design to ensure all of their designs have optimized efficiency and performance.\n\n‍\n\nWe leveraged Alter Engineer’s physical and digital presence by creating a fresh brand identity and a brand-new website. We carefully chose the color palette and typography that would best communicate their value proposition. Additionally, we proposed social media guidelines for better digital exposure to a project.",
     "competitorName": "Akeo"
   }
 ]

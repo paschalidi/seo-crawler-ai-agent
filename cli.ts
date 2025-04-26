@@ -98,6 +98,7 @@ program
   .command('crawl')
   .description('Crawl all competitor websites and process the data')
   .option('-p, --patterns <patterns>', 'Comma-separated list of URL patterns to crawl (regex format)')
+  .option('-d, --debug', 'Enable debug mode to see more detailed logs')
   .action(async (options) => {
     // Check for API keys
     if (!process.env.OPENAI_API_KEY || !process.env.APIFY_API_KEY) {
@@ -121,7 +122,15 @@ program
     // Parse custom crawl patterns if provided
     let customCrawlPatterns: string[] | undefined;
     if (options.patterns) {
-      customCrawlPatterns = options.patterns.split(',').map((pattern: string) => pattern.trim());
+      // Ensure patterns are properly formatted for regex matching
+      customCrawlPatterns = options.patterns.split(',').map((pattern: string) => {
+        const trimmedPattern = pattern.trim();
+        // If the pattern doesn't start with .* or ^, add .* to match anywhere in URL
+        if (!trimmedPattern.startsWith('.*') && !trimmedPattern.startsWith('^')) {
+          return `.*${trimmedPattern}`;
+        }
+        return trimmedPattern;
+      });
       console.log(`Using custom crawl patterns: ${customCrawlPatterns?.join(', ')}`);
     } else {
       console.log('Using default blog-related crawl patterns');
@@ -129,9 +138,15 @@ program
 
     console.log(`Starting crawl of ${competitors.length} competitors...`);
 
+    // Check if debug mode is enabled
+    const debug = options.debug || false;
+    if (debug) {
+      console.log('Debug mode enabled - you will see more detailed logs');
+    }
+
     try {
-      // Crawl competitor sites with optional custom patterns
-      const crawledData = await crawlCompetitorSites(competitors, customCrawlPatterns);
+      // Crawl competitor sites with optional custom patterns and debug flag
+      const crawledData = await crawlCompetitorSites(competitors, customCrawlPatterns, debug);
       console.log(`Successfully crawled ${crawledData.length} pages across all competitors.`);
 
       // Process and embed the competitor data
