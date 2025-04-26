@@ -1,1 +1,801 @@
-[]
+[
+  {
+    "url": "https://sagmeisterwalsh.com/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/",
+      "loadedTime": "2025-04-26T19:33:53.470Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 0,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/",
+      "title": "Work – Sagmeister & Walsh",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Work – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:image",
+          "content": "https://root.cam.sagmeisterwalsh.com/snap/s2-800x450.jpg"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com//"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:33:46 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "0",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936883818a7341a3-EWR",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Work – Sagmeister & Walsh\nBeauty\nBeauty \nBeauty Book\nBeauty Book \nBeautification Mural\nBeautification Mural",
+    "markdown": "# Work – Sagmeister & Walsh\n\n[](https://sagmeisterwalsh.com/)\n\n[\n\nBeauty\n\n\n\n](https://sagmeisterwalsh.com/work/all/beauty/)\n\n[Beauty](https://sagmeisterwalsh.com/work/all/beauty/)\n\n[\n\nBeauty Book\n\n![](https://sagmeisterwalsh.com/_image/x1200/03f4a3ae130b78221d249dfc32260286.webp)\n\n\n\n](https://sagmeisterwalsh.com/work/all/beauty-book/)\n\n[Beauty Book](https://sagmeisterwalsh.com/work/all/beauty-book/)\n\n[\n\nBeautification Mural\n\n\n\n](https://sagmeisterwalsh.com/work/all/beautification-mural/)\n\n[Beautification Mural](https://sagmeisterwalsh.com/work/all/beautification-mural/)",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/press/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/press/",
+      "loadedTime": "2025-04-26T19:34:04.746Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/press/",
+      "title": "Press – Sagmeister & Walsh",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Press – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:image",
+          "content": "https://root.cam.sagmeisterwalsh.com/snap/s2-800x450.jpg"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/press/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:33:58 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "0",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936883d1d9f041a3-EWR",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Press – Sagmeister & Walsh\nPress\nIf you are writing an article about us online, you are free to use images of our work if you use proper credits. If you would like to feature us, please email us to request hi-res images from any of the pages on our website.",
+    "markdown": "# Press – Sagmeister & Walsh\n\n## Press\n\nIf you are writing an article about us online, you are free to use images of our work if you use proper credits. If you would like to feature us, please email us to request hi-res images from any of the pages on our website.",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/search/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/search/",
+      "loadedTime": "2025-04-26T19:34:05.545Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/search/",
+      "title": "Search – Sagmeister & Walsh",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Search – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:image",
+          "content": "https://root.cam.sagmeisterwalsh.com/snap/s2-800x450.jpg"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/search/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:34:04 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "0",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936883f30f5141a3-EWR",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Search – Sagmeister & Walsh\nQuery is too short",
+    "markdown": "# Search – Sagmeister & Walsh\n\n[](https://sagmeisterwalsh.com/)\n\nQuery is too short",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/work/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/work/",
+      "loadedTime": "2025-04-26T19:34:07.364Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/work/",
+      "title": "Work – Sagmeister & Walsh",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Work – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:image",
+          "content": "https://root.cam.sagmeisterwalsh.com/snap/s2-800x450.jpg"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/work/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:33:59 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "0",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936883d37baf41a3-EWR",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Work – Sagmeister & Walsh\nBeauty\nBeauty \nBeauty Book\nBeauty Book \nBeautification Mural\nBeautification Mural",
+    "markdown": "# Work – Sagmeister & Walsh\n\n[](https://sagmeisterwalsh.com/)\n\n[\n\nBeauty\n\n\n\n](https://sagmeisterwalsh.com/work/all/beauty/)\n\n[Beauty](https://sagmeisterwalsh.com/work/all/beauty/)\n\n[\n\nBeauty Book\n\n![](https://sagmeisterwalsh.com/_image/x1200/03f4a3ae130b78221d249dfc32260286.webp)\n\n\n\n](https://sagmeisterwalsh.com/work/all/beauty-book/)\n\n[Beauty Book](https://sagmeisterwalsh.com/work/all/beauty-book/)\n\n[\n\nBeautification Mural\n\n\n\n](https://sagmeisterwalsh.com/work/all/beautification-mural/)\n\n[Beautification Mural](https://sagmeisterwalsh.com/work/all/beautification-mural/)",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/about/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/about/",
+      "loadedTime": "2025-04-26T19:34:06.847Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/about/",
+      "title": "About – Sagmeister & Walsh",
+      "description": "Sagmeister & Walsh is a creative agency based in New York City. We are a full-service studio creating strategy, design & production across all platforms. We specialize in brand identities, campaigns, social strategy & content creation, commercials, websites, apps, books, environments, and more. ",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "About – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:description",
+          "content": "Sagmeister & Walsh is a creative agency based in New York City. We are a full-service studio creating strategy, design & production across all platforms. We specialize in brand identities, campaigns, social strategy & content creation, commercials, websites, apps, books, environments, and more. "
+        },
+        {
+          "property": "og:image",
+          "content": "https://root.cam.sagmeisterwalsh.com/snap/s2-800x450.jpg"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/about/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:33:59 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "0",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936883d6cf8c41a3-EWR",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "About – Sagmeister & Walsh\nStefan Sagmeister\nSep 24, 2019\nAGI Open\nRotterdam, Netherlands \nStefan Sagmeister\nOct 03, 2019\nSpeedinvest\nVienna \nJessica Walsh\nOct 16, 2019\nFacebook Summit\nSao Paulo, Brazil \nStefan Sagmeister\nOct 28, 2019\nBold Festival\nLisbon, Portugal \nStefan Sagmeister\nNov 06, 2019\nAdobe MAX\nLos Angeles, USA \nStefan Sagmeister\nNov 09, 2019\nLa Ciudad de las Ideas\nPuebla, Mexico \nStefan Sagmeister\nNov 22, 2019\nGraphic Design Festival Scotland\nGlasgow, Scotland \nStefan Sagmeister\nMar 03, 2020\nUniversity of Wisconsin-Whitewater\nWhitewater, Wisconsin, USA \nStefan Sagmeister\nApr 10, 2020\nIng Creatives\nDubai \nStefan Sagmeister\nMay 29, 2020\nForward Creatives\nBerlin \nStefan Sagmeister\nJun 17, 2020\nJura\nSwitzerland \nStefan Sagmeister\nOct 31, 2019\nKikk Festival\nNamur, Belgium",
+    "markdown": "# About – Sagmeister & Walsh\n\nStefan Sagmeister  \nSep 24, 2019\n\nAGI Open  \nRotterdam, Netherlands\n\nStefan Sagmeister  \nOct 03, 2019\n\nSpeedinvest  \nVienna\n\nJessica Walsh  \nOct 16, 2019\n\nFacebook Summit  \nSao Paulo, Brazil\n\nStefan Sagmeister  \nOct 28, 2019\n\nBold Festival  \nLisbon, Portugal\n\nStefan Sagmeister  \nNov 06, 2019\n\nAdobe MAX  \nLos Angeles, USA\n\nStefan Sagmeister  \nNov 09, 2019\n\nLa Ciudad de las Ideas  \nPuebla, Mexico\n\nStefan Sagmeister  \nNov 22, 2019\n\nGraphic Design Festival Scotland  \nGlasgow, Scotland\n\nStefan Sagmeister  \nMar 03, 2020\n\nUniversity of Wisconsin-Whitewater  \nWhitewater, Wisconsin, USA\n\nStefan Sagmeister  \nApr 10, 2020\n\nIng Creatives  \nDubai\n\nStefan Sagmeister  \nMay 29, 2020\n\nForward Creatives  \nBerlin\n\nStefan Sagmeister  \nJun 17, 2020\n\nJura  \nSwitzerland\n\nStefan Sagmeister  \nOct 31, 2019\n\nKikk Festival  \nNamur, Belgium",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/about/forwardcreatives.com",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/about/forwardcreatives.com",
+      "loadedTime": "2025-04-26T19:34:22.551Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/about/",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/about/forwardcreatives.com",
+      "title": "About – Sagmeister & Walsh",
+      "description": "Sagmeister & Walsh is a creative agency based in New York City. We are a full-service studio creating strategy, design & production across all platforms. We specialize in brand identities, campaigns, social strategy & content creation, commercials, websites, apps, books, environments, and more. ",
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "About – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:description",
+          "content": "Sagmeister & Walsh is a creative agency based in New York City. We are a full-service studio creating strategy, design & production across all platforms. We specialize in brand identities, campaigns, social strategy & content creation, commercials, websites, apps, books, environments, and more. "
+        },
+        {
+          "property": "og:image",
+          "content": "https://root.cam.sagmeisterwalsh.com/snap/s2-800x450.jpg"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/about/forwardcreatives.com/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:34:19 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "0",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936884511ea34261-EWR",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "About – Sagmeister & Walsh\nStefan Sagmeister\nSep 24, 2019\nAGI Open\nRotterdam, Netherlands \nStefan Sagmeister\nOct 03, 2019\nSpeedinvest\nVienna \nJessica Walsh\nOct 16, 2019\nFacebook Summit\nSao Paulo, Brazil \nStefan Sagmeister\nOct 28, 2019\nBold Festival\nLisbon, Portugal \nStefan Sagmeister\nNov 06, 2019\nAdobe MAX\nLos Angeles, USA \nStefan Sagmeister\nNov 09, 2019\nLa Ciudad de las Ideas\nPuebla, Mexico \nStefan Sagmeister\nNov 22, 2019\nGraphic Design Festival Scotland\nGlasgow, Scotland \nStefan Sagmeister\nMar 03, 2020\nUniversity of Wisconsin-Whitewater\nWhitewater, Wisconsin, USA \nStefan Sagmeister\nApr 10, 2020\nIng Creatives\nDubai \nStefan Sagmeister\nMay 29, 2020\nForward Creatives\nBerlin \nStefan Sagmeister\nJun 17, 2020\nJura\nSwitzerland \nStefan Sagmeister\nOct 31, 2019\nKikk Festival\nNamur, Belgium",
+    "markdown": "# About – Sagmeister & Walsh\n\nStefan Sagmeister  \nSep 24, 2019\n\nAGI Open  \nRotterdam, Netherlands\n\nStefan Sagmeister  \nOct 03, 2019\n\nSpeedinvest  \nVienna\n\nJessica Walsh  \nOct 16, 2019\n\nFacebook Summit  \nSao Paulo, Brazil\n\nStefan Sagmeister  \nOct 28, 2019\n\nBold Festival  \nLisbon, Portugal\n\nStefan Sagmeister  \nNov 06, 2019\n\nAdobe MAX  \nLos Angeles, USA\n\nStefan Sagmeister  \nNov 09, 2019\n\nLa Ciudad de las Ideas  \nPuebla, Mexico\n\nStefan Sagmeister  \nNov 22, 2019\n\nGraphic Design Festival Scotland  \nGlasgow, Scotland\n\nStefan Sagmeister  \nMar 03, 2020\n\nUniversity of Wisconsin-Whitewater  \nWhitewater, Wisconsin, USA\n\nStefan Sagmeister  \nApr 10, 2020\n\nIng Creatives  \nDubai\n\nStefan Sagmeister  \nMay 29, 2020\n\nForward Creatives  \nBerlin\n\nStefan Sagmeister  \nJun 17, 2020\n\nJura  \nSwitzerland\n\nStefan Sagmeister  \nOct 31, 2019\n\nKikk Festival  \nNamur, Belgium",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/work/all/beauty-book/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/work/all/beauty-book/",
+      "loadedTime": "2025-04-26T19:35:54.369Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/work/all/beauty-book/",
+      "title": "Beauty Book – Sagmeister & Walsh",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Beauty Book – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:image",
+          "content": "https://sagmeisterwalsh.com/_image/600x/03f4a3ae130b78221d249dfc32260286.jpg"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/work/all/beauty-book/"
+        }
+      ],
+      "jsonLd": [
+        {
+          "embedUrl": "https://player.vimeo.com/video/310090519?h=9c7d727953",
+          "thumbnailUrl": "https://i.vimeocdn.com/video/750608959-56a551942e2ba7509344393356e1a8a706e08cfa653cfd14c8e0cf4141ecc68b-d?f=webp",
+          "name": "Beauty Book",
+          "description": "This is \"Beauty Book\" by \"&Walsh\" on Vimeo, the home for high quality videos and the people who love them.",
+          "duration": "PT36S",
+          "uploadDate": "2019-01-08T07:19:11-05:00",
+          "@context": "https://schema.org/",
+          "@type": "VideoObject"
+        }
+      ],
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:35:17 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "66",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936885ba6a28ac4e-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Beauty Book – Sagmeister & Walsh\nCreative Direction: Stefan Sagmeister and Jessica Walsh \nLead Designers: Kevin Brainard and Cybele Grandjean \nIllustration: Daniel Brokstad, Matteo Giuseppe Pani, and Chen Yu \n3D Artwork: David McLeod and Fran Rossi \nProduction S&W: Erica Grubman, Gosbinda Vizarretea, and Megan Oldfield \nPhotography: Sarah Hopp \nPhaidon Editor: Sara Bader \nPhaidon Production Director: Elaine Ward \nPhaidon Production Artist: Joao Mota",
+    "markdown": "# Beauty Book – Sagmeister & Walsh\n\nCreative Direction: Stefan Sagmeister and Jessica Walsh\n\nLead Designers: Kevin Brainard and Cybele Grandjean\n\nIllustration: Daniel Brokstad, Matteo Giuseppe Pani, and Chen Yu\n\n3D Artwork: David McLeod and Fran Rossi\n\nProduction S&W: Erica Grubman, Gosbinda Vizarretea, and Megan Oldfield\n\nPhotography: Sarah Hopp\n\nPhaidon Editor: Sara Bader\n\nPhaidon Production Director: Elaine Ward\n\nPhaidon Production Artist: Joao Mota",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/work/all/beauty/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "loadedTime": "2025-04-26T19:36:12.562Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "title": "Beauty – Sagmeister & Walsh",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Beauty – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:image",
+          "content": "https://sagmeisterwalsh.com/_image/600x/c1a744853fcd6cc78d812b32dfd40cf9.mp4"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/work/all/beauty/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:35:17 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "66",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936885ba7e27f788-EWR",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Beauty – Sagmeister & Walsh\nCREATIVE DIRECTION: Stefan Sagmeister, Jessica Walsh \nS&W Production: Stefan Sagmeister, Jessica Walsh, Bika Siliba Redek, Gosbinda Vizarretea, Erica Grubman, Elliott Lavi \nLEAD DESIGN: Daniel Brokstad \n3D / MOTION: David McLeod, Saad Moosajee \nDESIGN: Shy Inbar, Matteo Giuseppe Pani, Chen Yu \nEXHIBITION: Kathrin Pokorny-Nagel, Elisabeth Wolfik \nPhotography: Aslan Kudrnofsky, Georg Mayer, Sarah Hopp \nTYPEFACE: Daniel Brokstad, Ondrej Jób",
+    "markdown": "# Beauty – Sagmeister & Walsh\n\nCREATIVE DIRECTION: Stefan Sagmeister, Jessica Walsh\n\nS&W Production: Stefan Sagmeister, Jessica Walsh, Bika Siliba Redek, Gosbinda Vizarretea, Erica Grubman, Elliott Lavi\n\nLEAD DESIGN: Daniel Brokstad\n\n3D / MOTION: David McLeod, Saad Moosajee\n\nDESIGN: Shy Inbar, Matteo Giuseppe Pani, Chen Yu\n\nEXHIBITION: Kathrin Pokorny-Nagel, Elisabeth Wolfik\n\nPhotography: Aslan Kudrnofsky, Georg Mayer, Sarah Hopp\n\nTYPEFACE: Daniel Brokstad, Ondrej Jób",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/work/all/beautification-mural/",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/work/all/beautification-mural/",
+      "loadedTime": "2025-04-26T19:36:12.670Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/work/all/beautification-mural/",
+      "title": "Beautification Mural – Sagmeister & Walsh",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Beautification Mural – Sagmeister & Walsh"
+        },
+        {
+          "property": "og:image",
+          "content": "https://sagmeisterwalsh.com/_image/600x/3cb1987f7191cf16e6000617e0215300.mp4"
+        },
+        {
+          "property": "og:url",
+          "content": "https://sagmeisterwalsh.com/work/all/beautification-mural/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:35:24 GMT",
+        "content-type": "text/html; charset=UTF-8;",
+        "vary": "Accept-Encoding",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "permissions-policy": "interest-cohort=()",
+        "strict-transport-security": "max-age=43299",
+        "age": "65",
+        "cf-cache-status": "DYNAMIC",
+        "content-encoding": "zstd",
+        "cf-ray": "936885e90d18ac4e-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Beautification Mural – Sagmeister & Walsh\nCREATIVE DIRECTION: Jessica Walsh, Stefan Sagmeister \nCOPYWRITING: Jessica Walsh \nPRODUCTION: Stephanie Halovanic, Erica Grubman \nDESIGN: HeeJae Kim, Soomin Jung \n3D & ANIMATION: Sanchit Sawaria, Lucas Luz, Soomin Jung \nMural Painting: Burggasse 98",
+    "markdown": "# Beautification Mural – Sagmeister & Walsh\n\nCREATIVE DIRECTION: Jessica Walsh, Stefan Sagmeister\n\nCOPYWRITING: Jessica Walsh\n\nPRODUCTION: Stephanie Halovanic, Erica Grubman\n\nDESIGN: HeeJae Kim, Soomin Jung\n\n3D & ANIMATION: Sanchit Sawaria, Lucas Luz, Soomin Jung\n\nMural Painting: Burggasse 98",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/1fa116f6e11a2f7c46843596250f7c29.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/1fa116f6e11a2f7c46843596250f7c29.mp4",
+      "loadedTime": "2025-04-26T19:36:34.242Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/1fa116f6e11a2f7c46843596250f7c29.mp4",
+      "title": "1fa116f6e11a2f7c46843596250f7c29.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:36:32 GMT",
+        "content-length": "0",
+        "age": "0",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "server": "cloudflare",
+        "cf-ray": "93688791997babb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "1fa116f6e11a2f7c46843596250f7c29.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/cc876fb5d452ed33ade5335b04e43421.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/cc876fb5d452ed33ade5335b04e43421.mp4",
+      "loadedTime": "2025-04-26T19:36:34.351Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/cc876fb5d452ed33ade5335b04e43421.mp4",
+      "title": "cc876fb5d452ed33ade5335b04e43421.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:36:33 GMT",
+        "content-length": "0",
+        "age": "0",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "server": "cloudflare",
+        "cf-ray": "936887957e36abb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "cc876fb5d452ed33ade5335b04e43421.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/2a345ebe8cf45366433fab9a871c135b.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/2a345ebe8cf45366433fab9a871c135b.mp4",
+      "loadedTime": "2025-04-26T19:36:35.348Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/2a345ebe8cf45366433fab9a871c135b.mp4",
+      "title": "2a345ebe8cf45366433fab9a871c135b.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:36:34 GMT",
+        "content-length": "0",
+        "age": "0",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "server": "cloudflare",
+        "cf-ray": "9368879e3820abb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "2a345ebe8cf45366433fab9a871c135b.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/c4e56fb5308325672aef313aa229ecd7.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/c4e56fb5308325672aef313aa229ecd7.mp4",
+      "loadedTime": "2025-04-26T19:36:44.442Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/c4e56fb5308325672aef313aa229ecd7.mp4",
+      "title": "c4e56fb5308325672aef313aa229ecd7.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:36:41 GMT",
+        "content-length": "0",
+        "server": "cloudflare",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "cf-ray": "936887cbabbcabb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "c4e56fb5308325672aef313aa229ecd7.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/1e009fff36cab111cb61e82ee1e18aaa.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/1e009fff36cab111cb61e82ee1e18aaa.mp4",
+      "loadedTime": "2025-04-26T19:36:44.881Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/1e009fff36cab111cb61e82ee1e18aaa.mp4",
+      "title": "1e009fff36cab111cb61e82ee1e18aaa.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:36:42 GMT",
+        "content-length": "0",
+        "age": "0",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "server": "cloudflare",
+        "cf-ray": "936887cf1838abb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "1e009fff36cab111cb61e82ee1e18aaa.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/aa542152893739b00727a67ca59334b4.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/aa542152893739b00727a67ca59334b4.mp4",
+      "loadedTime": "2025-04-26T19:36:44.949Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/aa542152893739b00727a67ca59334b4.mp4",
+      "title": "aa542152893739b00727a67ca59334b4.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:36:42 GMT",
+        "content-length": "0",
+        "server": "cloudflare",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "cf-ray": "936887d0599fabb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "aa542152893739b00727a67ca59334b4.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/cdd80d6c3e0685afa78727d08601a105.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/cdd80d6c3e0685afa78727d08601a105.mp4",
+      "loadedTime": "2025-04-26T19:36:48.056Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beauty/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/cdd80d6c3e0685afa78727d08601a105.mp4",
+      "title": "cdd80d6c3e0685afa78727d08601a105.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:36:46 GMT",
+        "content-length": "0",
+        "age": "0",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "server": "cloudflare",
+        "cf-ray": "936887ea9f43abb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "cdd80d6c3e0685afa78727d08601a105.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/c168f498b82212d3f22295b9b232b814.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/c168f498b82212d3f22295b9b232b814.mp4",
+      "loadedTime": "2025-04-26T19:37:19.986Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beautification-mural/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/c168f498b82212d3f22295b9b232b814.mp4",
+      "title": "c168f498b82212d3f22295b9b232b814.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:37:19 GMT",
+        "content-length": "0",
+        "server": "cloudflare",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "cf-ray": "936888b5ae44abb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "c168f498b82212d3f22295b9b232b814.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  },
+  {
+    "url": "https://sagmeisterwalsh.com/_image/2600x/3af112cae4526d2a94affb8791d340cd.mp4",
+    "crawl": {
+      "loadedUrl": "https://sagmeisterwalsh.com/_image/2600x/3af112cae4526d2a94affb8791d340cd.mp4",
+      "loadedTime": "2025-04-26T19:37:21.857Z",
+      "referrerUrl": "https://sagmeisterwalsh.com/work/all/beautification-mural/",
+      "depth": 2,
+      "httpStatusCode": 404
+    },
+    "metadata": {
+      "canonicalUrl": "https://sagmeisterwalsh.com/_image/2600x/3af112cae4526d2a94affb8791d340cd.mp4",
+      "title": "3af112cae4526d2a94affb8791d340cd.mp4",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": null,
+      "jsonLd": null,
+      "headers": {
+        "date": "Sat, 26 Apr 2025 19:37:21 GMT",
+        "content-length": "0",
+        "age": "0",
+        "cache-control": "max-age=14400",
+        "cf-cache-status": "MISS",
+        "server": "cloudflare",
+        "cf-ray": "936888c10b4babb8-YYZ",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "",
+    "markdown": "3af112cae4526d2a94affb8791d340cd.mp4",
+    "competitorName": "Sagmeister & Walsh"
+  }
+]

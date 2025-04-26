@@ -482,7 +482,7 @@ export async function generateBlogExample(topic: string, debug: boolean = false)
   try {
     const blogPost = await generateBlogPost({
       topic,
-      keywords: ["digital agency", 'automation', "lead generation", 'n8n', "clients", "customer acquisition"],
+      keywords: ["digital agency", 'tips', "gotchas", 'first time client', "agency", "digital services"],
       targetWordCount: 2000,
       tone: "professional and sharing tips",
       audience: "small business owners looking for digital services"
