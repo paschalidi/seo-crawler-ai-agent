@@ -3,7 +3,7 @@
     "url": "https://fantasy.co/",
     "crawl": {
       "loadedUrl": "https://fantasy.co/",
-      "loadedTime": "2025-04-26T16:16:02.378Z",
+      "loadedTime": "2025-04-26T18:24:55.284Z",
       "referrerUrl": "https://fantasy.co/",
       "depth": 0,
       "httpStatusCode": 200
@@ -18,7 +18,7 @@
       "jsonLd": null,
       "headers": {
         "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:15:58 GMT",
+        "date": "Sat, 26 Apr 2025 18:24:48 GMT",
         "content-type": "text/html; charset=utf-8",
         "x-dns-prefetch-control": "off",
         "x-frame-options": "SAMEORIGIN",
@@ -41,7 +41,7 @@
     "url": "https://fantasy.co/contact",
     "crawl": {
       "loadedUrl": "https://fantasy.co/contact",
-      "loadedTime": "2025-04-26T16:16:10.493Z",
+      "loadedTime": "2025-04-26T18:25:04.157Z",
       "referrerUrl": "https://fantasy.co/",
       "depth": 1,
       "httpStatusCode": 200
@@ -56,7 +56,7 @@
       "jsonLd": null,
       "headers": {
         "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:16:08 GMT",
+        "date": "Sat, 26 Apr 2025 18:25:01 GMT",
         "content-type": "text/html; charset=utf-8",
         "x-dns-prefetch-control": "off",
         "x-frame-options": "SAMEORIGIN",
@@ -76,124 +76,10 @@
     "competitorName": "Fantasy"
   },
   {
-    "url": "https://fantasy.co/policy",
-    "crawl": {
-      "loadedUrl": "https://fantasy.co/policy",
-      "loadedTime": "2025-04-26T16:16:18.013Z",
-      "referrerUrl": "https://fantasy.co/",
-      "depth": 1,
-      "httpStatusCode": 200
-    },
-    "metadata": {
-      "canonicalUrl": "https://fantasy.co/policy",
-      "title": "F A N T A S Y - Policy",
-      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
-      "author": "Fantasy agency",
-      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
-      "languageCode": "en",
-      "jsonLd": null,
-      "headers": {
-        "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:16:16 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "x-dns-prefetch-control": "off",
-        "x-frame-options": "SAMEORIGIN",
-        "strict-transport-security": "max-age=15552000; includeSubDomains",
-        "x-download-options": "noopen",
-        "x-content-type-options": "nosniff",
-        "x-xss-protection": "1; mode=block",
-        "etag": "W/\"a518-kOSbDNvSgwkoLn/QacZSXCmN3Pg\"",
-        "vary": "Accept-Encoding",
-        "content-encoding": "gzip",
-        "x-firefox-spdy": "h2"
-      }
-    },
-    "screenshotUrl": null,
-    "text": "F A N T A S Y\nFantasy Interactive, Inc. Privacy Policy\nFantasy Interactive, Inc. (“Fantasy”) is committed to safeguarding the personally identifiable information that you share with us online. Generally, you can browse our website,\nhttps://www.fantasy.co/\n(this “Site”), without sharing any personal information. However, should you submit a form, including, but not limited to a job application form, contact form, or any email messages to any fantasy.co email address (collectively, “Forms” and each, a “Form”), you will be required to voluntarily submit personal information. We may also collect information on how you use this Site, such as resources browsed, searched and downloaded; the frequency and duration of visits, and your source Internet Protocol (“IP”) address.\nPlease read the following statement to understand how we collect, use, maintain, and disclose your personal information.\nWhen Personal Information is Required\nAs stated above, this Privacy Policy covers the use of this Site when you submit a Form.\nWhat Information We Collect\nPersonally identifiable information\nThis is information that may be used to identify you as an individual, such as your e-mail address, name, address, or telephone number. We may collect this information when you submit a Form.\nNon-personally identifiable information\nThis is information that does not by itself identify a specific individual. We may collect this information in a number of ways on this Site, including, but not limited to, how you use this Site, such as resources browsed, searched and downloaded, the frequency and duration of visits, and your source IP address.\nCookies\nA cookie is a data file that certain Web sites write to your computer’s hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. We may collect information from your web sessions by using cookies, to determine, for example, user traffic patterns, and the effectiveness of our navigational structure.\nMost Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. You don’t need to have cookies turned on to use/navigate through many parts of this Site, however, you may have to accept the receipt of cookies to access some Forms on this Site.\nHow We Use Your Information\nIf you choose to provide Fantasy with your personal information, where appropriate, Fantasy or its representative may use this information to contact you.\nWe may use the personal information collected during the use of this Site to personalize web content where applicable.\nWe may send you email when you submit a Form.\nWe may also use your information for user research.\nWe may also use the information to contact you when we have major functional changes to this Site.\nWe may periodically send email for administrative purposes.\nWe may disclose information about our users when we believe, in good faith, that the disclosure is required by law.\nSharing Your Information\nIn cases where we need to disclose web usage reports to non-Fantasy parties, your personal information will remain anonymous. We do not disclose, sell, exchange nor trade your personally identifiable information to any mailing lists.\nMaintaining Your Information\nWe take information security issues seriously. Consequently, any personally identifiable information is stored and protected on servers with adequate security measures. We will cease all communication and use of personally identifiable information upon your request.\nLinks To Other Sites\nThis Site contains links to other Web sites. Please be aware that Fantasy is not responsible for the privacy practices of other sites. We encourage our users to be aware that when they leave this Site to read the privacy policies of each and every Web site that collects personally identifiable information.\nThis Privacy Policy applies solely to information collected by this Site.\nChanges To This Statement\nIf there are changes or additions to the terms of this Privacy Policy, we will post those changes here prior to implementing the change, and as such, Fantasy encourages you to periodically review this Privacy Policy so you are informed about updates.\nIf there are material changes to this Privacy Policy, Fantasy will notify the users of such changes using the personally identifiable information collected on this Site.\nIf you are interested in learning more about Fantasy or are looking to request a quote, please contact us.",
-    "markdown": "# F A N T A S Y\n\nFantasy Interactive, Inc. Privacy Policy\n\nFantasy Interactive, Inc. (“Fantasy”) is committed to safeguarding the personally identifiable information that you share with us online. Generally, you can browse our website,\n\n[https://www.fantasy.co/](https://www.fantasy.co/)\n\n(this “Site”), without sharing any personal information. However, should you submit a form, including, but not limited to a job application form, contact form, or any email messages to any fantasy.co email address (collectively, “Forms” and each, a “Form”), you will be required to voluntarily submit personal information. We may also collect information on how you use this Site, such as resources browsed, searched and downloaded; the frequency and duration of visits, and your source Internet Protocol (“IP”) address.\n\nPlease read the following statement to understand how we collect, use, maintain, and disclose your personal information.\n\nWhen Personal Information is Required\n\nAs stated above, this Privacy Policy covers the use of this Site when you submit a Form.\n\nWhat Information We Collect\n\nPersonally identifiable information\n\nThis is information that may be used to identify you as an individual, such as your e-mail address, name, address, or telephone number. We may collect this information when you submit a Form.\n\nNon-personally identifiable information\n\nThis is information that does not by itself identify a specific individual. We may collect this information in a number of ways on this Site, including, but not limited to, how you use this Site, such as resources browsed, searched and downloaded, the frequency and duration of visits, and your source IP address.\n\nCookies\n\nA cookie is a data file that certain Web sites write to your computer’s hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. We may collect information from your web sessions by using cookies, to determine, for example, user traffic patterns, and the effectiveness of our navigational structure.\n\nMost Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. You don’t need to have cookies turned on to use/navigate through many parts of this Site, however, you may have to accept the receipt of cookies to access some Forms on this Site.\n\nHow We Use Your Information\n\nIf you choose to provide Fantasy with your personal information, where appropriate, Fantasy or its representative may use this information to contact you.\n\n*   We may use the personal information collected during the use of this Site to personalize web content where applicable.\n*   We may send you email when you submit a Form.\n*   We may also use your information for user research.\n*   We may also use the information to contact you when we have major functional changes to this Site.\n*   We may periodically send email for administrative purposes.\n*   We may disclose information about our users when we believe, in good faith, that the disclosure is required by law.\n\nSharing Your Information\n\nIn cases where we need to disclose web usage reports to non-Fantasy parties, your personal information will remain anonymous. We do not disclose, sell, exchange nor trade your personally identifiable information to any mailing lists.\n\nMaintaining Your Information\n\nWe take information security issues seriously. Consequently, any personally identifiable information is stored and protected on servers with adequate security measures. We will cease all communication and use of personally identifiable information upon your request.\n\nLinks To Other Sites\n\nThis Site contains links to other Web sites. Please be aware that Fantasy is not responsible for the privacy practices of other sites. We encourage our users to be aware that when they leave this Site to read the privacy policies of each and every Web site that collects personally identifiable information.\n\nThis Privacy Policy applies solely to information collected by this Site.\n\nChanges To This Statement\n\nIf there are changes or additions to the terms of this Privacy Policy, we will post those changes here prior to implementing the change, and as such, Fantasy encourages you to periodically review this Privacy Policy so you are informed about updates.\n\nIf there are material changes to this Privacy Policy, Fantasy will notify the users of such changes using the personally identifiable information collected on this Site.\n\nIf you are interested in learning more about Fantasy or are looking to request a quote, please contact us.",
-    "competitorName": "Fantasy"
-  },
-  {
-    "url": "https://www.fantasy.co/",
-    "crawl": {
-      "loadedUrl": "https://www.fantasy.co/",
-      "loadedTime": "2025-04-26T16:16:45.417Z",
-      "referrerUrl": "https://fantasy.co/policy",
-      "depth": 2,
-      "httpStatusCode": 200
-    },
-    "metadata": {
-      "canonicalUrl": "https://www.fantasy.co/",
-      "title": "F A N T A S Y",
-      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
-      "author": "Fantasy agency",
-      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
-      "languageCode": "en",
-      "jsonLd": null,
-      "headers": {
-        "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:16:24 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "x-dns-prefetch-control": "off",
-        "x-frame-options": "SAMEORIGIN",
-        "strict-transport-security": "max-age=15552000; includeSubDomains",
-        "x-download-options": "noopen",
-        "x-content-type-options": "nosniff",
-        "x-xss-protection": "1; mode=block",
-        "etag": "W/\"8ae7-5AWnC9xb0x4OD9aUOFoRhTFCZXU\"",
-        "vary": "Accept-Encoding",
-        "content-encoding": "gzip",
-        "x-firefox-spdy": "h2"
-      }
-    },
-    "screenshotUrl": null,
-    "text": "F A N T A S Y\nWe’re a world\nleading product\ninnovation team\nCollaborating with ambitious companies to create\ndigital experiences used by billions everyday.\nOur company\nWe work from\nstrategy to\nexecution\nUsing our Think Beyond™ process to help partners\nidentify clear opportunity and launch market-leading\nproducts and services.\nInnovators, leaders\nand passionate\ncollaborators\nA team dedicated to making significant impact.\nCareers\nMay 4th, 2020\nWelcome\nWheels Up!\nReimagining the future of flying private. \nFollow us on dribbble\nWe create and launch entire digital\necosystems used by billions.\nDribbble\nFrom our blog\nWe create and launch entire digital ecosystems used by billions.\nRead Blog\nThank you, !\nYour message has been sent successfully.\nContact Us",
-    "markdown": "# F A N T A S Y\n\n## \n\nWe’re a world  \nleading product  \ninnovation team\n\nCollaborating with ambitious companies to create  \ndigital experiences used by billions everyday.\n\n[\n\nOur company\n\n](https://www.fantasy.co/about)\n\n## \n\nWe work from  \nstrategy to  \nexecution\n\nUsing our Think Beyond™ process to help partners  \nidentify clear opportunity and launch market-leading  \nproducts and services.\n\n## \n\nInnovators, leaders  \nand passionate  \ncollaborators\n\nA team dedicated to making significant impact.\n\n[\n\nCareers\n\n](https://www.fantasy.co/careers)\n\nMay 4th, 2020\n\n## Welcome  \nWheels Up!\n\nReimagining the future of flying private.\n\n![](https://images.prismic.io/fantasy-site/8d10720c-9794-4403-a606-02b29998bdba_Wheelsup.png?auto=compress,format)\n\n## Follow us on dribbble\n\nWe create and launch entire digital  \necosystems used by billions.\n\n[\n\nDribbble\n\n](https://dribbble.com/Fantasy)\n\n## From our blog\n\nWe create and launch entire digital ecosystems used by billions.\n\n[Read Blog](https://medium.com/@WeAreFantasy)\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
-    "competitorName": "Fantasy"
-  },
-  {
-    "url": "https://fantasy.co/about",
-    "crawl": {
-      "loadedUrl": "https://fantasy.co/about",
-      "loadedTime": "2025-04-26T16:16:38.867Z",
-      "referrerUrl": "https://fantasy.co/",
-      "depth": 1,
-      "httpStatusCode": 200
-    },
-    "metadata": {
-      "canonicalUrl": "https://fantasy.co/about",
-      "title": "F A N T A S Y - About",
-      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
-      "author": "Fantasy agency",
-      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
-      "languageCode": "en",
-      "jsonLd": null,
-      "headers": {
-        "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:16:07 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "x-dns-prefetch-control": "off",
-        "x-frame-options": "SAMEORIGIN",
-        "strict-transport-security": "max-age=15552000; includeSubDomains",
-        "x-download-options": "noopen",
-        "x-content-type-options": "nosniff",
-        "x-xss-protection": "1; mode=block",
-        "etag": "W/\"8b18-T8ZgmAfoFdVB/jJvbn1kBDu/2Ok\"",
-        "vary": "Accept-Encoding",
-        "content-encoding": "gzip",
-        "x-firefox-spdy": "h2"
-      }
-    },
-    "screenshotUrl": null,
-    "text": "F A N T A S Y\nWe design digital\nproducts and\nservices used by\nbillions globally\nOur work and impact is our sales team – we’ve not\nhad any other since 1999.\nWe help our\nclients better\nunderstand and\naccelerate in their\nmarket\nWorking to define digital strategies and\ntransformational product offerings.\nVision & Strategy Work\nUsing our unique\nThink Beyond\nprocess to\ntransform deep\ninsight into impact\n“There is no team globally with the depth of experience\nand skillset that Fantasy have at this point” —\nLG\nWe bring\nexperiences to\nmarket from\nstrategy to\nexecution\nIntegrating a diverse range of expert skillsets.\nProduct Work\nAnd become\nnatural parts of\nour clients’ teams\nWe work out in the open and naturally see each other\nas extensions of each other’s teams.\n“Fantasy has catapulted\nour products forward”\nBrett Wilms\nVP Product, Indeed\nInnovators, leaders\nand passionate\ncollaborators\nA team dedicated to making significant impact.\nCareers\nThe secrets to our success\nThe world’s best,\ndedicated to you\nOur clients work with senior, hand-picked\nteams, perfectly tailored to them.\nGlobal perspectives,\nwith a global mindset\nOur team hails from all over the world, bringing\ndiverse perspectives and experiences.\nFocused on significant,\nmeasurable impact\nWe prove our value by staying\nlaser-focused on validating impact.\nInfectious creativity that\nenergizes entire companies\nWe’re skilled in generating incredible, new\nmomentum within organizations of all sizes.\nSetting our sights on\nthe unprecedented\nWe truly believe that if you can\nimagine it, you can create it.\nWe give it everything\nbecause we care\nWe’re proud of the work we do and are\nmotivated by our clients’ success.\nThank you, !\nYour message has been sent successfully.\nContact Us",
-    "markdown": "# F A N T A S Y\n\n## We design digital  \nproducts and  \nservices used by  \nbillions globally\n\nOur work and impact is our sales team – we’ve not  \nhad any other since 1999.\n\n## We help our  \nclients better  \nunderstand and  \naccelerate in their  \nmarket\n\nWorking to define digital strategies and  \ntransformational product offerings.\n\n[\n\nVision & Strategy Work\n\n](https://fantasy.co/what-we-do/vision-strategy)\n\n## Using our unique  \nThink Beyond  \nprocess to  \ntransform deep  \ninsight into impact\n\n“There is no team globally with the depth of experience  \nand skillset that Fantasy have at this point” —  \nLG\n\n## We bring  \nexperiences to  \nmarket from  \nstrategy to  \nexecution\n\nIntegrating a diverse range of expert skillsets.\n\n[\n\nProduct Work\n\n](https://fantasy.co/what-we-do/products)\n\n## And become  \nnatural parts of  \nour clients’ teams\n\nWe work out in the open and naturally see each other  \nas extensions of each other’s teams.\n\n“Fantasy has catapulted  \nour products forward”\n\nBrett Wilms  \nVP Product, Indeed\n\n## Innovators, leaders  \nand passionate  \ncollaborators\n\nA team dedicated to making significant impact.\n\n[\n\nCareers\n\n](https://fantasy.co/careers)\n\nThe secrets to our success\n\n*   The world’s best,  \n    dedicated to you\n    \n    Our clients work with senior, hand-picked  \n    teams, perfectly tailored to them.\n    \n*   Global perspectives,  \n    with a global mindset\n    \n    Our team hails from all over the world, bringing  \n    diverse perspectives and experiences.\n    \n*   Focused on significant,  \n    measurable impact\n    \n    We prove our value by staying  \n    laser-focused on validating impact.\n    \n*   Infectious creativity that  \n    energizes entire companies\n    \n    We’re skilled in generating incredible, new  \n    momentum within organizations of all sizes.\n    \n*   Setting our sights on  \n    the unprecedented\n    \n    We truly believe that if you can  \n    imagine it, you can create it.\n    \n*   We give it everything  \n    because we care\n    \n    We’re proud of the work we do and are  \n    motivated by our clients’ success.\n    \n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
-    "competitorName": "Fantasy"
-  },
-  {
     "url": "https://fantasy.co/what-we-do",
     "crawl": {
       "loadedUrl": "https://fantasy.co/what-we-do",
-      "loadedTime": "2025-04-26T16:16:46.777Z",
+      "loadedTime": "2025-04-26T18:25:10.966Z",
       "referrerUrl": "https://fantasy.co/",
       "depth": 1,
       "httpStatusCode": 200
@@ -208,7 +94,7 @@
       "jsonLd": null,
       "headers": {
         "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:16:08 GMT",
+        "date": "Sat, 26 Apr 2025 18:25:00 GMT",
         "content-type": "text/html; charset=utf-8",
         "x-dns-prefetch-control": "off",
         "x-frame-options": "SAMEORIGIN",
@@ -228,10 +114,48 @@
     "competitorName": "Fantasy"
   },
   {
+    "url": "https://fantasy.co/policy",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/policy",
+      "loadedTime": "2025-04-26T18:25:11.933Z",
+      "referrerUrl": "https://fantasy.co/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/policy",
+      "title": "F A N T A S Y - Policy",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:10 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"a518-kOSbDNvSgwkoLn/QacZSXCmN3Pg\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nFantasy Interactive, Inc. Privacy Policy\nFantasy Interactive, Inc. (“Fantasy”) is committed to safeguarding the personally identifiable information that you share with us online. Generally, you can browse our website,\nhttps://www.fantasy.co/\n(this “Site”), without sharing any personal information. However, should you submit a form, including, but not limited to a job application form, contact form, or any email messages to any fantasy.co email address (collectively, “Forms” and each, a “Form”), you will be required to voluntarily submit personal information. We may also collect information on how you use this Site, such as resources browsed, searched and downloaded; the frequency and duration of visits, and your source Internet Protocol (“IP”) address.\nPlease read the following statement to understand how we collect, use, maintain, and disclose your personal information.\nWhen Personal Information is Required\nAs stated above, this Privacy Policy covers the use of this Site when you submit a Form.\nWhat Information We Collect\nPersonally identifiable information\nThis is information that may be used to identify you as an individual, such as your e-mail address, name, address, or telephone number. We may collect this information when you submit a Form.\nNon-personally identifiable information\nThis is information that does not by itself identify a specific individual. We may collect this information in a number of ways on this Site, including, but not limited to, how you use this Site, such as resources browsed, searched and downloaded, the frequency and duration of visits, and your source IP address.\nCookies\nA cookie is a data file that certain Web sites write to your computer’s hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. We may collect information from your web sessions by using cookies, to determine, for example, user traffic patterns, and the effectiveness of our navigational structure.\nMost Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. You don’t need to have cookies turned on to use/navigate through many parts of this Site, however, you may have to accept the receipt of cookies to access some Forms on this Site.\nHow We Use Your Information\nIf you choose to provide Fantasy with your personal information, where appropriate, Fantasy or its representative may use this information to contact you.\nWe may use the personal information collected during the use of this Site to personalize web content where applicable.\nWe may send you email when you submit a Form.\nWe may also use your information for user research.\nWe may also use the information to contact you when we have major functional changes to this Site.\nWe may periodically send email for administrative purposes.\nWe may disclose information about our users when we believe, in good faith, that the disclosure is required by law.\nSharing Your Information\nIn cases where we need to disclose web usage reports to non-Fantasy parties, your personal information will remain anonymous. We do not disclose, sell, exchange nor trade your personally identifiable information to any mailing lists.\nMaintaining Your Information\nWe take information security issues seriously. Consequently, any personally identifiable information is stored and protected on servers with adequate security measures. We will cease all communication and use of personally identifiable information upon your request.\nLinks To Other Sites\nThis Site contains links to other Web sites. Please be aware that Fantasy is not responsible for the privacy practices of other sites. We encourage our users to be aware that when they leave this Site to read the privacy policies of each and every Web site that collects personally identifiable information.\nThis Privacy Policy applies solely to information collected by this Site.\nChanges To This Statement\nIf there are changes or additions to the terms of this Privacy Policy, we will post those changes here prior to implementing the change, and as such, Fantasy encourages you to periodically review this Privacy Policy so you are informed about updates.\nIf there are material changes to this Privacy Policy, Fantasy will notify the users of such changes using the personally identifiable information collected on this Site.\nIf you are interested in learning more about Fantasy or are looking to request a quote, please contact us.",
+    "markdown": "# F A N T A S Y\n\nFantasy Interactive, Inc. Privacy Policy\n\nFantasy Interactive, Inc. (“Fantasy”) is committed to safeguarding the personally identifiable information that you share with us online. Generally, you can browse our website,\n\n[https://www.fantasy.co/](https://www.fantasy.co/)\n\n(this “Site”), without sharing any personal information. However, should you submit a form, including, but not limited to a job application form, contact form, or any email messages to any fantasy.co email address (collectively, “Forms” and each, a “Form”), you will be required to voluntarily submit personal information. We may also collect information on how you use this Site, such as resources browsed, searched and downloaded; the frequency and duration of visits, and your source Internet Protocol (“IP”) address.\n\nPlease read the following statement to understand how we collect, use, maintain, and disclose your personal information.\n\nWhen Personal Information is Required\n\nAs stated above, this Privacy Policy covers the use of this Site when you submit a Form.\n\nWhat Information We Collect\n\nPersonally identifiable information\n\nThis is information that may be used to identify you as an individual, such as your e-mail address, name, address, or telephone number. We may collect this information when you submit a Form.\n\nNon-personally identifiable information\n\nThis is information that does not by itself identify a specific individual. We may collect this information in a number of ways on this Site, including, but not limited to, how you use this Site, such as resources browsed, searched and downloaded, the frequency and duration of visits, and your source IP address.\n\nCookies\n\nA cookie is a data file that certain Web sites write to your computer’s hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. We may collect information from your web sessions by using cookies, to determine, for example, user traffic patterns, and the effectiveness of our navigational structure.\n\nMost Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. You don’t need to have cookies turned on to use/navigate through many parts of this Site, however, you may have to accept the receipt of cookies to access some Forms on this Site.\n\nHow We Use Your Information\n\nIf you choose to provide Fantasy with your personal information, where appropriate, Fantasy or its representative may use this information to contact you.\n\n*   We may use the personal information collected during the use of this Site to personalize web content where applicable.\n*   We may send you email when you submit a Form.\n*   We may also use your information for user research.\n*   We may also use the information to contact you when we have major functional changes to this Site.\n*   We may periodically send email for administrative purposes.\n*   We may disclose information about our users when we believe, in good faith, that the disclosure is required by law.\n\nSharing Your Information\n\nIn cases where we need to disclose web usage reports to non-Fantasy parties, your personal information will remain anonymous. We do not disclose, sell, exchange nor trade your personally identifiable information to any mailing lists.\n\nMaintaining Your Information\n\nWe take information security issues seriously. Consequently, any personally identifiable information is stored and protected on servers with adequate security measures. We will cease all communication and use of personally identifiable information upon your request.\n\nLinks To Other Sites\n\nThis Site contains links to other Web sites. Please be aware that Fantasy is not responsible for the privacy practices of other sites. We encourage our users to be aware that when they leave this Site to read the privacy policies of each and every Web site that collects personally identifiable information.\n\nThis Privacy Policy applies solely to information collected by this Site.\n\nChanges To This Statement\n\nIf there are changes or additions to the terms of this Privacy Policy, we will post those changes here prior to implementing the change, and as such, Fantasy encourages you to periodically review this Privacy Policy so you are informed about updates.\n\nIf there are material changes to this Privacy Policy, Fantasy will notify the users of such changes using the personally identifiable information collected on this Site.\n\nIf you are interested in learning more about Fantasy or are looking to request a quote, please contact us.",
+    "competitorName": "Fantasy"
+  },
+  {
     "url": "https://fantasy.co/careers",
     "crawl": {
       "loadedUrl": "https://fantasy.co/careers",
-      "loadedTime": "2025-04-26T16:16:46.698Z",
+      "loadedTime": "2025-04-26T18:25:15.472Z",
       "referrerUrl": "https://fantasy.co/",
       "depth": 1,
       "httpStatusCode": 200
@@ -246,7 +170,7 @@
       "jsonLd": null,
       "headers": {
         "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:16:15 GMT",
+        "date": "Sat, 26 Apr 2025 18:25:08 GMT",
         "content-type": "text/html; charset=utf-8",
         "x-dns-prefetch-control": "off",
         "x-frame-options": "SAMEORIGIN",
@@ -266,10 +190,542 @@
     "competitorName": "Fantasy"
   },
   {
+    "url": "https://fantasy.co/about",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/about",
+      "loadedTime": "2025-04-26T18:25:13.758Z",
+      "referrerUrl": "https://fantasy.co/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/about",
+      "title": "F A N T A S Y - About",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:00 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b18-T8ZgmAfoFdVB/jJvbn1kBDu/2Ok\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nWe design digital\nproducts and\nservices used by\nbillions globally\nOur work and impact is our sales team – we’ve not\nhad any other since 1999.\nWe help our\nclients better\nunderstand and\naccelerate in their\nmarket\nWorking to define digital strategies and\ntransformational product offerings.\nVision & Strategy Work\nUsing our unique\nThink Beyond\nprocess to\ntransform deep\ninsight into impact\n“There is no team globally with the depth of experience\nand skillset that Fantasy have at this point” —\nLG\nWe bring\nexperiences to\nmarket from\nstrategy to\nexecution\nIntegrating a diverse range of expert skillsets.\nProduct Work\nAnd become\nnatural parts of\nour clients’ teams\nWe work out in the open and naturally see each other\nas extensions of each other’s teams.\n“Fantasy has catapulted\nour products forward”\nBrett Wilms\nVP Product, Indeed\nInnovators, leaders\nand passionate\ncollaborators\nA team dedicated to making significant impact.\nCareers\nThe secrets to our success\nThe world’s best,\ndedicated to you\nOur clients work with senior, hand-picked\nteams, perfectly tailored to them.\nGlobal perspectives,\nwith a global mindset\nOur team hails from all over the world, bringing\ndiverse perspectives and experiences.\nFocused on significant,\nmeasurable impact\nWe prove our value by staying\nlaser-focused on validating impact.\nInfectious creativity that\nenergizes entire companies\nWe’re skilled in generating incredible, new\nmomentum within organizations of all sizes.\nSetting our sights on\nthe unprecedented\nWe truly believe that if you can\nimagine it, you can create it.\nWe give it everything\nbecause we care\nWe’re proud of the work we do and are\nmotivated by our clients’ success.\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\n## We design digital  \nproducts and  \nservices used by  \nbillions globally\n\nOur work and impact is our sales team – we’ve not  \nhad any other since 1999.\n\n## We help our  \nclients better  \nunderstand and  \naccelerate in their  \nmarket\n\nWorking to define digital strategies and  \ntransformational product offerings.\n\n[\n\nVision & Strategy Work\n\n](https://fantasy.co/what-we-do/vision-strategy)\n\n## Using our unique  \nThink Beyond  \nprocess to  \ntransform deep  \ninsight into impact\n\n“There is no team globally with the depth of experience  \nand skillset that Fantasy have at this point” —  \nLG\n\n## We bring  \nexperiences to  \nmarket from  \nstrategy to  \nexecution\n\nIntegrating a diverse range of expert skillsets.\n\n[\n\nProduct Work\n\n](https://fantasy.co/what-we-do/products)\n\n## And become  \nnatural parts of  \nour clients’ teams\n\nWe work out in the open and naturally see each other  \nas extensions of each other’s teams.\n\n“Fantasy has catapulted  \nour products forward”\n\nBrett Wilms  \nVP Product, Indeed\n\n## Innovators, leaders  \nand passionate  \ncollaborators\n\nA team dedicated to making significant impact.\n\n[\n\nCareers\n\n](https://fantasy.co/careers)\n\nThe secrets to our success\n\n*   The world’s best,  \n    dedicated to you\n    \n    Our clients work with senior, hand-picked  \n    teams, perfectly tailored to them.\n    \n*   Global perspectives,  \n    with a global mindset\n    \n    Our team hails from all over the world, bringing  \n    diverse perspectives and experiences.\n    \n*   Focused on significant,  \n    measurable impact\n    \n    We prove our value by staying  \n    laser-focused on validating impact.\n    \n*   Infectious creativity that  \n    energizes entire companies\n    \n    We’re skilled in generating incredible, new  \n    momentum within organizations of all sizes.\n    \n*   Setting our sights on  \n    the unprecedented\n    \n    We truly believe that if you can  \n    imagine it, you can create it.\n    \n*   We give it everything  \n    because we care\n    \n    We’re proud of the work we do and are  \n    motivated by our clients’ success.\n    \n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/mobility",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/mobility",
+      "loadedTime": "2025-04-26T18:25:48.048Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/mobility",
+      "title": "F A N T A S Y - Mobility",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:24 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b52-a/fpwONDhHYi3WHOpXmaAprb8cg\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nMobility\nFantasy are sought out by the world’s\nleading automotive companies to\nenvisage, design, and launch the future\nof human-centered mobility.\nWe turn technological\npossibility into incredible\nhuman experiences\nReimagining how people move, from touchscreens that control cars \nto apps that summon helicopters.\nThe new Bell\nwebsite takes\nflight\nThe new digital destination for Bell's amazing \nline of helicopters and brand story.\nMitsubishi’s new\nfleet of electric\nvehicles\nUnderstand and interact with your vehicle\nlike never before.\nCase Study\nExploring the next\ngeneration in\ncar interfaces\nA new design language for their cluster\nand centerstack.\nThe American\nDream with\nFord\nFord has partnered with Fantasy to design\nthe next generation of HMI experiences.\nFrom strategic\nR&D to tactical\nHMI experiences\nWe seamlessly plug in alongside existing design\nteams to create impact where we are needed\nmost.\nInventing new\nparadigms\nWe work alongside technology teams to invent\nand patent new forms of human interaction.\n“It's as much your launch as ours. Thanks\nfor your partnership throughout\nthe process – we could not have gotten\nhere without you.”\nBell\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nMobility\n\nFantasy are sought out by the world’s  \nleading automotive companies to  \nenvisage, design, and launch the future  \nof human-centered mobility.\n\n## We turn technological  \npossibility into incredible  \nhuman experiences\n\nReimagining how people move, from touchscreens that control cars  \nto apps that summon helicopters.\n\n## The new Bell  \nwebsite takes  \nflight\n\nThe new digital destination for Bell's amazing  \nline of helicopters and brand story.\n\n## Mitsubishi’s new  \nfleet of electric  \nvehicles\n\nUnderstand and interact with your vehicle  \nlike never before.\n\n[Case Study](https://fantasy.co/work/mitsubishi)\n\n![Mitsubishi](https://d2kdkox9jtuwgl.cloudfront.net/categories/Mobility/images/mitsubishiBg_v2.png)\n\n## Exploring the next  \ngeneration in  \ncar interfaces\n\nA new design language for their cluster  \nand centerstack.\n\n## The American  \nDream with  \nFord\n\nFord has partnered with Fantasy to design  \nthe next generation of HMI experiences.\n\n## From strategic  \nR&D to tactical  \nHMI experiences\n\nWe seamlessly plug in alongside existing design  \nteams to create impact where we are needed  \nmost.\n\n## Inventing new  \nparadigms\n\nWe work alongside technology teams to invent  \nand patent new forms of human interaction.\n\n![paradigms](https://d2kdkox9jtuwgl.cloudfront.net/categories/Mobility/images/paradigmsBg.jpg)\n\n“It's as much your launch as ours. Thanks  \nfor your partnership throughout  \nthe process – we could not have gotten  \nhere without you.”\n\nBell\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/ecosystems",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/ecosystems",
+      "loadedTime": "2025-04-26T18:25:48.903Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/ecosystems",
+      "title": "F A N T A S Y - Ecosystems",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:25 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b54-7ZRY7fpdpGfPhDtuBkw8FVI1GTo\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nEcosystems\nDigital ecosystems that power the world’s\nbiggest companies.\nMagical vacation\nexperiences for\n7 million people\nConnecting every part of the\nguest and crew experience.\nThe next\ngeneration\nof sports\necosystems\nIncreasing fan engagement and bringing\nthe UFC their next 270 million fans.\nCase Study\nStep into the\nmovies with the\nAcademy of\nMotion Pictures\nA website and AR app to explore the world\nof cinematic magic within the new\nAcademy Museum of Motion Pictures.\nElevating the\nworld’s #1 job\necosystem\nHelping Indeed transform how millions around\nthe world work and hire.\nResume.com\nOur ongoing partnership with Indeed means\nbuilding both sides of a complex hiring\necosystem, products for candidates and tools\nfor recruiters.\nWe create\nimpact by\nempowering\npeople\nIt’s so easy to say and yet so difficult to do.\nWe create impact by working alongside our\npartners to keep their customers at the center\nof every decision.\n“You’ve become part of our team and\nhelped fundamentally transform our\nbusiness.”\nRCCL\n5.000.000\n5MM+ lifetime app installs\n4.7\naverage app store rating\n+47%\nincrease in transactions to UFC.TV\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nEcosystems\n\nDigital ecosystems that power the world’s  \nbiggest companies.\n\n## Magical vacation  \nexperiences for  \n7 million people\n\nConnecting every part of the  \nguest and crew experience.\n\n## The next  \ngeneration  \nof sports  \necosystems\n\nIncreasing fan engagement and bringing  \nthe UFC their next 270 million fans.\n\n[Case Study](https://fantasy.co/work/ufc)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Ecosystems/images/Academy@4x.png)\n\n## Step into the  \nmovies with the  \nAcademy of  \nMotion Pictures\n\nA website and AR app to explore the world  \nof cinematic magic within the new  \nAcademy Museum of Motion Pictures.\n\n## Elevating the  \nworld’s #1 job  \necosystem\n\nHelping Indeed transform how millions around  \nthe world work and hire.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Ecosystems/images/ResumeWhite@4x.png)\n\n## Resume.com\n\nOur ongoing partnership with Indeed means  \nbuilding both sides of a complex hiring  \necosystem, products for candidates and tools  \nfor recruiters.\n\n## We create  \nimpact by  \nempowering  \npeople\n\nIt’s so easy to say and yet so difficult to do.  \nWe create impact by working alongside our  \npartners to keep their customers at the center  \nof every decision.\n\n“You’ve become part of our team and  \nhelped fundamentally transform our  \nbusiness.”\n\nRCCL\n\n5.000.000\n\n5MM+ lifetime app installs\n\n4.7\n\naverage app store rating\n\n+47%\n\nincrease in transactions to UFC.TV\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/products",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/products",
+      "loadedTime": "2025-04-26T18:25:49.153Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/products",
+      "title": "F A N T A S Y - Products",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:27 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b52-8IFrMLVmBVcf2XxH4dJu4E6vZXA\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nProducts\nAward-winning products that create\nimpact for millions.\nFrom audacious ideas to\nindustry shifting products\nShipping the\nworld’s #1\neducation app\nReinventing how the world learns\nwith MasterClass.\nCase Study\nWhat if we\nrethought\nentertainment\nwith industry\nleaders?\nDefining the future with Audible.\nThe next\ngeneration\nof sports\necosystems\nIncreasing fan engagement and bringing\nthe UFC their next 270 million fans.\nCase Study\nWhat if dating\nwas human?\nRedefining the Match experience.\nMagical vacation\nexperiences for\n7 million people\nConnecting every part of the\nguest and crew experience.\nThe future of\nAI-driven music\ncomposition\nThe best of human creativity fused\nwith the best of machine learning.\nCase Study\n“I’ve learned so much about what\na phenomenal agency partnership\nshould look like.”\nIndeed\nEquinox has\npartnered with\nFantasy\nTo tackle the future of health and wellness\nacross their ecosystem.\nMitsubishi’s new\nfleet of electric\nvehicles\nUnderstand and interact with your vehicle\nlike never before.\nCase Study\nReimagining the\nfuture of flying\nprivate\nElevating the Wheels Up ecosystem through a\nseamless, end-to-end digital experience.\nOnline learning\nreimagined\nThe future of open meeting places\nfor educators and students.\nCase Study\nRethinking\nprint for the\ndigital age\nWith PressReader.\nStep into the\nmovies with the\nAcademy of\nMotion Pictures\nA website and AR app to explore the world\nof cinematic magic within the new\nAcademy Museum of Motion Pictures.\nExploring the\nfrontiers of\nhuman health\nWe partnered with Harvard Medical School and\nMIT backed startup Feelmore Labs to develop\na companion app to their new Feelables™\nproduct line Cove.\nKeeping market\nleaders five\nsteps ahead\nAn incredible partnership with SkyPerfecTV.\nThe next\ngeneration\nof travel\norganization\nHelping corporate travelers save time,\nmoney, and get more done.\n1.000.000\n1MM+ lifetime app installs\n4.7\naverage app store rating\n#1st\nApp of the Day and #1 in Education\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nProducts\n\nAward-winning products that create  \nimpact for millions.\n\n## From audacious ideas to  \nindustry shifting products\n\n## Shipping the  \nworld’s #1  \neducation app\n\nReinventing how the world learns  \nwith MasterClass.\n\n[Case Study](https://fantasy.co/work/masterclass)\n\n## What if we  \nrethought  \nentertainment  \nwith industry  \nleaders?\n\nDefining the future with Audible.\n\n## The next  \ngeneration  \nof sports  \necosystems\n\nIncreasing fan engagement and bringing  \nthe UFC their next 270 million fans.\n\n[Case Study](https://fantasy.co/work/ufc)\n\n## What if dating  \nwas human?\n\nRedefining the Match experience.\n\n## Magical vacation  \nexperiences for  \n7 million people\n\nConnecting every part of the  \nguest and crew experience.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/AiVoice/images/logos/amper@4xV2.png)\n\n## The future of  \nAI-driven music  \ncomposition\n\nThe best of human creativity fused  \nwith the best of machine learning.\n\n[Case Study](https://fantasy.co/work/amper)\n\n![amper music](https://d2kdkox9jtuwgl.cloudfront.net/categories/AiVoice/images/amperDesktop_v2.png)\n\n“I’ve learned so much about what  \na phenomenal agency partnership  \nshould look like.”\n\nIndeed\n\n## Equinox has  \npartnered with  \nFantasy  \n\nTo tackle the future of health and wellness  \nacross their ecosystem.\n\n## Mitsubishi’s new  \nfleet of electric  \nvehicles\n\nUnderstand and interact with your vehicle  \nlike never before.\n\n[Case Study](https://fantasy.co/work/mitsubishi)\n\n![Mitsubishi](https://d2kdkox9jtuwgl.cloudfront.net/categories/Mobility/images/mitsubishiBg_v2.png)\n\n## Reimagining the  \nfuture of flying  \nprivate\n\nElevating the Wheels Up ecosystem through a  \nseamless, end-to-end digital experience.\n\n## Online learning  \nreimagined\n\nThe future of open meeting places  \nfor educators and students.\n\n[Case Study](https://fantasy.co/work/travitor)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Products/images/pressreaderLogo.png)\n\n## Rethinking  \nprint for the  \ndigital age\n\nWith PressReader.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Products/images/academyLogo.png)\n\n## Step into the  \nmovies with the  \nAcademy of  \nMotion Pictures\n\nA website and AR app to explore the world  \nof cinematic magic within the new  \nAcademy Museum of Motion Pictures.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Healthcare/images/feelmoreLogo.png)\n\n## Exploring the  \nfrontiers of  \nhuman health\n\nWe partnered with Harvard Medical School and  \nMIT backed startup Feelmore Labs to develop  \na companion app to their new Feelables™  \nproduct line Cove.\n\n## Keeping market  \nleaders five  \nsteps ahead\n\nAn incredible partnership with SkyPerfecTV.\n\n![sky tv](https://d2kdkox9jtuwgl.cloudfront.net/categories/TV/images/SkyPerfectTV.jpg)\n\n## The next  \ngeneration  \nof travel  \norganization\n\nHelping corporate travelers save time,  \nmoney, and get more done.\n\n![deem](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/Deem.jpg)\n\n1.000.000\n\n1MM+ lifetime app installs\n\n4.7\n\naverage app store rating\n\n#1st\n\nApp of the Day and #1 in Education\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/operating-systems",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/operating-systems",
+      "loadedTime": "2025-04-26T18:25:49.077Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/operating-systems",
+      "title": "F A N T A S Y - Operating Systems",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:29 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b5b-pRNZAlXKPnaeUEovRGfrb1lyAWc\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nOperating\nSystems\nFantasy is trusted by the world’s largest mobile\ncompanies to envisage and ship the future\nof their Operating Systems.\nThe moments\nthat matter for\nbillions\nKey improvements that yield real results\nfor our clients.\nSamsung's Note 10\nBrand new pen paradigms with award-winning,\nsales-smashing impact.\nPalm’s credit\ncard sized\nphone\nEnd-to-end shipping for a device you’ve\nnever experienced before.\nCase Study\nMultiple\ngenerations of\nHuawei’s EMUI\nWorking with the world’s second-largest\nOEM to accelerate and lead.\nBrain - Artificial\nintelligence to\nmake you more\nintelligent\nWe worked with Brain to show how AI\ncan scour the web for content you’ll love.\nThe future of\nmobile UI\nWorking in refined partnership with LG\nsince 2018.\nA Natural OS\nbuilt entirely\non A.I.\nWe worked to elevate Natural’s incredible\ntechnology into a first-of-it’s-kind human\nexperience.\nComing soon:\nOnePlus\nOnePlus shares our passion for beautiful product\nexperiences. We’re proud to be partnering with\nthem this year.\nProduct innovation\nwith Polaroid\nWorking as one ambitious team.\nAffecting ~3.4 billion\npeople lives globally\nAs we set out on our mission to turn technology into\nincredible human experiences.\nWorking from\nproduct strategy\nto functional\nR&D\nWe don’t use conventions, we invent\nthem.\nSetting new\nstandards for\ndesign and\nmotion\nIn the pursuit of creating magic\nfor human beings.\nAnd shipping\nwith impec-\ncable quality\nWe don’t just imagine it, we make it real.\n“There’s no team in the world that has\nthe depth of experience in the OS space\nthat Fantasy does at this point.”\nLG\nFrom challenger brand to world's #2\niF 2019\niF 2019 Design Award\nRed Dot\nRed Dot Award 2019\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nOperating  \nSystems\n\nFantasy is trusted by the world’s largest mobile  \ncompanies to envisage and ship the future  \nof their Operating Systems.\n\n## The moments  \nthat matter for  \nbillions\n\nKey improvements that yield real results  \nfor our clients.\n\n## Samsung's Note 10\n\nBrand new pen paradigms with award-winning,  \nsales-smashing impact.\n\n## Palm’s credit  \ncard sized  \nphone\n\nEnd-to-end shipping for a device you’ve  \nnever experienced before.\n\n[Case Study](https://fantasy.co/work/palm)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/OperatingSystems/images/logos/HuaweiV2@4x.png)\n\n## Multiple  \ngenerations of  \nHuawei’s EMUI\n\nWorking with the world’s second-largest  \nOEM to accelerate and lead.\n\n## Brain - Artificial  \nintelligence to  \nmake you more  \nintelligent\n\nWe worked with Brain to show how AI  \ncan scour the web for content you’ll love.\n\n## The future of  \nmobile UI\n\nWorking in refined partnership with LG  \nsince 2018.\n\n## A Natural OS  \nbuilt entirely  \non A.I.\n\nWe worked to elevate Natural’s incredible  \ntechnology into a first-of-it’s-kind human  \nexperience.\n\n## Coming soon:  \nOnePlus\n\nOnePlus shares our passion for beautiful product  \nexperiences. We’re proud to be partnering with  \nthem this year.\n\n![oneplus logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/OperatingSystems/images/oneplusDesktop_v2.png)\n\n## Product innovation  \nwith Polaroid\n\nWorking as one ambitious team.\n\n## Affecting ~3.4 billion  \npeople lives globally\n\nAs we set out on our mission to turn technology into  \nincredible human experiences.\n\n## Working from  \nproduct strategy  \nto functional  \nR&D\n\nWe don’t use conventions, we invent  \nthem.\n\n## Setting new  \nstandards for  \ndesign and  \nmotion\n\nIn the pursuit of creating magic  \nfor human beings.\n\n## And shipping  \nwith impec-  \ncable quality\n\nWe don’t just imagine it, we make it real.\n\n“There’s no team in the world that has  \nthe depth of experience in the OS space  \nthat Fantasy does at this point.”\n\nLG\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/OperatingSystems/images/logos/HuaweiV2@4x.png)\n\nFrom challenger brand to world's #2\n\niF 2019\n\niF 2019 Design Award\n\nRed Dot\n\nRed Dot Award 2019\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/vision-strategy",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/vision-strategy",
+      "loadedTime": "2025-04-26T18:26:01.448Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/vision-strategy",
+      "title": "F A N T A S Y - Vision & Strategy",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:56 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b5f-O+LYNi7GCroxoo4Mx++NNl0iX9Q\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nVision & Strategy\nCompanies come to Fantasy for their world\nrenowned ability to chart and capitalize on\nthe future.\nWhat if we\nrethought\nentertainment\nwith industry\nleaders?\nDefining the future with Audible.\nMarriott has\nchosen Fantasy\nTo define the future of hospitality.\nEquinox has\npartnered with\nFantasy\nTo tackle the future of health and\nwellness across their ecosystem.\nThe future of\nFantasy\nFootball?\nEnvisaging a more social, more human\nFantasy Football experience.\nThe magic\nof sound\nEnhancing Dolby's ecosytem\nof today and tomorrow.\nProduct innovation\nwith Polaroid\nWorking as one ambitious team.\nKeeping market\nleaders five\nsteps ahead\nAn incredible partnership with\nSkyPerfecTV.\nDefining\nopportunity in\nthe future of\nurban mobility\nHelping Mitsubishi roadmap their future\nmobility services.\nDigital\ntransformation\nat scale with\nElkjop\nRethinking retail for the region's largest\nconsumer electronic retailer.\n“Thanks for making us look like\nsuperheroes”\nBell\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nVision & Strategy\n\nCompanies come to Fantasy for their world  \nrenowned ability to chart and capitalize on  \nthe future.\n\n## What if we  \nrethought  \nentertainment  \nwith industry  \nleaders?\n\nDefining the future with Audible.\n\n## Marriott has  \nchosen Fantasy\n\nTo define the future of hospitality.\n\n![marriott chose fantasy/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/Vision/images/Marriott.jpg)\n\n## Equinox has  \npartnered with  \nFantasy\n\nTo tackle the future of health and  \nwellness across their ecosystem.\n\n## The future of  \nFantasy  \nFootball?\n\nEnvisaging a more social, more human  \nFantasy Football experience.\n\n## The magic  \nof sound\n\nEnhancing Dolby's ecosytem  \nof today and tomorrow.\n\n![magic of sound/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/Vision/images/Dolby.jpg)\n\n## Product innovation  \nwith Polaroid\n\nWorking as one ambitious team.\n\n## Keeping market  \nleaders five  \nsteps ahead\n\nAn incredible partnership with  \nSkyPerfecTV.\n\n![keeping leaders ahead/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/Vision/images/SkyPerfectTV.jpg)\n\n## Defining  \nopportunity in  \nthe future of  \nurban mobility\n\nHelping Mitsubishi roadmap their future  \nmobility services.\n\n![keeping leaders ahead/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/Vision/images/Mitsubishi.jpg)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Vision/images/Elkjop@4x.png)\n\n## Digital  \ntransformation  \nat scale with  \nElkjop\n\nRethinking retail for the region's largest  \nconsumer electronic retailer.\n\n“Thanks for making us look like  \nsuperheroes”\n\nBell\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/healthcare",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/healthcare",
+      "loadedTime": "2025-04-26T18:26:03.267Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/healthcare",
+      "title": "F A N T A S Y - Healthcare",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:59 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b54-4B9g5UVQ5Zy1b9KG71LLYimtcnI\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nHealthcare\nWe ship better futures for patients and\nproviders.\nLeading the\ncharge in\nhuman-centered\nhealthcare\nThe world’s leading healthcare companies\nchose Fantasy to create the next generation\nof intelligent healthcare platforms.\n23andMe — from\nstartup to Time’s\nproduct of the\nyear\nLaunching their product experience \nand new tools from scratch.\nCase Study\nEquinox has\npartnered with\nFantasy\nTo tackle the future of health and wellness\nacross their ecosystem.\nExploring the\nfrontiers of\nhuman health\nWe partnered with Harvard Medical School and\nMIT backed startup Feelmore Labs to develop\na companion app to their new Feelables™\nproduct line Cove.\nThe world’s \nfirst e-Fill \nplatform\nWe generated a 33% increase in Viagra sales by \ncreating the first ever e-fill prescription platform.\nAbbott \nHealthcare - \na:care platform\nConnecting patients, doctors, and pharmacists \nacross the globe on a single platform.\nA catalyst to \ntransform \nhealthcare\nFantasy is working diligently with Cambia \nhealthcare.\n“This team is a creative powerhouse. \nWe made the right choice.”\nPfizer\nChange \nHealthcare\nWe partnered with CHC to reimagine and unify \ntheir digital experience across their ecosystem \nof touchpoints and behavioral archetypes.\nColumbia \nDoctors\nFantasy reimagined the end-to-end \ndigital experience and content strategy \nfor ColumbiaDoctors.org\nWe turn big visions into \nlaunchable products\nAll while getting our partners to market in record time.\nTime's Product \nof the Year\n33%\nViagra e-fills increase by 33%\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nHealthcare\n\nWe ship better futures for patients and  \nproviders.\n\n## Leading the  \ncharge in  \nhuman-centered  \nhealthcare\n\nThe world’s leading healthcare companies  \nchose Fantasy to create the next generation  \nof intelligent healthcare platforms.\n\n## 23andMe — from  \nstartup to Time’s  \nproduct of the  \nyear\n\nLaunching their product experience  \nand new tools from scratch.\n\n[Case Study](https://fantasy.co/work/23andme)\n\n## Equinox has  \npartnered with  \nFantasy  \n\nTo tackle the future of health and wellness  \nacross their ecosystem.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Healthcare/images/feelmoreLogo.png)\n\n## Exploring the  \nfrontiers of  \nhuman health\n\nWe partnered with Harvard Medical School and  \nMIT backed startup Feelmore Labs to develop  \na companion app to their new Feelables™  \nproduct line Cove.\n\n## \n\nThe world’s  \nfirst e-Fill  \nplatform\n\nWe generated a 33% increase in Viagra sales by  \ncreating the first ever e-fill prescription platform.\n\n## \n\nAbbott  \nHealthcare -  \na:care platform\n\nConnecting patients, doctors, and pharmacists  \nacross the globe on a single platform.\n\n![abbott](https://d2kdkox9jtuwgl.cloudfront.net/categories/Healthcare/images/Abbott_v3.png)\n\n## \n\nA catalyst to  \ntransform  \nhealthcare\n\nFantasy is working diligently with Cambia  \nhealthcare.\n\n![cambia](https://d2kdkox9jtuwgl.cloudfront.net/categories/Healthcare/images/cambia_v2.png)\n\n“This team is a creative powerhouse.  \nWe made the right choice.”\n\nPfizer\n\n## \n\nChange  \nHealthcare\n\nWe partnered with CHC to reimagine and unify  \ntheir digital experience across their ecosystem  \nof touchpoints and behavioral archetypes.\n\n![change](https://d2kdkox9jtuwgl.cloudfront.net/categories/Healthcare/images/ChangeBg_v2.png)\n\n## \n\nColumbia  \nDoctors\n\nFantasy reimagined the end-to-end  \ndigital experience and content strategy  \nfor ColumbiaDoctors.org\n\n![columbia](https://d2kdkox9jtuwgl.cloudfront.net/categories/Healthcare/images/columbia_v2.jpg)\n\n## \n\nWe turn big visions into  \nlaunchable products\n\nAll while getting our partners to market in record time.\n\n![visions](https://d2kdkox9jtuwgl.cloudfront.net/categories/Healthcare/images/visions_v2.jpg)\n\nTime's Product  \nof the Year\n\n33%\n\nViagra e-fills increase by 33%\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/voice-ai",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/voice-ai",
+      "loadedTime": "2025-04-26T18:26:08.366Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/voice-ai",
+      "title": "F A N T A S Y - A.I. & Voice",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:25:59 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b5a-9Fuk1Z1QoqgdzwzWdML7iCF/Cgg\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nA.I. & Voice\nHelping the world's leading companies create\nthe future of human-computer interaction.\nDesigning the A.I.\nrevolution\nWe work with technology leaders to shape the future\nof human computer interaction.\nA Natural OS\nbuilt entirely\non A.I.\nWe worked to elevate Natural’s incredible\ntechnology into a first-of-it’s-kind human\nexperience.\nBrain - Artificial\nintelligence to\nmake you more\nintelligent\nWe worked with Brain to show how AI\ncan scour the web for content you’ll love.\nMultiple\ngenerations of\nHuawei’s EMUI\nWorking with the world’s second-largest\nOEM to accelerate and lead.\nThe future of\nAI-driven music\ncomposition\nThe best of human creativity fused\nwith the best of machine learning.\nCase Study\nDesigning\nintelligence and\nemotion with\nRokid\nWorking hand in hand to ship Rokid’s\nrevolutionary smart home assistant.\n“There’s no team in the world that has\nthe depth of experience in the OS space\nthat Fantasy does at this point.”\nLG\nBeyond\nfunction to\ncreate feeling\nVoice and AI are the future for those\nwho can make the experience magical.\nFrom challenger brand to world's #2\n1 million Note 10 units sold 25 days after S. Korean launch\nWinners of CES' Innovation Award\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nA.I. & Voice\n\nHelping the world's leading companies create  \nthe future of human-computer interaction.\n\n## Designing the A.I.  \nrevolution\n\nWe work with technology leaders to shape the future  \nof human computer interaction.\n\n## A Natural OS  \nbuilt entirely  \non A.I.\n\nWe worked to elevate Natural’s incredible  \ntechnology into a first-of-it’s-kind human  \nexperience.\n\n## Brain - Artificial  \nintelligence to  \nmake you more  \nintelligent\n\nWe worked with Brain to show how AI  \ncan scour the web for content you’ll love.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/OperatingSystems/images/logos/HuaweiV2@4x.png)\n\n## Multiple  \ngenerations of  \nHuawei’s EMUI\n\nWorking with the world’s second-largest  \nOEM to accelerate and lead.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/AiVoice/images/logos/amper@4xV2.png)\n\n## The future of  \nAI-driven music  \ncomposition\n\nThe best of human creativity fused  \nwith the best of machine learning.\n\n[Case Study](https://fantasy.co/work/amper)\n\n![amper music](https://d2kdkox9jtuwgl.cloudfront.net/categories/AiVoice/images/amperDesktop_v2.png)\n\n## Designing  \nintelligence and  \nemotion with  \nRokid\n\nWorking hand in hand to ship Rokid’s  \nrevolutionary smart home assistant.\n\n“There’s no team in the world that has  \nthe depth of experience in the OS space  \nthat Fantasy does at this point.”\n\nLG\n\n## Beyond  \nfunction to  \ncreate feeling\n\nVoice and AI are the future for those  \nwho can make the experience magical.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/OperatingSystems/images/logos/HuaweiV2@4x.png)\n\nFrom challenger brand to world's #2\n\n1 million Note 10 units sold 25 days after S. Korean launch\n\nWinners of CES' Innovation Award\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/b2b",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/b2b",
+      "loadedTime": "2025-04-26T18:26:22.095Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/b2b",
+      "title": "F A N T A S Y - B2B Platforms",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:06 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b57-efYqiNAZkAgJr6SZJ0v6BTDyM1k\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nB2B Platforms\nTurning deep organizational insight into\nhuman platforms that scale.\nGoogle Partners\nFrom concept to release, Fantasy helped\ncreate a $5bn revenue stream for Google.\nOnline learning\nreimagined\nThe future of open meeting places\nfor educators and students.\nCase Study\nThe next\ngeneration\nof travel\norganization\nHelping corporate travelers save time,\nmoney, and get more done.\nMaking\nwatching sports\neasier with the\nworld's #1\nproviders\nWME is the world's largest.\nRelaunching\nComcast's B2B\nAdvertising\nPlatform\nFor SMBs across North America.\nDesigning BST's\nnext generation\nintegrated\nbusiness tools\nHelping millions grow their business.\nRelaunching\nScorpion's suite\nof tools for\nSMBs\nComing soon.\n“The most important thing is chemistry.\nThat's what we feel working with the\nFantasy team”\nBST\n5 Billion Dollars\nProduct worth post-launch after Fantasy inception and creation of Product.\n100%\nincrease in business contacts\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nB2B Platforms\n\nTurning deep organizational insight into  \nhuman platforms that scale.\n\n## Google Partners\n\nFrom concept to release, Fantasy helped  \ncreate a $5bn revenue stream for Google.\n\n![from concept to release/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/GoogleScreen.jpg)\n\n## Online learning  \nreimagined\n\nThe future of open meeting places  \nfor educators and students.\n\n[Case Study](https://fantasy.co/work/travitor)\n\n![online learning reimagined/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/TravitorV2.jpg)\n\n## The next  \ngeneration  \nof travel  \norganization\n\nHelping corporate travelers save time,  \nmoney, and get more done.\n\n![next generation of travel/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/Deem.jpg)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/WME@4x.png)\n\n## Making  \nwatching sports  \neasier with the  \nworld's #1  \nproviders\n\nWME is the world's largest.\n\n## Relaunching  \nComcast's B2B  \nAdvertising  \nPlatform\n\nFor SMBs across North America.\n\n![relaunching advertising platform/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/ComcastScreenV2.png)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/BST@4x.png)\n\n## Designing BST's  \nnext generation  \nintegrated  \nbusiness tools\n\nHelping millions grow their business.\n\n![relaunching advertising platform/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/BST.jpg)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/Scorpion@4x.png)\n\n## Relaunching  \nScorpion's suite  \nof tools for  \nSMBs\n\nComing soon.\n\n![relaunching suite of tools/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/B2B/images/Scorpion.jpg)\n\n“The most important thing is chemistry.  \nThat's what we feel working with the  \nFantasy team”\n\nBST\n\n5 Billion Dollars\n\nProduct worth post-launch after Fantasy inception and creation of Product.\n\n100%\n\nincrease in business contacts\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/retail-ecommerce",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/retail-ecommerce",
+      "loadedTime": "2025-04-26T18:26:23.392Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/retail-ecommerce",
+      "title": "F A N T A S Y - Retail & Ecommerce",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:13 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b60-hJdOTp98oxpdEdZpApBQ2266G8A\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nRetail & Ecommerce\nPartnering with ambitious companies to\ndefine new best practices.\nThe brand new \nHarrods.com\nA new seamless e-commerce experience.\nEnvisioning \npossible future \necommerce for \nWalmart\nWhat if shopping online was seamless?\nBeko’s new \nglobal \necommerce \nplatform\nFor more than 140 countries.\nDigital \ntransformation \nat scale with \nElkjop\nRethinking retail for the region's largest consumer \nelectronic retailer.\nFrom strategy \nto sales with \nTotalWine\nWhat if you could enjoy your wine even \nbefore tasting it?\n“Fantasy is incredible at what they do. \nIt's as simple as that.”\nBalenciaga\n14% decrease\nin cart abandonment\n33%\nViagra e-fills increase by 33%\nIndustry's highest \npercentage of \nmillennial enrollment\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nRetail & Ecommerce\n\nPartnering with ambitious companies to  \ndefine new best practices.\n\n## \n\nThe brand new  \nHarrods.com\n\nA new seamless e-commerce experience.\n\n## \n\nEnvisioning  \npossible future  \necommerce for  \nWalmart\n\nWhat if shopping online was seamless?\n\n## \n\nBeko’s new  \nglobal  \necommerce  \nplatform\n\nFor more than 140 countries.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Vision/images/Elkjop@4x.png)\n\n## \n\nDigital  \ntransformation  \nat scale with  \nElkjop\n\nRethinking retail for the region's largest consumer  \nelectronic retailer.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Retail/images/twLogo.png)\n\n## \n\nFrom strategy  \nto sales with  \nTotalWine\n\nWhat if you could enjoy your wine even  \nbefore tasting it?\n\n“Fantasy is incredible at what they do.  \nIt's as simple as that.”\n\nBalenciaga\n\n14% decrease\n\nin cart abandonment\n\n33%\n\nViagra e-fills increase by 33%\n\nIndustry's highest  \npercentage of  \nmillennial enrollment\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/tv-streaming",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/tv-streaming",
+      "loadedTime": "2025-04-26T18:26:24.711Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/tv-streaming",
+      "title": "F A N T A S Y - TV & Streaming Media",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:07 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b62-+z5vjTbO6E/P8K343IDvmhsQyFk\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nTV & Streaming Media\nDesigning the future of entertainment\nwith the world's biggest brands.\nWe make entertainment\nunforgettable\nWorld leaders in entertainment turn to Fantasy to ensure\nthe experience is as captivating as the content.\nThe next-gen\nof TV content\nThe new Netflix Interactive platform\nby Netflix & Fantasy.\nRethinking LG's\nSmartTV OS\nA comprehensive redesign of LG's flagship TV\noperating system, from research and\ndevelopment to new design language.\nBlending the\nworlds of live,\nstreamed and\nonline content\nFor Google Fiber's TV service.\nTurning Fubo TV\ninto industry\nleaders\nAn action-packed viewing experience on every\ndevice for non-stop sports (and TV) fans.\nCase Study\nAn incredible\nVOD world just\nfor kids\nNeoKids enables amazing experiences for\nchildren; and even smarter features for\nparents.\nThe ultimate\nheads up\ndisplay for Fox\nSports\nFox Sports challenged Fantasy to create their\nnext generation HUD. So we did. And it made\nits debut at the superbowl.\nXbox\nDashboard\nTogether with Microsoft, Fantasy created the\nXbox Dashboard codename “Metro”.\nKeeping market\nleaders five\nsteps ahead\nAn incredible partnership with SkyPerfecTV.\n“There is no other team that we\nwould have come to for this.”\nLG\n$78.000.000\ninvestment for Fubu post-launch\n200%\n200% increase in viewership\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nTV & Streaming Media\n\nDesigning the future of entertainment  \nwith the world's biggest brands.\n\n## We make entertainment  \nunforgettable\n\nWorld leaders in entertainment turn to Fantasy to ensure  \nthe experience is as captivating as the content.\n\n![make entertainment unforgettable/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/TV/images/TV_unforgettableV3.jpg)\n\n## The next-gen  \nof TV content\n\nThe new Netflix Interactive platform  \nby Netflix & Fantasy.\n\n## Rethinking LG's  \nSmartTV OS\n\nA comprehensive redesign of LG's flagship TV  \noperating system, from research and  \ndevelopment to new design language.\n\n## Blending the  \nworlds of live,  \nstreamed and  \nonline content\n\nFor Google Fiber's TV service.\n\n## Turning Fubo TV  \ninto industry  \nleaders\n\nAn action-packed viewing experience on every  \ndevice for non-stop sports (and TV) fans.\n\n[Case Study](https://fantasy.co/work/fubo)\n\n## An incredible  \nVOD world just  \nfor kids\n\nNeoKids enables amazing experiences for  \nchildren; and even smarter features for  \nparents.\n\n## The ultimate  \nheads up  \ndisplay for Fox  \nSports\n\nFox Sports challenged Fantasy to create their  \nnext generation HUD. So we did. And it made  \nits debut at the superbowl.\n\n## Xbox  \nDashboard\n\nTogether with Microsoft, Fantasy created the  \nXbox Dashboard codename “Metro”.\n\n![together we created codename Metro/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/TV/images/Xbox_background.png)\n\n## Keeping market  \nleaders five  \nsteps ahead\n\nAn incredible partnership with SkyPerfecTV.\n\n![brand new pen paradigms/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/categories/TV/images/SkyPerfectTV.jpg)\n\n“There is no other team that we  \nwould have come to for this.”\n\nLG\n\n$78.000.000\n\ninvestment for Fubu post-launch\n\n200%\n\n200% increase in viewership\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/fashion-luxury",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/fashion-luxury",
+      "loadedTime": "2025-04-26T18:26:24.512Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/fashion-luxury",
+      "title": "F A N T A S Y - Fashion & Luxury",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:14 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b5e-z/Fib70Jk3SCwj2wq+5k8KTqW0o\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nFashion & Luxury\nWorking with the world's pinnacle brands\nto bring luxury to life digitally.\nThe brand new \nHarrods.com\nA new seamless e-commerce experience.\nA fresh new look \nfor fashion\nCelebrating Balenciaga's minimalist and factual \napproach to fashion.\nHelping MAC \nredefine \nsuccessful \nloyalty\nHelping turn one-off customers into loyal \nadvocates.\nNext generation \nsocial selling\nWith market leaders AVON.\nThe new\nMonatGlobal.com\nA new experience for the premium skin\nand hair care leaders.\n“Fantasy is incredible at what they do. \nIt's as simple as that.”\nBalenciaga\n14% decrease\nin cart abandonment\n40%\nincrease in online reservations\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nFashion & Luxury\n\nWorking with the world's pinnacle brands  \nto bring luxury to life digitally.\n\n## \n\nThe brand new  \nHarrods.com\n\nA new seamless e-commerce experience.\n\n## \n\nA fresh new look  \nfor fashion\n\nCelebrating Balenciaga's minimalist and factual  \napproach to fashion.\n\n## \n\nHelping MAC  \nredefine  \nsuccessful  \nloyalty\n\nHelping turn one-off customers into loyal  \nadvocates.\n\n![mac](https://d2kdkox9jtuwgl.cloudfront.net/categories/Fashion/images/mac_v2.png)\n\n## \n\nNext generation  \nsocial selling\n\nWith market leaders AVON.\n\n## The new  \nMonatGlobal.com\n\nA new experience for the premium skin  \nand hair care leaders.\n\n![monat](https://d2kdkox9jtuwgl.cloudfront.net/categories/Fashion/images/monat_v2.png)\n\n“Fantasy is incredible at what they do.  \nIt's as simple as that.”\n\nBalenciaga\n\n14% decrease\n\nin cart abandonment\n\n40%\n\nincrease in online reservations\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/websites",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/websites",
+      "loadedTime": "2025-04-26T18:26:37.683Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/websites",
+      "title": "F A N T A S Y - Websites",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:27 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b52-vOMqzJ10yJpOouRs8ywJB20pMWA\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nWebsites\nWe help companies find incredible ways\nto engage millions of people every day.\nThe new Bell \nwebsite takes \nflight\nThe new digital destination for Bell's amazing \nline of helicopters and brand story.\nElevating the \nworld’s #1 job \necosystem\nHelping Indeed transform how millions around \nthe world work and hire.\nThe brand new \nHarrods.com\nA new seamless e-commerce experience.\nThe next \ngeneration \nof sports \necosystems\nIncreasing fan engagement and bringing \nthe UFC their next 270 million fans.\nCase Study\nReinforcing \nCAA's \nleadership\nA presence to match their #1 sport and \nentertainment agency status.\nCase Study\nStep into the \nmovies with the \nAcademy of \nMotion Pictures\nA website and AR app to explore the world of \ncinematic magic within the new Academy Museum \nof Motion Pictures.\nHelping the \nRockefeller \nFoundation tell \nan incredible \nstory\nA new immersive digital destination to match \na bold vision.\nA fresh new look \nfor fashion\nCelebrating Balenciaga's minimalist and factual \napproach to fashion.\nResume.com\nOur ongoing partnership with Indeed means \nbuilding both sides of a complex hiring \necosystem, products for candidates and tools \nfor recruiters.\nA brand new \nonline identity\nRedesigning New York's landmark \ncultural institution.\nCase Study\n47% increase\nin transactions to UFC.TV\n150%\nincrease in profile views\n-29%\ndecrease in bounce rate\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nWebsites\n\nWe help companies find incredible ways  \nto engage millions of people every day.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Mobility/images/bell.png)\n\n## \n\nThe new Bell  \nwebsite takes  \nflight\n\nThe new digital destination for Bell's amazing  \nline of helicopters and brand story.\n\n## \n\nElevating the  \nworld’s #1 job  \necosystem\n\nHelping Indeed transform how millions around  \nthe world work and hire.\n\n## \n\nThe brand new  \nHarrods.com\n\nA new seamless e-commerce experience.\n\n## \n\nThe next  \ngeneration  \nof sports  \necosystems\n\nIncreasing fan engagement and bringing  \nthe UFC their next 270 million fans.\n\n[Case Study](https://fantasy.co/work/ufc)\n\n## \n\nReinforcing  \nCAA's  \nleadership\n\nA presence to match their #1 sport and  \nentertainment agency status.\n\n[Case Study](https://fantasy.co/work/caa)\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Products/images/academyLogo.png)\n\n## \n\nStep into the  \nmovies with the  \nAcademy of  \nMotion Pictures\n\nA website and AR app to explore the world of  \ncinematic magic within the new Academy Museum  \nof Motion Pictures.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Websites/images/rockfellerLogo.png)\n\n## \n\nHelping the  \nRockefeller  \nFoundation tell  \nan incredible  \nstory\n\nA new immersive digital destination to match  \na bold vision.\n\n## \n\nA fresh new look  \nfor fashion\n\nCelebrating Balenciaga's minimalist and factual  \napproach to fashion.\n\n![logo](https://d2kdkox9jtuwgl.cloudfront.net/categories/Ecosystems/images/ResumeWhite@4x.png)\n\n## Resume.com\n\nOur ongoing partnership with Indeed means  \nbuilding both sides of a complex hiring  \necosystem, products for candidates and tools  \nfor recruiters.\n\n## \n\nA brand new  \nonline identity\n\nRedesigning New York's landmark  \ncultural institution.\n\n[Case Study](https://fantasy.co/work/themet)\n\n![the met](https://d2kdkox9jtuwgl.cloudfront.net/categories/Websites/images/theMet_v2.jpg)\n\n47% increase\n\nin transactions to UFC.TV\n\n150%\n\nincrease in profile views\n\n\\-29%\n\ndecrease in bounce rate\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://www.fantasy.co/",
+    "crawl": {
+      "loadedUrl": "https://www.fantasy.co/",
+      "loadedTime": "2025-04-26T18:26:43.342Z",
+      "referrerUrl": "https://fantasy.co/policy",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.fantasy.co/",
+      "title": "F A N T A S Y",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:36 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8ae7-5AWnC9xb0x4OD9aUOFoRhTFCZXU\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nWe’re a world\nleading product\ninnovation team\nCollaborating with ambitious companies to create\ndigital experiences used by billions everyday.\nOur company\nWe work from\nstrategy to\nexecution\nUsing our Think Beyond™ process to help partners\nidentify clear opportunity and launch market-leading\nproducts and services.\nInnovators, leaders\nand passionate\ncollaborators\nA team dedicated to making significant impact.\nCareers\nMay 4th, 2020\nWelcome\nWheels Up!\nReimagining the future of flying private. \nFollow us on dribbble\nWe create and launch entire digital\necosystems used by billions.\nDribbble\nFrom our blog\nWe create and launch entire digital ecosystems used by billions.\nRead Blog\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\n## \n\nWe’re a world  \nleading product  \ninnovation team\n\nCollaborating with ambitious companies to create  \ndigital experiences used by billions everyday.\n\n[\n\nOur company\n\n](https://www.fantasy.co/about)\n\n## \n\nWe work from  \nstrategy to  \nexecution\n\nUsing our Think Beyond™ process to help partners  \nidentify clear opportunity and launch market-leading  \nproducts and services.\n\n## \n\nInnovators, leaders  \nand passionate  \ncollaborators\n\nA team dedicated to making significant impact.\n\n[\n\nCareers\n\n](https://www.fantasy.co/careers)\n\nMay 4th, 2020\n\n## Welcome  \nWheels Up!\n\nReimagining the future of flying private.\n\n![](https://images.prismic.io/fantasy-site/8d10720c-9794-4403-a606-02b29998bdba_Wheelsup.png?auto=compress,format)\n\n## Follow us on dribbble\n\nWe create and launch entire digital  \necosystems used by billions.\n\n[\n\nDribbble\n\n](https://dribbble.com/Fantasy)\n\n## From our blog\n\nWe create and launch entire digital ecosystems used by billions.\n\n[Read Blog](https://medium.com/@WeAreFantasy)\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
     "url": "https://fantasy.co/careers/2a639005-221e-4990-9a71-a407db657c9e",
     "crawl": {
       "loadedUrl": "https://fantasy.co/careers/2a639005-221e-4990-9a71-a407db657c9e",
-      "loadedTime": "2025-04-26T16:17:00.372Z",
+      "loadedTime": "2025-04-26T18:26:44.298Z",
       "referrerUrl": "https://fantasy.co/careers",
       "depth": 2,
       "httpStatusCode": 200
@@ -284,7 +740,7 @@
       "jsonLd": null,
       "headers": {
         "server": "nginx",
-        "date": "Sat, 26 Apr 2025 16:16:56 GMT",
+        "date": "Sat, 26 Apr 2025 18:26:43 GMT",
         "content-type": "text/html; charset=utf-8",
         "x-dns-prefetch-control": "off",
         "x-frame-options": "SAMEORIGIN",
@@ -301,6 +757,614 @@
     "screenshotUrl": null,
     "text": "F A N T A S Y - Careers\nThis individual may sit anywhere in the U.S. or Canada.\nRealize the Unimagined\nFantasy is a digital product and innovation company. We realize the unimagined for the world’s most ambitious organizations. Founded in 1999, our global reputation is based on our teams’ unique ability to think beyond the ordinary and launch ground-breaking products and services. We believe that our phenomenal team is the core reason for our success, our growth, and our thriving culture.\nThe Role\nAs the Head of New Business Development, we're looking for a rainmaker who will spearhead the creation of brand new business opportunities with prestigious brand partners, driving our growth strategy forward. This involves introducing new brand logos and integrating new teams within our existing clientele while ensuring these partnerships are the right match for our projects. \nPositioned as an integral part of the agency's leadership, you will collaborate closely with leaders across research, strategy, design, technology, and production. In this role, you will create and implement our new business development strategy. Your responsibilities include researching and identifying qualified prospects, fostering relationships with potential clients, and negotiating and finalizing new business contracts. Success in this role will be assessed based on maintaining a robust pipeline of suitable opportunities, achieving a high closing rate with different brands, and consistently meeting and exceeding revenue targets.\nResponsibilities\nLead the agency's senior leadership team in driving growth and achieving growth targets by developing effective strategies, creating actionable plans, taking ownership of the company's business objectives, and addressing any challenges that may arise.\nAchieve the company's defined targets for revenue and other essential performance indicators.\nCreate strategies and systematic procedures to generate high-value leads. \nCultivate emerging opportunities with new brands and develop new relationships within existing client partners. Foster and nurture connections with influential stakeholders and decision-makers.\nGenerate new business opportunities from initial qualification through to submitting the proposal and deal closure. This includes identifying the strategy and managing the pitch team.\nRegularly report on the sales pipeline and forecast future opportunities.\nContinuously improve and develop processes and tools that can increase the effectiveness of our new business approach.\nCollaborate closely with the marketing team to support business development efforts.\nRequirements \n10+ years of demonstrated proficiency in new business development, including selling design services.\nExpertise in creating and implementing effective strategies to generate new business.\nProven ability to successfully close deals and cultivate long-term client relationships.\nAn extensive network of contacts.\nA results-driven professional with a consistent track record of exceeding expectations.\nExcellent communication and presentation skills.\nStrong negotiation skills.\nPrevious agency experience.\nTravel will be required for this role (min 30%). \nFantasy EOE\nFantasy is an Equal Opportunity Employer. Since 1999, diversity has been vital to our success and ability to create products and services used and loved by millions of people all over the world. We are committed to continually fostering a diverse, equitable, and inclusive workplace.",
     "markdown": "# F A N T A S Y - Careers\n\nThis individual may sit anywhere in the U.S. or Canada.\n\n**Realize the Unimagined**\n\nFantasy is a digital product and innovation company. We realize the unimagined for the world’s most ambitious organizations. Founded in 1999, our global reputation is based on our teams’ unique ability to think beyond the ordinary and launch ground-breaking products and services. We believe that our phenomenal team is the core reason for our success, our growth, and our thriving culture.\n\n**The Role**\n\nAs the Head of New Business Development, we're looking for a rainmaker who will spearhead the creation of brand new business opportunities with prestigious brand partners, driving our growth strategy forward. This involves introducing new brand logos and integrating new teams within our existing clientele while ensuring these partnerships are the right match for our projects.\n\nPositioned as an integral part of the agency's leadership, you will collaborate closely with leaders across research, strategy, design, technology, and production. In this role, you will create and implement our new business development strategy. Your responsibilities include researching and identifying qualified prospects, fostering relationships with potential clients, and negotiating and finalizing new business contracts. Success in this role will be assessed based on maintaining a robust pipeline of suitable opportunities, achieving a high closing rate with different brands, and consistently meeting and exceeding revenue targets.\n\n**Responsibilities**\n\n*   Lead the agency's senior leadership team in driving growth and achieving growth targets by developing effective strategies, creating actionable plans, taking ownership of the company's business objectives, and addressing any challenges that may arise.\n*   Achieve the company's defined targets for revenue and other essential performance indicators.\n*   Create strategies and systematic procedures to generate high-value leads. \n*   Cultivate emerging opportunities with new brands and develop new relationships within existing client partners. Foster and nurture connections with influential stakeholders and decision-makers.\n*   Generate new business opportunities from initial qualification through to submitting the proposal and deal closure. This includes identifying the strategy and managing the pitch team.\n*   Regularly report on the sales pipeline and forecast future opportunities.\n*   Continuously improve and develop processes and tools that can increase the effectiveness of our new business approach.\n*   Collaborate closely with the marketing team to support business development efforts.\n\n**Requirements**\n\n*   10+ years of demonstrated proficiency in new business development, including selling design services.\n*   Expertise in creating and implementing effective strategies to generate new business.\n*   Proven ability to successfully close deals and cultivate long-term client relationships.\n*   An extensive network of contacts.\n*   A results-driven professional with a consistent track record of exceeding expectations.\n*   Excellent communication and presentation skills.\n*   Strong negotiation skills.\n*   Previous agency experience.\n*   Travel will be required for this role (min 30%).\n\n**Fantasy EOE**\n\nFantasy is an Equal Opportunity Employer. Since 1999, diversity has been vital to our success and ability to create products and services used and loved by millions of people all over the world. We are committed to continually fostering a diverse, equitable, and inclusive workplace.",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/what-we-do/travel-hospitality",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/what-we-do/travel-hospitality",
+      "loadedTime": "2025-04-26T18:26:45.744Z",
+      "referrerUrl": "https://fantasy.co/what-we-do",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/what-we-do/travel-hospitality",
+      "title": "F A N T A S Y - Travel & Hospitality",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:35 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b62-SiR8VyTH9sYpZhNxA1wv0hgpw28\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nTravel & Hospitality\nWorld leaders in hospitality trust Fantasy\nto help them create unforgettable travel\nexperiences.\nMagical vacation\nexperiences for\n7 million people\nConnecting every part of the\nguest and crew experience.\nThe pinnacle in\nluxury made\npossible through\ndigital innovation\nA seamless end-to-end guest experience for the\nregion's most luxrious brand.\nMarriott has\nchosen Fantasy\nTo define the future of hospitality.\nThe next\ngeneration\nof travel\norganization\nHelping corporate travelers save time,\nmoney, and get more done.\nKayak meets\nApple Watch\nYour favorite travel services at the flick\nof the wrist.\nSkyscanner's\nbold new brand\ntransformed into\na brand new\ninterface\nWe transformed the SkyScanner experience\nworking from their daring new design system.\nBrazil's #1\nproduct and\nexperience\nmarketplace\nReimagined from the ground up.\nRethinking\naegeanair.com\nConcepting a new, world-class experience.\nEnvisioning\nfuture booking\nexperiences\nfor Saudia\nWhat if booking a flight was seamless?\n“You’ve become part of our team and\nhelped fundamentally transform\nour business.”\nRCCL\n5.000.000\n5MM+ lifetime app installs\n4.7\naverage app store rating\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\nTravel & Hospitality\n\nWorld leaders in hospitality trust Fantasy  \nto help them create unforgettable travel  \nexperiences.\n\n## Magical vacation  \nexperiences for  \n7 million people\n\nConnecting every part of the  \nguest and crew experience.\n\n## The pinnacle in  \nluxury made  \npossible through  \ndigital innovation\n\nA seamless end-to-end guest experience for the  \nregion's most luxrious brand.\n\n## Marriott has  \nchosen Fantasy\n\nTo define the future of hospitality.\n\n## The next  \ngeneration  \nof travel  \norganization\n\nHelping corporate travelers save time,  \nmoney, and get more done.\n\n## Kayak meets  \nApple Watch\n\nYour favorite travel services at the flick  \nof the wrist.\n\n## Skyscanner's  \nbold new brand  \ntransformed into  \na brand new  \ninterface\n\nWe transformed the SkyScanner experience  \nworking from their daring new design system.\n\n## Brazil's #1  \nproduct and  \nexperience  \nmarketplace\n\nReimagined from the ground up.\n\n![submarino website](https://d2kdkox9jtuwgl.cloudfront.net/categories/TravelAndHospitality/images/submarineDesktop.png)\n\n## Rethinking  \naegeanair.com\n\nConcepting a new, world-class experience.\n\n## Envisioning  \nfuture booking  \nexperiences  \nfor Saudia\n\nWhat if booking a flight was seamless?\n\n“You’ve become part of our team and  \nhelped fundamentally transform  \nour business.”\n\nRCCL\n\n5.000.000\n\n5MM+ lifetime app installs\n\n4.7\n\naverage app store rating\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/mitsubishi",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/mitsubishi",
+      "loadedTime": "2025-04-26T18:26:48.517Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/mobility",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/mitsubishi",
+      "title": "F A N T A S Y - Mitsubishi",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:26:45 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"d53b-5wMRk5KMD+Jcpl6L8dHvnm5RJyM\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nMitsubishi’s revolutionary connected car experience\nGiving new control to millions of customers.\nControl your vehicle like never before\nFrom pre-warming the car, to parental modes and unlocking remotely.\nIntuit at a glance\nSee how your car is performing realtime and over time.\nBold, human-centered design\nDesigning for users real people in a physical world.\nA product intelligently built to scale\nFor Mitsubishi's product suite — today and beyond.\nLet's make impact together",
+    "markdown": "# F A N T A S Y\n\n## Mitsubishi’s revolutionary connected car experience\n\nGiving new control to millions of customers.\n\n## Control your vehicle like never before\n\nFrom pre-warming the car, to parental modes and unlocking remotely.\n\n## Intuit at a glance\n\nSee how your car is performing realtime and over time.\n\n## Bold, human-centered design\n\nDesigning for ~users~ real people in a physical world.\n\n## A product intelligently built to scale\n\nFor Mitsubishi's product suite — today and beyond.\n\n## Let's make impact together",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/palm",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/palm",
+      "loadedTime": "2025-04-26T18:27:30.768Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/operating-systems",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/palm",
+      "title": "F A N T A S Y - Palm",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:14 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"b38b-5UQU0yaA9wXrzP+9YuClC7etne0\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nFocus on what really matters\nA new kind of smartphone to help people live in the moment.\nMaximum smart, minimal phone\nPalm leads with an antidote to the supersized smartphone addiction.\nWhat you need,\nwhen you need it\nQuick contextual actions create focus only on what's needed.\nContent forward, heads up\nKey apps work together at the OS level, keeping people in the real world.\nUnique ways to interact\nGesture input is always just a swipe and scribble away.\nPowered by Google Voice\nMove at the speed of voice, using fewer interactions to complete tasks faster.\nStrong sales, surprise use cases\nWith industry buzz, more carriers and new customers (great first phone for kids!), it's one sweet little story.\nGet in touch",
+    "markdown": "# F A N T A S Y\n\n## Focus on what really matters\n\nA new kind of smartphone to help people live in the moment.\n\n## Maximum smart, minimal phone\n\nPalm leads with an antidote to the supersized smartphone addiction.\n\n## What you need,  \nwhen you need it\n\nQuick contextual actions create focus only on what's needed.\n\n## Content forward, heads up\n\nKey apps work together at the OS level, keeping people in the real world.\n\n## Unique ways to interact\n\nGesture input is always just a swipe and scribble away.\n\n## Powered by Google Voice\n\nMove at the speed of voice, using fewer interactions to complete tasks faster.\n\n## Strong sales, surprise use cases\n\nWith industry buzz, more carriers and new customers (great first phone for kids!), it's one sweet little story.\n\n## Get in touch",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/travitor",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/travitor",
+      "loadedTime": "2025-04-26T18:27:55.460Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/products",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/travitor",
+      "title": "F A N T A S Y - Travitor",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:04 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"b484-AEFkBIZd30saVc4oSHTV3xq9iCo\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nTravitor: Next Generation Online Learning\nOnline learning reimagined\nTravitor is a place for web-based, work-focused learning between companies and their employees. We designed it as an open meeting place between educator and student.\nNothing gets in the way\nClean, essential design gives the necessary analytical information more prominence and makes user workflows effortless.\nEasy to work in every day\nA site that users visit often requires an experience that is equally inviting and practical, with easy-to-use controls and customizable options.\nIt’s all in the reporting\nWe gave managers total control over reporting with a minimalistic design that helps numbers and trends truly stand out.\nBecause learning is mobile\nWe framed data against a clean, airy background for an interface that’s as seamless and spacious on mobile as it is on desktop.\nWhat’s your story?",
+    "markdown": "# F A N T A S Y\n\n## Travitor: Next Generation Online Learning\n\n## Online learning reimagined\n\nTravitor is a place for web-based, work-focused learning between companies and their employees. We designed it as an open meeting place between educator and student.\n\n## Nothing gets in the way\n\nClean, essential design gives the necessary analytical information more prominence and makes user workflows effortless.\n\n![nothing gets in the way/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Travitor/images/nothingInWayDesktop.jpg)\n\n## Easy to work in every day\n\nA site that users visit often requires an experience that is equally inviting and practical, with easy-to-use controls and customizable options.\n\n## It’s all in the reporting\n\nWe gave managers total control over reporting with a minimalistic design that helps numbers and trends truly stand out.\n\n## Because learning is mobile\n\nWe framed data against a clean, airy background for an interface that’s as seamless and spacious on mobile as it is on desktop.\n\n## What’s your story?",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/fubo",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/fubo",
+      "loadedTime": "2025-04-26T18:27:55.892Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/tv-streaming",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/fubo",
+      "title": "F A N T A S Y - Fubo",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:34 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"c552-dUtVI0DGb5+bQeT/O9AO4CUcf9Q\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nBring in the crowds\nSports are tribal experiences, so we found ways to inject the dynamics of watching them live and in person into the Fubo interface.",
+    "markdown": "# F A N T A S Y\n\n## Bring in the crowds\n\nSports are tribal experiences, so we found ways to inject the dynamics of watching them live and in person into the Fubo interface.",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/caa",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/caa",
+      "loadedTime": "2025-04-26T18:27:57.968Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/websites",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/caa",
+      "title": "F A N T A S Y - CAA",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:37 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"a604-MQii3RK2fJJ55TrOVtKa8aD4OJg\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nReinforcing their leadership position\nCAA is the world's leading sports + entertainment agency. We gave them a digital presence to match.\nStart with a single brand voice\nA fresh new look and voice for digital that united CAA business groups for the first time in one site.\nBuild-your-own modular design\nEvery group customizes its own pages with our system of adjustable page modules, and it all still fits together beautifully. \nPage-by-page content strategy\nBehind the scenes, we worked with each group to create a custom content outline and shaped key copy points.\nStructure that can handle everything\nFrom ecommerce to booking talent, to portfolios and beyond, this site gives CAA everything it needs to keep growing.\nGet in touch",
+    "markdown": "# F A N T A S Y\n\n## Reinforcing their leadership position\n\nCAA is the world's leading sports + entertainment agency. We gave them a digital presence to match.\n\n## Start with a single brand voice\n\nA fresh new look and voice for digital that united CAA business groups for the first time in one site.\n\n## Build-your-own modular design\n\nEvery group customizes its own pages with our system of adjustable page modules, and it all still fits together beautifully.  \n\n## Page-by-page content strategy\n\nBehind the scenes, we worked with each group to create a custom content outline and shaped key copy points.\n\n## Structure that can handle everything\n\nFrom ecommerce to booking talent, to portfolios and beyond, this site gives CAA everything it needs to keep growing.\n\n## Get in touch",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/23andme",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/23andme",
+      "loadedTime": "2025-04-26T18:27:58.055Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/healthcare",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/23andme",
+      "title": "F A N T A S Y - Twentythreeandme",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:24 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"c758-jlnM2/XagHBMqRbDvHAbvFcAlT0\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nA design language for genetics\nWorking with the 23andMe design language, we created the products’ colorful and clean visual system to make interactions feel effortless.",
+    "markdown": "# F A N T A S Y\n\n## A design language for genetics\n\nWorking with the 23andMe design language, we created the products’ colorful and clean visual system to make interactions feel effortless.",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/themet",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/themet",
+      "loadedTime": "2025-04-26T18:27:58.368Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/websites",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/themet",
+      "title": "F A N T A S Y - Themet",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:45 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"c9cb-H9oroJyuoP6qU1fk20E1OiFshxg\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nRedesigning a landmark New York City institution\nA complete redesign of the Metropolitan Museum of Art.\nA brand new online identity\nThe Met needed a fresh new design for its website to announce the opening of The Met Breuer as well as their refreshed identity.\nFind exhibitions\nWith mobile being a big push for The Met’s vision, visitors are able to dive into information about objects on display.\nBrowse events\nEvents can be sorted by date, location, and type, and inspire visitors to take advantage of The Met’s numerous educational opportunities.\nPlan a visit\nExperiencing The Met should be simple and intuitive. Visitors are clearly presented with hours of operation and suggested admission.\nExplore the collection\nCore to the museum is its world class collection of objects. Now more of these collections are available to view online.\nConsume media content\nLectures, symposiums, and other rich media content are presented in a manner that encourages discovery and hyper-focused study.\nSupport the museum\nTicket purchase is available anywhere a visitor might be inclined to visit without pulling them out of their browsing experience.\nFeel at home\nThe experience adapts seamlessly to various device sizes, and adjusts content according to a user’s location and time of day.\nExplore",
+    "markdown": "# F A N T A S Y\n\n## Redesigning a landmark New York City institution\n\nA complete redesign of the Metropolitan Museum of Art.\n\n![redesigning a landmark/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/redisigningLandmarkDesktop.jpg)\n\n## A brand new online identity\n\nThe Met needed a fresh new design for its website to announce the opening of The Met Breuer as well as their refreshed identity.\n\n![brand new online identity/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/onlineIdentityDesktop.jpg)\n\n## Find exhibitions\n\nWith mobile being a big push for The Met’s vision, visitors are able to dive into information about objects on display.\n\n![find exhibitions/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/findExhibitionsDesktop.jpg)\n\n## Browse events\n\nEvents can be sorted by date, location, and type, and inspire visitors to take advantage of The Met’s numerous educational opportunities.\n\n![browse events/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/browseEventsDesktop.jpg)\n\n## Plan a visit\n\nExperiencing The Met should be simple and intuitive. Visitors are clearly presented with hours of operation and suggested admission.\n\n![plan a visit/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/planVisitDesktop.jpg)\n\n## Explore the collection\n\nCore to the museum is its world class collection of objects. Now more of these collections are available to view online.\n\n![explore the collection/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/exploreCollectionDesktop.jpg)\n\n## Consume media content\n\nLectures, symposiums, and other rich media content are presented in a manner that encourages discovery and hyper-focused study.\n\n![consume media content/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/consumeContentDesktop.jpg)\n\n## Support the museum\n\nTicket purchase is available anywhere a visitor might be inclined to visit without pulling them out of their browsing experience.\n\n![support the museum/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/supportMuseumDesktop.jpg)\n\n## Feel at home\n\nThe experience adapts seamlessly to various device sizes, and adjusts content according to a user’s location and time of day.\n\n![feel at home/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Themet/images/feelAtHomeDesktop.jpg)\n\n## Explore",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://www.fantasy.co/contact",
+    "crawl": {
+      "loadedUrl": "https://www.fantasy.co/contact",
+      "loadedTime": "2025-04-26T18:28:02.958Z",
+      "referrerUrl": "https://www.fantasy.co/",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.fantasy.co/contact",
+      "title": "F A N T A S Y - Contact",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:55 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8a86-PwNEsYJv8FIa7j+Xe96Isew4uXA\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nThank you, !\nYour message has been sent successfully.\nContact Us\nMy name is\nMy phone number is\nI work at\nReach me at\nMessage\nPrepare for a quick response\ninteract@fantasy.co\nNew York\nGet directions | +1 212-941-5220\nPrivacy Policy\nFirdosh Tangri\nCEO\nDavid Martin\nPresident & Founder\nPeter Smart\nCXO",
+    "markdown": "# F A N T A S Y\n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us\n\nMy name is\n\nMy phone number is\n\nI work at\n\nReach me at\n\nMessage\n\nPrepare for a quick response\n\n[\n\ninteract@fantasy.co\n\n](mailto:interact@fantasy.co)\n\n*   New York\n    \n    [Get directions](https://goo.gl/maps/HduwGVHBdnpbPmj29)  |  [+1 212-941-5220](tel:+1-212-941-5220)\n*   [Privacy Policy](https://www.fantasy.co/policy)\n\n*   [![Firdosh Tangri](https://d2kdkox9jtuwgl.cloudfront.net/pages/ContactSlide/FirdoshTangri.png)](https://www.linkedin.com/in/firdoshtangri/)\n    \n    [\n    \n    Firdosh Tangri\n    \n    CEO\n    \n    ](https://www.linkedin.com/in/firdoshtangri/)\n    \n*   [![David Martin](https://d2kdkox9jtuwgl.cloudfront.net/pages/ContactSlide/DavidMartin.png)](https://www.linkedin.com/in/sirdavidmartin/)\n    \n    [\n    \n    David Martin\n    \n    President & Founder\n    \n    ](https://www.linkedin.com/in/sirdavidmartin/)\n    \n*   [![Peter Smart](https://d2kdkox9jtuwgl.cloudfront.net/pages/ContactSlide/PaterSmart.png)](https://www.linkedin.com/in/petewsmart/)\n    \n    [\n    \n    Peter Smart\n    \n    CXO\n    \n    ](https://www.linkedin.com/in/petewsmart/)",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://www.fantasy.co/policy",
+    "crawl": {
+      "loadedUrl": "https://www.fantasy.co/policy",
+      "loadedTime": "2025-04-26T18:28:12.269Z",
+      "referrerUrl": "https://www.fantasy.co/",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.fantasy.co/policy",
+      "title": "F A N T A S Y - Policy",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:28:09 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"a518-kOSbDNvSgwkoLn/QacZSXCmN3Pg\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nFantasy Interactive, Inc. Privacy Policy\nFantasy Interactive, Inc. (“Fantasy”) is committed to safeguarding the personally identifiable information that you share with us online. Generally, you can browse our website,\nhttps://www.fantasy.co/\n(this “Site”), without sharing any personal information. However, should you submit a form, including, but not limited to a job application form, contact form, or any email messages to any fantasy.co email address (collectively, “Forms” and each, a “Form”), you will be required to voluntarily submit personal information. We may also collect information on how you use this Site, such as resources browsed, searched and downloaded; the frequency and duration of visits, and your source Internet Protocol (“IP”) address.\nPlease read the following statement to understand how we collect, use, maintain, and disclose your personal information.\nWhen Personal Information is Required\nAs stated above, this Privacy Policy covers the use of this Site when you submit a Form.\nWhat Information We Collect\nPersonally identifiable information\nThis is information that may be used to identify you as an individual, such as your e-mail address, name, address, or telephone number. We may collect this information when you submit a Form.\nNon-personally identifiable information\nThis is information that does not by itself identify a specific individual. We may collect this information in a number of ways on this Site, including, but not limited to, how you use this Site, such as resources browsed, searched and downloaded, the frequency and duration of visits, and your source IP address.\nCookies\nA cookie is a data file that certain Web sites write to your computer’s hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. We may collect information from your web sessions by using cookies, to determine, for example, user traffic patterns, and the effectiveness of our navigational structure.\nMost Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. You don’t need to have cookies turned on to use/navigate through many parts of this Site, however, you may have to accept the receipt of cookies to access some Forms on this Site.\nHow We Use Your Information\nIf you choose to provide Fantasy with your personal information, where appropriate, Fantasy or its representative may use this information to contact you.\nWe may use the personal information collected during the use of this Site to personalize web content where applicable.\nWe may send you email when you submit a Form.\nWe may also use your information for user research.\nWe may also use the information to contact you when we have major functional changes to this Site.\nWe may periodically send email for administrative purposes.\nWe may disclose information about our users when we believe, in good faith, that the disclosure is required by law.\nSharing Your Information\nIn cases where we need to disclose web usage reports to non-Fantasy parties, your personal information will remain anonymous. We do not disclose, sell, exchange nor trade your personally identifiable information to any mailing lists.\nMaintaining Your Information\nWe take information security issues seriously. Consequently, any personally identifiable information is stored and protected on servers with adequate security measures. We will cease all communication and use of personally identifiable information upon your request.\nLinks To Other Sites\nThis Site contains links to other Web sites. Please be aware that Fantasy is not responsible for the privacy practices of other sites. We encourage our users to be aware that when they leave this Site to read the privacy policies of each and every Web site that collects personally identifiable information.\nThis Privacy Policy applies solely to information collected by this Site.\nChanges To This Statement\nIf there are changes or additions to the terms of this Privacy Policy, we will post those changes here prior to implementing the change, and as such, Fantasy encourages you to periodically review this Privacy Policy so you are informed about updates.\nIf there are material changes to this Privacy Policy, Fantasy will notify the users of such changes using the personally identifiable information collected on this Site.\nIf you are interested in learning more about Fantasy or are looking to request a quote, please contact us.",
+    "markdown": "# F A N T A S Y\n\nFantasy Interactive, Inc. Privacy Policy\n\nFantasy Interactive, Inc. (“Fantasy”) is committed to safeguarding the personally identifiable information that you share with us online. Generally, you can browse our website,\n\n[https://www.fantasy.co/](https://www.fantasy.co/)\n\n(this “Site”), without sharing any personal information. However, should you submit a form, including, but not limited to a job application form, contact form, or any email messages to any fantasy.co email address (collectively, “Forms” and each, a “Form”), you will be required to voluntarily submit personal information. We may also collect information on how you use this Site, such as resources browsed, searched and downloaded; the frequency and duration of visits, and your source Internet Protocol (“IP”) address.\n\nPlease read the following statement to understand how we collect, use, maintain, and disclose your personal information.\n\nWhen Personal Information is Required\n\nAs stated above, this Privacy Policy covers the use of this Site when you submit a Form.\n\nWhat Information We Collect\n\nPersonally identifiable information\n\nThis is information that may be used to identify you as an individual, such as your e-mail address, name, address, or telephone number. We may collect this information when you submit a Form.\n\nNon-personally identifiable information\n\nThis is information that does not by itself identify a specific individual. We may collect this information in a number of ways on this Site, including, but not limited to, how you use this Site, such as resources browsed, searched and downloaded, the frequency and duration of visits, and your source IP address.\n\nCookies\n\nA cookie is a data file that certain Web sites write to your computer’s hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. We may collect information from your web sessions by using cookies, to determine, for example, user traffic patterns, and the effectiveness of our navigational structure.\n\nMost Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. You don’t need to have cookies turned on to use/navigate through many parts of this Site, however, you may have to accept the receipt of cookies to access some Forms on this Site.\n\nHow We Use Your Information\n\nIf you choose to provide Fantasy with your personal information, where appropriate, Fantasy or its representative may use this information to contact you.\n\n*   We may use the personal information collected during the use of this Site to personalize web content where applicable.\n*   We may send you email when you submit a Form.\n*   We may also use your information for user research.\n*   We may also use the information to contact you when we have major functional changes to this Site.\n*   We may periodically send email for administrative purposes.\n*   We may disclose information about our users when we believe, in good faith, that the disclosure is required by law.\n\nSharing Your Information\n\nIn cases where we need to disclose web usage reports to non-Fantasy parties, your personal information will remain anonymous. We do not disclose, sell, exchange nor trade your personally identifiable information to any mailing lists.\n\nMaintaining Your Information\n\nWe take information security issues seriously. Consequently, any personally identifiable information is stored and protected on servers with adequate security measures. We will cease all communication and use of personally identifiable information upon your request.\n\nLinks To Other Sites\n\nThis Site contains links to other Web sites. Please be aware that Fantasy is not responsible for the privacy practices of other sites. We encourage our users to be aware that when they leave this Site to read the privacy policies of each and every Web site that collects personally identifiable information.\n\nThis Privacy Policy applies solely to information collected by this Site.\n\nChanges To This Statement\n\nIf there are changes or additions to the terms of this Privacy Policy, we will post those changes here prior to implementing the change, and as such, Fantasy encourages you to periodically review this Privacy Policy so you are informed about updates.\n\nIf there are material changes to this Privacy Policy, Fantasy will notify the users of such changes using the personally identifiable information collected on this Site.\n\nIf you are interested in learning more about Fantasy or are looking to request a quote, please contact us.",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://www.fantasy.co/what-we-do",
+    "crawl": {
+      "loadedUrl": "https://www.fantasy.co/what-we-do",
+      "loadedTime": "2025-04-26T18:28:19.758Z",
+      "referrerUrl": "https://www.fantasy.co/",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.fantasy.co/what-we-do",
+      "title": "F A N T A S Y",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:55 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8bea-Bkh6Wepxh+9TU6SOKF2CxEBtt+0\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nAll Categories\nEcosystems\nView\nOperating\nSystems\nView\nMobility\nView\nProducts\nView\nVision & Strategy\nView\nA.I. & Voice\nView\nHealthcare\nView\nB2B Platforms\nView\nTV & Streaming Media\nView\nRetail & Ecommerce\nView\nFashion & Luxury\nView\nWebsites\nView\nTravel & Hospitality\nView",
+    "markdown": "# F A N T A S Y\n\n[![fantasy logo](https://www.fantasy.co/assets/logoLightRetina.98b82344.svg)](https://www.fantasy.co/)\n\nAll Categories\n\nEcosystems\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/ecosystems)\n\nOperating  \nSystems\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/operating-systems)\n\nMobility\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/mobility)\n\nProducts\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/products)\n\nVision & Strategy\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/vision-strategy)\n\nA.I. & Voice\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/voice-ai)\n\nHealthcare\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/healthcare)\n\nB2B Platforms\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/b2b)\n\nTV & Streaming Media\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/tv-streaming)\n\nRetail & Ecommerce\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/retail-ecommerce)\n\nFashion & Luxury\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/fashion-luxury)\n\nWebsites\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/websites)\n\nTravel & Hospitality\n\n[\n\nView\n\n](https://www.fantasy.co/what-we-do/travel-hospitality)",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://www.fantasy.co/about",
+    "crawl": {
+      "loadedUrl": "https://www.fantasy.co/about",
+      "loadedTime": "2025-04-26T18:28:18.273Z",
+      "referrerUrl": "https://www.fantasy.co/",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.fantasy.co/about",
+      "title": "F A N T A S Y - About",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:27:55 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8b18-T8ZgmAfoFdVB/jJvbn1kBDu/2Ok\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nWe design digital\nproducts and\nservices used by\nbillions globally\nOur work and impact is our sales team – we’ve not\nhad any other since 1999.\nWe help our\nclients better\nunderstand and\naccelerate in their\nmarket\nWorking to define digital strategies and\ntransformational product offerings.\nVision & Strategy Work\nUsing our unique\nThink Beyond\nprocess to\ntransform deep\ninsight into impact\n“There is no team globally with the depth of experience\nand skillset that Fantasy have at this point” —\nLG\nWe bring\nexperiences to\nmarket from\nstrategy to\nexecution\nIntegrating a diverse range of expert skillsets.\nProduct Work\nAnd become\nnatural parts of\nour clients’ teams\nWe work out in the open and naturally see each other\nas extensions of each other’s teams.\n“Fantasy has catapulted\nour products forward”\nBrett Wilms\nVP Product, Indeed\nInnovators, leaders\nand passionate\ncollaborators\nA team dedicated to making significant impact.\nCareers\nThe secrets to our success\nThe world’s best,\ndedicated to you\nOur clients work with senior, hand-picked\nteams, perfectly tailored to them.\nGlobal perspectives,\nwith a global mindset\nOur team hails from all over the world, bringing\ndiverse perspectives and experiences.\nFocused on significant,\nmeasurable impact\nWe prove our value by staying\nlaser-focused on validating impact.\nInfectious creativity that\nenergizes entire companies\nWe’re skilled in generating incredible, new\nmomentum within organizations of all sizes.\nSetting our sights on\nthe unprecedented\nWe truly believe that if you can\nimagine it, you can create it.\nWe give it everything\nbecause we care\nWe’re proud of the work we do and are\nmotivated by our clients’ success.\nThank you, !\nYour message has been sent successfully.\nContact Us",
+    "markdown": "# F A N T A S Y\n\n## We design digital  \nproducts and  \nservices used by  \nbillions globally\n\nOur work and impact is our sales team – we’ve not  \nhad any other since 1999.\n\n## We help our  \nclients better  \nunderstand and  \naccelerate in their  \nmarket\n\nWorking to define digital strategies and  \ntransformational product offerings.\n\n[\n\nVision & Strategy Work\n\n](https://www.fantasy.co/what-we-do/vision-strategy)\n\n## Using our unique  \nThink Beyond  \nprocess to  \ntransform deep  \ninsight into impact\n\n“There is no team globally with the depth of experience  \nand skillset that Fantasy have at this point” —  \nLG\n\n## We bring  \nexperiences to  \nmarket from  \nstrategy to  \nexecution\n\nIntegrating a diverse range of expert skillsets.\n\n[\n\nProduct Work\n\n](https://www.fantasy.co/what-we-do/products)\n\n## And become  \nnatural parts of  \nour clients’ teams\n\nWe work out in the open and naturally see each other  \nas extensions of each other’s teams.\n\n“Fantasy has catapulted  \nour products forward”\n\nBrett Wilms  \nVP Product, Indeed\n\n## Innovators, leaders  \nand passionate  \ncollaborators\n\nA team dedicated to making significant impact.\n\n[\n\nCareers\n\n](https://www.fantasy.co/careers)\n\nThe secrets to our success\n\n*   The world’s best,  \n    dedicated to you\n    \n    Our clients work with senior, hand-picked  \n    teams, perfectly tailored to them.\n    \n*   Global perspectives,  \n    with a global mindset\n    \n    Our team hails from all over the world, bringing  \n    diverse perspectives and experiences.\n    \n*   Focused on significant,  \n    measurable impact\n    \n    We prove our value by staying  \n    laser-focused on validating impact.\n    \n*   Infectious creativity that  \n    energizes entire companies\n    \n    We’re skilled in generating incredible, new  \n    momentum within organizations of all sizes.\n    \n*   Setting our sights on  \n    the unprecedented\n    \n    We truly believe that if you can  \n    imagine it, you can create it.\n    \n*   We give it everything  \n    because we care\n    \n    We’re proud of the work we do and are  \n    motivated by our clients’ success.\n    \n\n## Thank you, !\n\nYour message has been sent successfully.\n\n## Contact Us",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/careers/2a639005-221e-4990-9a71-a407db657c9e/apply",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/careers/2a639005-221e-4990-9a71-a407db657c9e/apply",
+      "loadedTime": "2025-04-26T18:28:18.068Z",
+      "referrerUrl": "https://fantasy.co/careers/2a639005-221e-4990-9a71-a407db657c9e",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/careers/2a639005-221e-4990-9a71-a407db657c9e/apply",
+      "title": "F A N T A S Y - Apply",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:28:10 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"8a96-kSsEjyBVuAxcwTNB8UBhQF1wkiI\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nApply\nHead of New Business Development\nEast Coast / Full Time\nThank you!We will do our best to respond shortly",
+    "markdown": "# F A N T A S Y\n\n## Apply\n\n## Head of New Business Development\n\nEast Coast / Full Time\n\nThank you!We will do our best to respond shortly",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/amper",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/amper",
+      "loadedTime": "2025-04-26T18:28:51.584Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/products",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/amper",
+      "title": "F A N T A S Y - Amper",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:28:13 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"dc70-Q774MuLLjRIma3aYK9iQXUVZza0\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nDesign in harmony with function\nWe gave Amper’s intuitive composition a clean, bold design to make interaction effortless, while providing options for advanced control.",
+    "markdown": "# F A N T A S Y\n\n## Design in harmony with function\n\nWe gave Amper’s intuitive composition a clean, bold design to make interaction effortless, while providing options for advanced control.",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://www.fantasy.co/careers",
+    "crawl": {
+      "loadedUrl": "https://www.fantasy.co/careers",
+      "loadedTime": "2025-04-26T18:28:55.093Z",
+      "referrerUrl": "https://www.fantasy.co/",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.fantasy.co/careers",
+      "title": "F A N T A S Y - Careers",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:28:11 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"a68a-49+y5EOyH7GvbybbgwbDPnmaOBE\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nCareers\nJoin us and realize the unimagined.\nTogether as a team, we create experiences used and loved by millions of people every day. For over 20 years, we have worked with ambitious global organizations to launch world-leading digital products and services. Come and join us.",
+    "markdown": "# F A N T A S Y\n\n## Careers\n\n## Join us and realize the unimagined.\n\nTogether as a team, we create experiences used and loved by millions of people every day. For over 20 years, we have worked with ambitious global organizations to launch world-leading digital products and services. Come and join us.",
+    "competitorName": "Fantasy"
+  },
+  {
+    "url": "https://fantasy.co/work/masterclass",
+    "crawl": {
+      "loadedUrl": "https://fantasy.co/work/masterclass",
+      "loadedTime": "2025-04-26T18:28:58.449Z",
+      "referrerUrl": "https://fantasy.co/what-we-do/products",
+      "depth": 3,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://fantasy.co/work/masterclass",
+      "title": "F A N T A S Y - Masterclass",
+      "description": "The world famous digital experience agency designing digital ecosystems, platforms and products since 1999. New York.",
+      "author": "Fantasy agency",
+      "keywords": "Digital agency, UX agency, Ui design, UX design agencyUI design agency, Product design agency, web design firm, app design company, product design company",
+      "languageCode": "en",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 26 Apr 2025 18:28:12 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "SAMEORIGIN",
+        "strict-transport-security": "max-age=15552000; includeSubDomains",
+        "x-download-options": "noopen",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "etag": "W/\"18b26-zxdZf84unwyZx7e0ZehNMdJ3ehg\"",
+        "vary": "Accept-Encoding",
+        "content-encoding": "gzip",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "F A N T A S Y\nThis is your MasterClass\nThe world's greatest minds now in one app\nWe partnered with MasterClass to build their first-ever app for iOS and Android.\nBrowse like never before\nA visual experience designed to capture all of MasterClass' awe-inspiring instructors.\nDriving engagement\nDiscover incredible classes by simply swiping in any direction.\nShow, don't tell\nEnrollment made simple with an enticingly visual experience.\nBe inspired every day\nA feed to learn from the instructors you know and the ones you are yet to discover.\nAcross multiple platforms\nAn entire product ecosystem from Android to iPad.\nA scalable experience designed to grow\nFrom 50 instructors to over 500.\nAn incredible partnership\nFrom kickoff to launch, Fantasy worked side-by-side with MasterClass to bring the entire experience to life.\nApp of the Day, globally\nThe MasterClass app is now at the top of the education category in the App Store.\nLet's make impact together",
+    "markdown": "# F A N T A S Y\n\n## This is your  MasterClass\n\n## The world's greatest minds now in one app\n\nWe partnered with MasterClass to build their first-ever app for iOS and Android.\n\n## Browse like never before\n\nA visual experience designed to capture all of MasterClass' awe-inspiring instructors.\n\n## Driving engagement\n\nDiscover incredible classes by simply swiping in any direction.\n\n## Show, don't tell\n\nEnrollment made simple with an enticingly visual experience.\n\n## Be inspired every day\n\nA feed to learn from the instructors you know and the ones you are yet to discover.\n\n## Across multiple platforms\n\nAn entire product ecosystem from Android to iPad.\n\n## A scalable experience designed to grow\n\nFrom 50 instructors to over 500.\n\n## An incredible partnership\n\nFrom kickoff to launch, Fantasy worked side-by-side with MasterClass to bring the entire experience to life.\n\n![incredible partnership/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Masterclass/images/incrediblePartnershipDesktop.jpg)\n\n## App of the Day, globally\n\nThe MasterClass app is now at the top of the education category in the App Store.\n\n![app of the Day/fantasy](https://d2kdkox9jtuwgl.cloudfront.net/cases/Masterclass/images/appOfDayDesktop.jpg)\n\n## Let's make impact together",
     "competitorName": "Fantasy"
   }
 ]

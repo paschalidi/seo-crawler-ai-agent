@@ -1,1 +1,1406 @@
-[]
+[
+  {
+    "url": "https://www.jam3.com/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/",
+      "loadedTime": "2025-04-26T18:41:57.448Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 0,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/",
+      "title": "Jam3",
+      "description": "Jam3 is a design and experience agency that partners with forward-thinking brands to solve problems in the space between people and technology.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "Jam3 is a design and experience agency that partners with forward-thinking brands to solve problems in the space between people and technology."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/07/Jam3.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:02 GMT",
+        "x-amz-version-id": "tE1TEwqKF7RRTJj.7eKxl_ORVxjuCeQD",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 16:22:57 GMT",
+        "etag": "W/\"33e65da262f4a0bbcc02dd1f396f4864\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 349199c2d4bce4eb0554ad238203d5e4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "KGgreac1q78XD5x6ZgA0FRe_bifIeXCqVaJ5FJcgi3mHkSG2atC7pQ==",
+        "age": "8331",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Jam3\nWhat'sintheworks?\nAnARexperiencethatshapesexpectationsfortomorrow’scommuter.Adatavisualizationofculture.\nReadytotalkbusiness?Shootusanemail.",
+    "markdown": "# Jam3\n\n## What'sintheworks?\n\nAnARexperiencethatshapesexpectationsfortomorrow’scommuter.Adatavisualizationofculture.\n\nReadytotalkbusiness?[Shootusanemail.](mailto:hello@jam3.com?body=Here's%20where%20you%20can%20go%20ahead%20and%20ask%20us%20anything.%20Maybe%20you've%20got%20a%20problem%20you're%20trying%20to%20solve%20or%20an%20idea%20you're%20exploring?%20%0D%0A%0D%0AWe're%20here%20to%20listen%20carefully,%20immerse%20ourselves%20in%20the%20beautiful%20complexities%20of%20your%20business,%20then%20collaborate%20with%20you%20on%20a%20brilliant%20solution.%20%0D%0A%0D%0AMike,%20Dan,%20Cass%20and%20the%20entire%20JamFam%20are%20excited%20to%20learn%20more.&subject=Let's%20make%20some%20futuristic%20magic.)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://jam3.com/contact",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/contact/",
+      "loadedTime": "2025-04-26T18:42:13.503Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/contact/",
+      "title": "Jam3 - Contact Us",
+      "description": "Get in touch! Jam3 is a design and experience agency that partners with forward-thinking brands to solve problems in the space between people and technology.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Jam3 - Contact Us"
+        },
+        {
+          "property": "og:description",
+          "content": "Get in touch! Jam3 is a design and experience agency that partners with forward-thinking brands to solve problems in the space between people and technology."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/contact/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.jam3.com/assets/images/og-image.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "date": "Sat, 26 Apr 2025 00:29:44 GMT",
+        "last-modified": "Tue, 11 Feb 2025 15:29:02 GMT",
+        "x-amz-version-id": "ngwOj7pgeLostaqK0SqCJK4zwwJBUYF7",
+        "etag": "W/\"c006ea962d28dd8747fda25806daea76\"",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 349199c2d4bce4eb0554ad238203d5e4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "0KfKCIu785tr_OGQStpdkYqtlNgkXCpbzWTWQV62rTpz6O1lZiEP4g==",
+        "age": "65542",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Jam3 - Contact Us\nLET'SMAKEITHAPPEN.\nDon'thesitate\ntogetintouch.\nOurOffices\nWeofferdesign&interaction,creativetechnology,andcontent&storytellingcapabilitiesinfourcitiesacrossfivecontinents.\nWhateveryourgoal,let’schatabouthowtogetyouthere.\nOrmailusathello@jam3.com",
+    "markdown": "# Jam3 - Contact Us\n\n![](https://jam3-media.imgix.net/uploads/2020/07/Base-hero-contact-min.png?fit=max&auto=compress,format)\n\nLET'SMAKEITHAPPEN.\n\n## Don'thesitate  \ntogetintouch.\n\n## OurOffices\n\nWeofferdesign&interaction,creativetechnology,andcontent&storytellingcapabilitiesinfourcitiesacrossfivecontinents.\n\n## Whateveryourgoal,let’schatabouthowtogetyouthere.\n\nOrmailusat[hello@jam3.com](mailto:hello@jam3.com)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/press",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/press/",
+      "loadedTime": "2025-04-26T18:42:16.426Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/press/",
+      "title": "Press | Jam3",
+      "description": "Jam3 projects tend to get people talking. Check out what they’re saying about us.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Press | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "Jam3 projects tend to get people talking. Check out what they’re saying about us."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/press/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/07/Jam3.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "gF3ucthLd3eNpRVtWOUz2YmKZunqu0C4",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 18:42:14 GMT",
+        "etag": "W/\"f05a72af852c448e1f545677980b205a\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 349199c2d4bce4eb0554ad238203d5e4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "aw2NkbiwQdD1mOecH6I0Vxk2wDzwOAJ4y4jFO4j6yupM3Nz2ZTLcZw==",
+        "age": "81216",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Press | Jam3\nAW HECK!\nYour mail app was supposed to launch. But it didn't.\nGotta do it the old fashioned way.\nPLEASE EMAIL US AT\nGet in touch",
+    "markdown": "# Press | Jam3\n\nAW HECK!\n\nYour mail app was supposed to launch. But it didn't.\n\n## Gotta do it the old fashioned way.\n\nPLEASE EMAIL US AT\n\nGet in touch",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/culture/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/culture/",
+      "loadedTime": "2025-04-26T18:42:29.104Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/culture/",
+      "title": "Our Culture | Jam3",
+      "description": "Great work needs the right conditions. Our culture of killing it is built on: community, passion, positivity, teamwork, and curiosity.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Our Culture | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "Great work needs the right conditions. Our culture of killing it is built on: community, passion, positivity, teamwork, and curiosity."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/culture/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/05/jam3-social.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:02 GMT",
+        "x-amz-version-id": "RODE_L1tIj8Twyj0THWP1Lp7X1zEY8xX",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Fri, 25 Apr 2025 20:22:29 GMT",
+        "etag": "W/\"2d8fed6e43deb8267c4395e2fc39e845\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 349199c2d4bce4eb0554ad238203d5e4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "hyabdeAhfaaP6mC50Kh6FmPs4r7Q5ptsYy20GlbBdy5V41eBeu7kgQ==",
+        "age": "80376",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Our Culture | Jam3\nAtotal,relentlesscommitmenttoworkandplay.\nWho we are\n100employeesfrom20differentcountrieswhospeak23differentlanguages(1sharedlanguage:Canadian).\nWe’velogged10,574miles,visitingclientsin8differentcities(collecting47neck-pillowthingsthatnevergetused).\n12dailyphonecallsfromourparentsaskingfortheirwifipassword.\n33highfivesgiven,85%up-high,45%down-low(12%tooslow).\n90%ofclientscomebackformore,95%ofnewclientsarereferrals,and100%havecreditednotjustthework,butalsoourexceptionalservice.\nOurstory\nHowitallbegan\nJam3beganaboveagarageinToronto,justastheworldwasboldlyembracingthedigitalfrontier.Wewerejustthreeguys–yourfriendlyneighbourhoodwebdesigners.\nJustthreeguys...\nAdrian,Pablo&Mark\nourstory\nTheshift\nWelookedintothefutureandsawthedigitallandscapeevolvingbeyondwebsites.\nWesawtheshifttowardinteractiveexperiencesandwantedtocollaboratewiththebestbrandsandthebestpeople.\nBestbrands\nandthe\nbestpeople\nourstory\nWherewearenow\nJam3isnow100strong.\nWeareinfourcountriesacrossfourtimezones.Ifyouagedusbyouryearsofexperience,wewouldbedead10timesover.\nButwe’renotdone.\nFourcountries...\nToronto\nCAN\nourstory\nThework\nWeworkwithbranddisruptors,socialinspirers,mic-droppers,andculturalleadersatthecompanynextdoor.Weliveandbreathefortherelentlesspursuitofbetter,andwewon’tstop.\nRelentless\npursuit\nofbetter\n319\n320\n321\n322\n323\n324\n325\n326\n327\n328\n329\n330\n331\n332\n333\n334\n335\n336\n337\n338\n339\n340\n341\nAwards and counting...\nOurstory\nResults\nWestartdifficultconversationsandrespondtotoughquestions.We'redrivenbytechnologyandthepeoplewhoexperienceit.Wewinawards(330andcounting,thanksforasking).\nWhatwe'relookingforwardtonext\nOur Values\nHere’swhatgetsusoutofbedeverymorning.\nSee what we’re up to:\n01—Community\nSharing,caring,swearing\nWe’re comrades and confidants, open-minded self-improvers who hold each other accountable. And if someone forgets to save their work and yells out a stream of profanity, we all understand.\n02—Passion\nGivingalltheF#@!s\n03—Positivity\nCheerfullykillin’it\n04—Teamwork\nAces,notalphas\nWe’re low on ego, heavy on collaboration. Whether it’s teammates or clients, working closely and happily together is essential to our process and ultimate success. Side benefit: it makes us more fun at parties.\n05—Curiosity\nWhat’sNext?\nWe’re life-long learners, explorers and experimenters. We’re into work stuff but also the wider world of stuff – in particular, the endless possibilities of the future. Like: where’s our holo-deck?",
+    "markdown": "# Our Culture | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2019/09/Hero_Culture1.png?fit=max&auto=compress,format)\n\n## Atotal,relentlesscommitmenttoworkandplay.\n\nWho we are\n\n*   100employeesfrom20differentcountrieswhospeak23differentlanguages(1sharedlanguage:Canadian).\n    \n*   We’velogged10,574miles,visitingclientsin8differentcities(collecting47neck-pillowthingsthatnevergetused).\n    \n*   12dailyphonecallsfromourparentsaskingfortheirwifipassword.\n    \n*   33highfivesgiven,85%up-high,45%down-low(12%tooslow).\n    \n*   90%ofclientscomebackformore,95%ofnewclientsarereferrals,and100%havecreditednotjustthework,butalsoourexceptionalservice.\n    \n\n#### Ourstory\n\n## Howitallbegan\n\nJam3beganaboveagarageinToronto,justastheworldwasboldlyembracingthedigitalfrontier.Wewerejustthreeguys–yourfriendlyneighbourhoodwebdesigners.\n\n![](https://jam3-media.imgix.net/uploads/2019/09/1_CN_image-1.png?fit=max&auto=compress,format)\n\n#### Justthreeguys...\n\n### Adrian,Pablo&Mark\n\n![](https://jam3-media.imgix.net/uploads/2019/07/Bitmap.jpg?fit=max&auto=compress,format)\n\n#### ourstory\n\n## Theshift\n\nWelookedintothefutureandsawthedigitallandscapeevolvingbeyondwebsites.\n\n![](https://jam3-media.imgix.net/uploads/2019/09/3_Shift_Image-2.png?fit=max&auto=compress,format)\n\nWesawtheshifttowardinteractiveexperiencesandwantedtocollaboratewiththebestbrandsandthebestpeople.\n\nBestbrands\n\nandthe\n\nbestpeople\n\n#### ourstory\n\n## Wherewearenow\n\nJam3isnow100strong.  \nWeareinfourcountriesacrossfourtimezones.Ifyouagedusbyouryearsofexperience,wewouldbedead10timesover.  \nButwe’renotdone.\n\n![](https://jam3-media.imgix.net/uploads/2019/09/Where_We_Are-1.png?fit=max&auto=compress,format)\n\n![](https://jam3-media.imgix.net/uploads/2019/09/4_Torronto_office.png?fit=max&auto=compress,format)\n\nFourcountries...\n\n## Toronto\n\nCAN\n\n![](https://jam3-media.imgix.net/uploads/2019/09/Los_angeles3.png?fit=max&auto=compress,format)\n\n![](https://jam3-media.imgix.net/uploads/2019/09/6_Motenvideo_office.png?fit=max&auto=compress,format)\n\n![](https://jam3-media.imgix.net/uploads/2019/09/Our_Story_Amsterdam5.png?fit=max&auto=compress,format)\n\n#### ourstory\n\n## Thework\n\nWeworkwithbranddisruptors,socialinspirers,mic-droppers,andculturalleadersatthecompanynextdoor.Weliveandbreathefortherelentlesspursuitofbetter,andwewon’tstop.\n\n![](https://jam3-media.imgix.net/uploads/2019/09/The_Work_S1.png?fit=max&auto=compress,format)\n\n![](https://jam3-media.imgix.net/uploads/2019/09/8_The_Work_L2.png?fit=max&auto=compress,format)\n\nRelentless\n\npursuit\n\nofbetter\n\n![](https://jam3-media.imgix.net/uploads/2019/09/9_Our_story_TheWorkL2.png?fit=max&auto=compress,format)\n\n319\n\n320\n\n321\n\n322\n\n323\n\n324\n\n325\n\n326\n\n327\n\n328\n\n329\n\n330\n\n331\n\n332\n\n333\n\n334\n\n335\n\n336\n\n337\n\n338\n\n339\n\n340\n\n341\n\nAwards and counting...\n\n#### Ourstory\n\n## Results\n\nWestartdifficultconversationsandrespondtotoughquestions.We'redrivenbytechnologyandthepeoplewhoexperienceit.Wewinawards(330andcounting,thanksforasking).\n\n![](https://jam3-media.imgix.net/uploads/2019/07/img_sneakers.jpg?fit=max&auto=compress,format)\n\nWhatwe'relookingforwardtonext\n\nOur Values\n\n## Here’swhatgetsusoutofbedeverymorning.\n\nSee what we’re up to:\n\n## 01—Community  \nSharing,caring,swearing\n\nWe’re comrades and confidants, open-minded self-improvers who hold each other accountable. And if someone forgets to save their work and yells out a stream of profanity, we all understand.\n\n## 02—Passion  \nGivingalltheF#@!s\n\n## 03—Positivity  \nCheerfullykillin’it\n\n## 04—Teamwork  \nAces,notalphas\n\nWe’re low on ego, heavy on collaboration.  Whether it’s teammates or clients, working closely and happily together is essential to our process and ultimate success.  Side benefit: it makes us more fun at parties.\n\n## 05—Curiosity  \nWhat’sNext?\n\nWe’re life-long learners, explorers and experimenters.  We’re into work stuff but also the wider world of stuff – in particular, the endless possibilities of the future.  Like: where’s our holo-deck?",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/our-approach/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/our-approach/",
+      "loadedTime": "2025-04-26T18:42:57.488Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/our-approach/",
+      "title": "Our Approach | Jam3",
+      "description": "Modern Experiences. Exceptional Service. Problem Solved. From strategy to ideation to execution, we merge big ideas and bold tech to solve any problem.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Our Approach | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "Modern Experiences. Exceptional Service. Problem Solved. From strategy to ideation to execution, we merge big ideas and bold tech to solve any problem."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/our-approach/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/07/Jam3.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:02 GMT",
+        "x-amz-version-id": "BELrHQHXWvq_irAOX2qLH1TDLsMV96Tc",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Fri, 25 Apr 2025 22:44:26 GMT",
+        "etag": "W/\"dc4383ef9091ae80f740b5dea4aa61b5\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 349199c2d4bce4eb0554ad238203d5e4.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "shYkvK5pQwuc16M5pNXT2IfdDTxsJ5-MWR7XOryfO8mktHVXTtoeOA==",
+        "age": "71858",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Our Approach | Jam3\nDrivenbyinsight.\nInspiredbytechnology.\nDesignedwithpurpose.\nJam3isaglobaldesignandexperienceagency\nCombining insight, creativity and technology \nto align with culture and connect with people.\nWhat are we all about\nWe help forward-thinking brands launch products and \ndesign new customer experiences in digital and beyond.\n\nWe don’t make \"ads\". Our work instead focuses on \ncutting-edge experience design to help brands achieve \nmore meaningful engagement with consumers.\nEverything here is in-house and end-to-end, from \nstrategy to creative, UX, tech, and QA. These integrated \ncapabilities allow us to push the limits of creativity and \ntechnology while grounding us in what is most relevant \nto audiences.\nOurApproach\nAprocessthat'sboth\nrigorousandflexible.\nEvery client is unique. Some need end-to-end solutions, \nwhile others look for our expertise in a specific creative \ntechnology. We are collaborators in the truest sense \nand have made our process flexible to meet your \nworkflow. We’ve been innovating in digital for 15+ years \nand have seen every type of challenge. Our process is \nalways evolving to reduce risk. We maintain the highest \nlevel of rigor internally and center our process on \ntransparency and collaboration.\nStep 01\nAlign\nGetting to know you.\nThe first step in a successful partnership is to huddle up \nand learn. We get to know your brand, goals and \nexpectations. From there, we put together an initial plan \nfor the work to come. \nStep 02\nInsight\nUnderstanding the wider context.\nStep 03\nOpportunity\nStep 04\nConcept\nDesign\nSmart, unexpected or both.\nNeed ambitious, innovative and first-of-its kind? Check. \nNeed an ultra-rational solve? Check check. Our \ncross-disciplinary teams concept together, drawing \ninspiration from culture and emerging tech while \nensuring viability. Every idea and design is ultimately \nvetted against the success criteria. \nKey methodologies: innovation sprints, visual research, cultural \naudits, empathy mapping, mind-mapping, abstraction exercises, creative \nevaluation frameworks. \nStep 05\nPrototype\n&Test\nDesign. Refine. Test. Repeat.\nOk, we have a great idea. Now it’s time to bring it to life \nand put it through its paces. Promising solutions are \nprototyped and tested to ensure they’re hitting the right \nnotes with consumers and to reveal areas for \nimprovement. \nKey methodologies: Information architecture, content strategy, SEO, \nvisual concepting, UX & UI design, prototyping, user testing, industrial \ndesign, accessibility, design system creation.\nStep 06\nBuild\nMaking it happen.\nNow it’s time for our elite dev teams to write beautiful \nmodern code – delivered on time, on budget, and in full. \nOur production philosophy is simple: hit milestones with \nreliability, with deliverables that exceed expectations. \nKey methodologies: Tech trend watching, functional requirements \nanalysis, tech design documentation, coding style guidelines, code \nreviews, speed optimization, continuous Integration & deployment, \nsecurity reviews, QA. \nStep 07\nLaunch&Evaluate\nDeploying with confidence.\nFor some, the launch is the end. For us, it’s another \ncrucial step. We’re with you in force to support \ndeployment, measure performance, and continuously \nimprove results. After all, we judge our success by \nyours. \nKey methodologies: KPI tracking and reporting, customer feedback \ncapture and analysis, optimization.",
+    "markdown": "# Our Approach | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2019/09/Hero_Approach-2.png?fit=max&auto=compress,format)\n\n## Drivenbyinsight.  \nInspiredbytechnology.  \nDesignedwithpurpose.\n\n## Jam3isaglobaldesignandexperienceagency\n\n#### \n\nCombining insight, creativity and technology\n\nto align with culture and connect with people.\n\nWhat are we all about\n\nWe help forward-thinking brands launch products and\n\ndesign new customer experiences in digital and beyond.\n\n  \n\nWe don’t make \"ads\". Our work instead focuses on\n\ncutting-edge experience design to help brands achieve\n\nmore meaningful engagement with consumers.\n\nEverything here is in-house and end-to-end, from\n\nstrategy to creative, UX, tech, and QA. These integrated\n\ncapabilities allow us to push the limits of creativity and\n\ntechnology while grounding us in what is most relevant\n\nto audiences.\n\n#### OurApproach\n\n## Aprocessthat'sboth  \nrigorousandflexible.\n\nEvery client is unique. Some need end-to-end solutions,\n\nwhile others look for our expertise in a specific creative\n\ntechnology. We are collaborators in the truest sense\n\nand have made our process flexible to meet your\n\nworkflow. We’ve been innovating in digital for 15+ years\n\nand have seen every type of challenge. Our process is\n\nalways evolving to reduce risk. We maintain the highest\n\nlevel of rigor internally and center our process on\n\ntransparency and collaboration.\n\n![](https://jam3-media.imgix.net/uploads/2020/08/190812-Jam3-1674-e1598550172894.jpg)\n\n#### Step 01\n\n## Align\n\n###### Getting to know you.\n\nThe first step in a successful partnership is to huddle up\n\nand learn. We get to know your brand, goals and\n\nexpectations. From there, we put together an initial plan\n\nfor the work to come.\n\n#### Step 02\n\n## Insight\n\n###### Understanding the wider context.\n\n#### Step 03\n\n## Opportunity\n\n#### Step 04\n\n## Concept  \nDesign\n\n###### Smart, unexpected or both.\n\nNeed ambitious, innovative and first-of-its kind? Check.\n\nNeed an ultra-rational solve? Check check. Our\n\ncross-disciplinary teams concept together, drawing\n\ninspiration from culture and emerging tech while\n\nensuring viability. Every idea and design is ultimately\n\nvetted against the success criteria.\n\nKey methodologies: innovation sprints, visual research, cultural\n\naudits, empathy mapping, mind-mapping, abstraction exercises, creative\n\nevaluation frameworks.\n\n#### Step 05\n\n## Prototype  \n&Test\n\n###### Design. Refine. Test. Repeat.\n\nOk, we have a great idea. Now it’s time to bring it to life\n\nand put it through its paces. Promising solutions are\n\nprototyped and tested to ensure they’re hitting the right\n\nnotes with consumers and to reveal areas for\n\nimprovement.\n\nKey methodologies: Information architecture, content strategy, SEO,\n\nvisual concepting, UX & UI design, prototyping, user testing, industrial\n\ndesign, accessibility, design system creation.\n\n#### Step 06\n\n## Build\n\n###### Making it happen.\n\nNow it’s time for our elite dev teams to write beautiful\n\nmodern code – delivered on time, on budget, and in full.\n\nOur production philosophy is simple: hit milestones with\n\nreliability, with deliverables that exceed expectations.\n\nKey methodologies: Tech trend watching, functional requirements\n\nanalysis, tech design documentation, coding style guidelines, code\n\nreviews, speed optimization, continuous Integration & deployment,\n\nsecurity reviews, QA.\n\n#### Step 07\n\n## Launch&Evaluate\n\n###### Deploying with confidence.\n\nFor some, the launch is the end. For us, it’s another\n\ncrucial step. We’re with you in force to support\n\ndeployment, measure performance, and continuously\n\nimprove results. After all, we judge our success by\n\nyours.\n\nKey methodologies: KPI tracking and reporting, customer feedback\n\ncapture and analysis, optimization.",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/nba-pixel-arena-2-0/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/nba-pixel-arena-2-0/",
+      "loadedTime": "2025-04-26T18:43:01.911Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/nba-pixel-arena-2-0/",
+      "title": "NBA Pixel Arena | Jam3",
+      "description": "NBA Pixel Arena is the world’s first customizable metaverse world for NBA fans.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "NBA Pixel Arena | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "NBA Pixel Arena is the world’s first customizable metaverse world for NBA fans."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/nba-pixel-arena-2-0/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2023/03/My-project.jpg"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "5NUBruZydysfEZbL9twzx1XajSeedhMS",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 18:42:23 GMT",
+        "etag": "W/\"196959eeed23c7cdf37b115a14a70e67\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "AdeTFdqGAYcDKsX3sXTb-M6cjXQADAHXz0XeTIUdFReVlq19nnH0ow==",
+        "age": "46283",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "NBA Pixel Arena | Jam3\nWebExperience\nNBAPixelArena:\nTheworld’sfirstcustomizablemetaverseworldforNBAFans.\nOverview\nAmind-blowingworld.\nGoogle and the NBA partnered with Media.Monks & Jam3.Monks to design the future of sports entertainment: an immersive, multiplayer 3D world inside the NBA app for fans.Inside this personalized multiplayer experience fans could customize their avatar in futuristic street-style, recreate the legendary dunks of their favorite players and play battle royale mini-games against other fans to unlock new exclusive merch.\nDeliveries\nStrategy, Design, Production, Development, UX & QA\nChallenges\nCreatingafuturisticexperience fortoday’sfan.\nThe NBA has one of the most passionate followings of any league. How do you create an experience that revolutionizes the way they experience games?\nToday’s die-hard fans demand to actively participate so the world we created had to be virtual, customizable and interactive – the ultimate NBA fan verse. \nApproach\nPioneeringthefutureofsportentertainment.\nAlongside the NBA and Google we set out to redefine the fandom experience through an iconic interactive world. We knew the experience had to reward fans with exclusive opportunities; foster community and connections; allow users to self-express and empower them to go deeper inside of the game they love.\nFeatures\nAsprawlingWebGLworld.\nGenerate a lifelike avatar of yourself in the locker room, then head to the highlight remixer to recreate iconic shots from the biggest players in the NBA. Head over to the skill zone to participate in multiplayer games with other fans and rise to the top of the leaderboard. \nThe arena is a sprawling WebGL complex that fans can explore together. Inside the arena you can purchase new items at the shops, join a game with other fans, and create a custom highlight reel.\nCreativeTechnology\nadidasOzworld\nExpressyourselfinOzworld.Theworld’sfirstpersonalitybasedAI-generatedavatars.",
+    "markdown": "# NBA Pixel Arena | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2023/03/Hero.png?fit=max&auto=compress,format)\n\nWebExperience\n\n## NBAPixelArena:  \nTheworld’sfirstcustomizablemetaverseworldforNBAFans.\n\n#### Overview\n\n## Amind-blowingworld.\n\nGoogle and the NBA partnered with Media.Monks & Jam3.Monks to design the future of sports entertainment: an immersive, multiplayer 3D world inside the NBA app for fans.Inside this personalized multiplayer experience fans could customize their avatar in futuristic street-style, recreate the legendary dunks of their favorite players and play battle royale mini-games against other fans to unlock new exclusive merch.\n\n#### Deliveries\n\nStrategy, Design, Production, Development, UX & QA\n\n#### Challenges\n\n## Creatingafuturisticexperience fortoday’sfan.\n\nThe NBA has one of the most passionate followings of any league. How do you create an experience that revolutionizes the way they experience games?  \nToday’s die-hard fans demand to actively participate so the world we created had to be virtual, customizable and interactive – the ultimate NBA fan verse. \n\n![](https://jam3-media.imgix.net/uploads/2023/03/CELULAR.png?fit=max&auto=compress,format)\n\n![](https://jam3-media.imgix.net/uploads/2023/03/FONDO-VIDEOS-1.png?fit=max&auto=compress,format)\n\n#### Approach\n\n## Pioneeringthefutureofsportentertainment.\n\nAlongside the NBA and Google we set out to redefine the fandom experience through an iconic interactive world. We knew the experience had to reward fans with exclusive opportunities; foster community and connections; allow users to self-express and empower them to go deeper inside of the game they love.\n\n#### Features\n\n## AsprawlingWebGLworld.\n\nGenerate a lifelike avatar of yourself in the locker room, then head to the highlight remixer to recreate iconic shots from the biggest players in the NBA. Head over to the skill zone to participate in multiplayer games with other fans and rise to the top of the leaderboard.   \nThe arena is a sprawling WebGL complex that fans can explore together. Inside the arena you can purchase new items at the shops, join a game with other fans, and create a custom highlight reel.\n\n*   [\n    \n    CreativeTechnology\n    \n    ## adidasOzworld\n    \n    ExpressyourselfinOzworld.Theworld’sfirstpersonalitybasedAI-generatedavatars.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/adidas-ozworld/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/adidas-ozworld/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/adidas-ozworld/",
+      "loadedTime": "2025-04-26T18:43:03.802Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/adidas-ozworld/",
+      "title": "adidas Ozworld | Jam3",
+      "description": "adidas Ozworld is the world’s first personality-based, AI-generated avatar creation platform. A unique, free, interoperable avatar you can take across the web. Express yourself in Ozworld.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "adidas Ozworld | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "adidas Ozworld is the world’s first personality-based, AI-generated avatar creation platform. A unique, free, interoperable avatar you can take across the web. Express yourself in Ozworld."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/adidas-ozworld/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2022/06/full-bleed.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "3_zm3qt5qFWhPMcUdTqUVt1fcC4Gfc_p",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 05:51:24 GMT",
+        "etag": "W/\"fa8630c9fcb546dd7f4ca044a448de64\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "IiAQ7gxZCQkPhNCHdgD62vtOQJd9TWjYOKCjvt0na0msgAtArUfmKQ==",
+        "age": "46262",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "adidas Ozworld | Jam3\nWebExperience\nTheworld’sfirstpersonality-basedAI-generatedavatars.\nOverview\nAnewageoforiginalityforanewdigitalworld.\nadidas Originals wanted to drive brand perception as a digital innovator, leading the conversation around what it means to be original today, while hyping the new Ozworld sneaker collection. We worked with them to create an immersive metaverse experience that unlocked fluidity of self-expression - the world’s first personality-based AI-generated avatars.\nDeliveries\nStrategy, Design, Production Development, UX & QA\nadidastocreatemetaverseavatarsforfansinspiredbynewshoecollection.\nadidasmakesnewmovesinthemetaversewithpersonality-based,interoperableavatars.\nChallenges\nSelf-expressioninthemetaverse.\nTo hype the Ozworld sneaker collection and metaverse experience, adidas first had to win brand cred with the coveted GenZ demographic, the cultural gatekeepers of what’s cool in streetwear, gaming, music, art and pop-culture. With bold and fluid identities, Gen Z felt frustrated by the confines of current digital experiences in enabling them to fully express themselves. adidas had an opportunity to provide a means to self-expression in the metaverse that actually lived up to the hype.\nApproach\nTheFutureofDigitalIdentity\nWe set out to create a digital experience that positioned adidas as a cultural innovator and established its presence in web3. The first generative avatar platform based on personality, built on blockchain, completely owned by its users. At the same time, we wanted to further the conversation around self expression and identity in the metaverse for Gen Z. To do this, we built a new world. Ozworld. This immersive metaverse experience enabled Gen Z to unlock fluidity of self-expression IRL and across virtual world platforms, while generating excitement around the launch of the Ozworld sneaker collection.\nFeatures\nYourself,EverywhereintheMetaverse\nUpon entering Ozworld, users were prompted to answer a series of personality questions to generate their own unique avatar. To boldly express themselves without boundaries or the confines of so many other digital avatars and step into the metaverse in a way that was inclusive, yet felt exclusive. We created 10 million unique avatars inspired by three new Ozworld silhouettes. In partnership with Ready Player Me, a cross-game metaverse avatar platform, adidas then took the Ozworld avatars into the metaverse, enabling users to explore many different virtual worlds with one original identity.\nResults\n10Muniqueavatarscreatedandinspiredby3newOzworldsilhouettes.\nOutof500Ksessions,428Kavatarsweregeneratedinthefirst10daysalone.\n250Kuniqueuserstothewebexperiencejustinthefirstweek.\nAwards\n1XCanneslionAward\n1XFWA\nSOTD - July 9, 2022\n1XAwwwards\nSOTD - August 3, 2022\n2XCSSDesignAwards\nCreativeTechnology\nLevi'sWynwood\nIntroducingLevi’ssustainabletechinstyle.",
+    "markdown": "# adidas Ozworld | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2022/07/01-_-Hero.png?fit=max&auto=compress,format)\n\nWebExperience\n\n## Theworld’sfirstpersonality-basedAI-generatedavatars.\n\n#### Overview\n\n## Anewageoforiginalityforanewdigitalworld.\n\nadidas Originals wanted to drive brand perception as a digital innovator, leading the conversation around what it means to be original today, while hyping the new Ozworld sneaker collection. We worked with them to create an immersive metaverse experience that unlocked fluidity of self-expression - the world’s first personality-based AI-generated avatars.\n\n#### Deliveries\n\nStrategy, Design, Production Development, UX & QA\n\n![](https://jam3-media.imgix.net/uploads/2022/07/03-_-Full-Screen-3.png?fit=max&auto=compress,format)\n\n*   adidastocreatemetaverseavatarsforfansinspiredbynewshoecollection.\n    \n    ![](https://jam3-media.imgix.net/uploads/2022/06/AdAge.png?fit=max&auto=compress,format)\n    \n*   adidasmakesnewmovesinthemetaversewithpersonality-based,interoperableavatars.\n    \n    ![](https://jam3-media.imgix.net/uploads/2022/06/The-Drum.png?fit=max&auto=compress,format)\n    \n\n#### Challenges\n\n## Self-expressioninthemetaverse.\n\nTo hype the Ozworld sneaker collection and metaverse experience, adidas first had to win brand cred with the coveted GenZ demographic, the cultural gatekeepers of what’s cool in streetwear, gaming, music, art and pop-culture. With bold and fluid identities, Gen Z felt frustrated by the confines of current digital experiences in enabling them to fully express themselves. adidas had an opportunity to provide a means to self-expression in the metaverse that actually lived up to the hype.\n\n![](https://jam3-media.imgix.net/uploads/2022/07/05-_-Challenge-_-Full-Screen.png?fit=max&auto=compress,format)\n\n#### Approach\n\n## TheFutureofDigitalIdentity\n\nWe set out to create a digital experience that positioned adidas as a cultural innovator and established its presence in web3. The first generative avatar platform based on personality, built on blockchain, completely owned by its users. At the same time, we wanted to further the conversation around self expression and identity in the metaverse for Gen Z.  To do this, we built a new world. Ozworld. This immersive metaverse experience enabled Gen Z to unlock fluidity of self-expression IRL and across virtual world platforms, while generating excitement around the launch of the Ozworld sneaker collection.\n\n#### Features\n\n## Yourself,EverywhereintheMetaverse\n\nUpon entering Ozworld, users were prompted to answer a series of personality questions to generate their own unique avatar. To boldly express themselves without boundaries or the confines of so many other digital avatars and step into the metaverse in a way that was inclusive, yet felt exclusive.   We created 10 million unique avatars inspired by three new Ozworld silhouettes. In partnership with Ready Player Me, a cross-game metaverse avatar platform, adidas then took the Ozworld avatars into the metaverse, enabling users to explore many different virtual worlds with one original identity.\n\n## Results\n\n10Muniqueavatarscreatedandinspiredby3newOzworldsilhouettes.\n\nOutof500Ksessions,428Kavatarsweregeneratedinthefirst10daysalone.\n\n250Kuniqueuserstothewebexperiencejustinthefirstweek.\n\n## Awards\n\n*   1XCanneslionAward\n    \n*   1XFWA\n    \n    SOTD - July 9, 2022\n    \n*   1XAwwwards\n    \n    SOTD - August 3, 2022\n    \n*   2XCSSDesignAwards\n    \n\n*   [\n    \n    CreativeTechnology\n    \n    ## Levi'sWynwood\n    \n    IntroducingLevi’ssustainabletechinstyle.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/levis-wynwood/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/levis-wynwood/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/levis-wynwood/",
+      "loadedTime": "2025-04-26T18:43:04.697Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/levis-wynwood/",
+      "title": "Levi's Wynwood | Jam3",
+      "description": "Levi's partnered with Jam3 to launch their innovative and sustainable Future Finish technology at Art Basel in Miami! We created an interactive drop for exclusive merch with a beautiful neon countdown and a mind-blowing infinity mirror.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Levi's Wynwood | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "Levi's partnered with Jam3 to launch their innovative and sustainable Future Finish technology at Art Basel in Miami! We created an interactive drop for exclusive merch with a beautiful neon countdown and a mind-blowing infinity mirror."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/levis-wynwood/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2020/03/CASE-STUDY-RAW-ASSETS.02_15_03_11.Still042-6-e1601327463528.jpg"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "yGMQxRAP1xxxIJbRUXRVsZQ.Ylv2X5oj",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 05:52:06 GMT",
+        "etag": "W/\"2780e7b285461d2b156388e1442491ee\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "qomkNYq1MSXBSjseczdliIR6Vg8b5uq1_kPyHcRXjzHmRLOu4YnvTQ==",
+        "age": "46227",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Levi's Wynwood | Jam3\nExperiential-Platform\nIntroducingLevi’ssustainabletechinstyle.\nOverview\nTheartof\nthedrop.\nLevi’s partnered with Jam3 to reveal their sustainable Future Finish technology at Art Basel in Miami. We designed and built a drop system that could leverage Future Finish’s impressive production flow, and allow Levi’s to drop exclusive products over and over again.\nThe drops centred around a giant neon countdown clock, a rapid-fire pattern input system, and a shipping container infinity room where shoppers could pick up their product in style.\nDeliveries\nStrategy, Design, Production\nDevelopment, UX & QA\nChallenges\nAnexclusiveexperienceforaniconicbrand.\nLevi’s came to us looking for an exciting way to release their Future Finish product and build hype around their Levi’s Haus popup in Miami over the course of three months. Jam3 has a long history of designing innovative drop mechanics that create a stir, and Levi’s was no exception.\nWe had three main considerations: create a drop mechanism that could be reused repeatedly, leverage the high-traffic event to get people amped up about upcoming drops, and build a fluid, impressive experience that carries excitement throughout the purchase flow.\nApproach\nHype,drop,repeat.\nA great drop has to build anticipation, make exclusive products feel just within reach, and create a little bit of mystery. So we fabricated a giant neon countdown timer that built hype throughout the day. As the clock reached zero, we revealed a code that guests could enter on our easy to access web-app.\nAfter the quickest fingers claimed a product, we wanted to give them a premium experience to match their exclusive purchase. Once they won their drop, they could head to The Pickup, a fully automated jean-dispensing infinity room. Scanning the code on their phone activated a ceiling-mounted carousel that delivered their product.\nResults\nDeliveringmore\nthanhype.\nOur jean machine delivered sold out drops for months, exceeding Levi’s expectations and becoming a beacon for streetwear hounds in Miami’s Wynwood district. The gamified drop mechanic stoked hypebeasts’ need to get it first, and satisfied their desire for an exclusive experience—without lines or mass hysteria.\nAnd the big, shiny, futuristic delivery was truly worthy of the product we were offering.\nCreativeTechnology\nadidasComplexCon\nRethinkingthepointofpurchasethroughAR.",
+    "markdown": "# Levi's Wynwood | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2020/09/CASE-STUDY-RAW-ASSETS.01_43_05_29.Still052-2.jpg?fit=max&auto=compress,format)\n\nExperiential\\-Platform\n\n## IntroducingLevi’ssustainabletechinstyle.\n\n#### Overview\n\n## Theartof  \nthedrop.\n\nLevi’s partnered with Jam3 to reveal their sustainable Future Finish technology at Art Basel in Miami. We designed and built a drop system that could leverage Future Finish’s impressive production flow, and allow Levi’s to drop exclusive products over and over again.\n\nThe drops centred around a giant neon countdown clock, a rapid-fire pattern input system, and a shipping container infinity room where shoppers could pick up their product in style.\n\n#### Deliveries\n\nStrategy, Design, Production  \nDevelopment, UX & QA\n\n![](https://jam3-media.imgix.net/uploads/2020/03/CASE-STUDY-RAW-ASSETS.02_15_03_11.Still042-6-e1601327463528.jpg?fit=max&auto=compress,format)\n\n#### Challenges\n\n## Anexclusiveexperienceforaniconicbrand.\n\nLevi’s came to us looking for an exciting way to release their Future Finish product and build hype around their Levi’s Haus popup in Miami over the course of three months. Jam3 has a long history of designing innovative drop mechanics that create a stir, and Levi’s was no exception.  \nWe had three main considerations: create a drop mechanism that could be reused repeatedly, leverage the high-traffic event to get people amped up about upcoming drops, and build a fluid, impressive experience that carries excitement throughout the purchase flow.\n\n#### Approach\n\n## Hype,drop,repeat.\n\nA great drop has to build anticipation, make exclusive products feel just within reach, and create a little bit of mystery. So we fabricated a giant neon countdown timer that built hype throughout the day. As the clock reached zero, we revealed a code that guests could enter on our easy to access web-app.  \nAfter the quickest fingers claimed a product, we wanted to give them a premium experience to match their exclusive purchase. Once they won their drop, they could head to The Pickup, a fully automated jean-dispensing infinity room. Scanning the code on their phone activated a ceiling-mounted carousel that delivered their product.\n\n#### Results\n\n## Deliveringmore  \nthanhype.\n\nOur jean machine delivered sold out drops for months, exceeding Levi’s expectations and becoming a beacon for streetwear hounds in Miami’s Wynwood district. The gamified drop mechanic stoked hypebeasts’ need to get it first, and satisfied their desire for an exclusive experience—without lines or mass hysteria.  \nAnd the big, shiny, futuristic delivery was truly worthy of the product we were offering.\n\n*   [\n    \n    CreativeTechnology\n    \n    ## adidasComplexCon\n    \n    RethinkingthepointofpurchasethroughAR.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/adidas-originals/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/adidas-operation-airdrop/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/adidas-operation-airdrop/",
+      "loadedTime": "2025-04-26T18:43:20.706Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/adidas-operation-airdrop/",
+      "title": "adidas - Operation AirDrop | Jam3",
+      "description": "We broke the internet with an exclusive adidas x Donald Glover shoe drop at Coachella. And we did it by airdropping exclusive invites to unsuspecting fans.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "adidas - Operation AirDrop | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "We broke the internet with an exclusive adidas x Donald Glover shoe drop at Coachella. And we did it by airdropping exclusive invites to unsuspecting fans."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/adidas-operation-airdrop/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2015/07/Coachella.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "date": "Sat, 26 Apr 2025 05:51:37 GMT",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "Q1LqW6LI6pYZm7PPtX7RLg.7VxqzazRw",
+        "etag": "W/\"dea52699cb76ccb26f684ada8a2a847e\"",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "SAqCF9iShTuvmnrHVhO-X_058i5xFyezrGNYVR3Ct72Djxl22eGlcA==",
+        "age": "46302",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "adidas - Operation AirDrop | Jam3\nExperiential\nadidasbreakstheinternetbyairdroppingChildishGambino'skicks.\nOverview\nMakingnoise\natCoachella.\nCoachella is a notorious cacophony of performances, selfies, installations, and general madness — and yet we went on location to get people’s attention. In anticipation of Childish Gambino’s new adidas shoe line and forthcoming performance, we sent invites to be the first to wear the shoes via AirDrop. What happened next, no one saw coming.\nDeliveries\nStrategy, Production, Design, UX, Development, & QA\nYes,DonaldGloverwasgivingawaysneakersatCoachella.\nDonaldGloverputanewtwistontheold-fashionedsneakergiveaway.\nInaworldwherecollabdropsleadtositecrashesandlinesconstrictingcityblocks…thisseemslikeabreathoffreshair.\nApproach\nThisisgettingoutofhand.\nWith this system in place, we AirDropped invites to unsuspecting attendees, an ideal demographic consisting of the socially savvy, Childish Gambino fans, and hypeshoe devotees. Those who received the invite could pick up their shoes on-site, throw them on, and immediately start Instagramming them—generating that pre-release hype we were looking for.\nChallenges\n(Not)sendinginvitesintotheether.\nBecause we were pinging random people, the challenge was in the follow-up—particularly in seeing how AirDrop invites turned into social currency and/or purchases. That meant staying on top of the social channels and following up with people who bought the shoes on site to measure success.\nFeatures\nThepowerofpress.\nThe stunt generated a lot of press. A lot. Not just the incredible organic reach of the social posts that were posted, but once the press caught on, all bets were off. This was a master class in timing, a perfect blend of a shoe release, a musical performance, a fun bit of tech, opportunity for something exclusive, and thirsty press—that’s how you make noise at Coachella.\nResults\nTherewere600,583Likes+50,000RTsonthreeposts,and47,676,943overallsocialmediaimpressions.\nFrom65+piecesofeditorialcoveragewereceived527,570,700editorialimpressions.\nDesign&Interaction\nFacebookCommunities\nEmpoweringandeducatinglocalcommunityleaders.",
+    "markdown": "# adidas - Operation AirDrop | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2015/07/adidas-coachella-desktop.png?fit=max&auto=compress,format)\n\nExperiential\n\n## adidasbreakstheinternetbyairdroppingChildishGambino'skicks.\n\n#### Overview\n\n## Makingnoise  \natCoachella.\n\nCoachella is a notorious cacophony of performances, selfies, installations, and general madness — and yet we went on location to get people’s attention. In anticipation of Childish Gambino’s new adidas shoe line and forthcoming performance, we sent invites to be the first to wear the shoes via AirDrop. What happened next, no one saw coming.\n\n#### Deliveries\n\nStrategy, Production, Design, UX, Development, & QA\n\n![](https://jam3-media.imgix.net/uploads/2015/07/Bitmap2.jpg?fit=max&auto=compress,format)\n\n*   Yes,DonaldGloverwasgivingawaysneakersatCoachella.\n    \n    ![Mashable](https://jam3-media.imgix.net/uploads/2015/07/mashable-min.svg?fit=max&auto=compress,format)\n    \n*   DonaldGloverputanewtwistontheold-fashionedsneakergiveaway.\n    \n    ![](https://jam3-media.imgix.net/uploads/2015/07/esquire-min.svg?fit=max&auto=compress,format)\n    \n*   Inaworldwherecollabdropsleadtositecrashesandlinesconstrictingcityblocks…thisseemslikeabreathoffreshair.\n    \n    ![](https://jam3-media.imgix.net/uploads/2015/07/complex-min.svg?fit=max&auto=compress,format)\n    \n\n#### Approach\n\n## Thisisgettingoutofhand.\n\nWith this system in place, we AirDropped invites to unsuspecting attendees, an ideal demographic consisting of the socially savvy, Childish Gambino fans, and hypeshoe devotees. Those who received the invite could pick up their shoes on-site, throw them on, and immediately start Instagramming them—generating that pre-release hype we were looking for.\n\n#### Challenges\n\n## (Not)sendinginvitesintotheether.\n\nBecause we were pinging random people, the challenge was in the follow-up—particularly in seeing how AirDrop invites turned into social currency and/or purchases. That meant staying on top of the social channels and following up with people who bought the shoes on site to measure success.\n\n#### Features\n\n## Thepowerofpress.\n\nThe stunt generated a lot of press. A lot. Not just the incredible organic reach of the social posts that were posted, but once the press caught on, all bets were off. This was a master class in timing, a perfect blend of a shoe release, a musical performance, a fun bit of tech, opportunity for something exclusive, and thirsty press—that’s how you make noise at Coachella.\n\n## Results\n\nTherewere600,583Likes+50,000RTsonthreeposts,and47,676,943overallsocialmediaimpressions.\n\nFrom65+piecesofeditorialcoveragewereceived527,570,700editorialimpressions.\n\n*   [\n    \n    Design&Interaction\n    \n    ## FacebookCommunities\n    \n    Empoweringandeducatinglocalcommunityleaders.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/facebook-communities/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/adidas-originals/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/adidas-originals/",
+      "loadedTime": "2025-04-26T18:43:35.838Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/adidas-originals/",
+      "title": "adidas Originals | Jam3",
+      "description": "With adidas and ComplexCon, we used AR to completely reimagine how sneaker drops can work in the 21st century. And it worked.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "adidas Originals | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "With adidas and ComplexCon, we used AR to completely reimagine how sneaker drops can work in the 21st century. And it worked."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/adidas-originals/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/05/ComplexCon.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "nrNcimGE6L1QezyKbxiBh0RxdIetPZAF",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Fri, 25 Apr 2025 20:08:43 GMT",
+        "etag": "W/\"4492a93b8b741a52aeb922a2f09e737f\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "ex9bfjT-MXpw-GMZFYy4V-_AweUsQnzQu7ydZYppPL82WrtBjcXGUQ==",
+        "age": "81264",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "adidas Originals | Jam3\nExperientialMarketing-AR/VR\nadidasredefinesthe\nretailexperiencewithARandsmartproductreleases.\nOverview\nNofights,nolines,noproblem.\nTo solve the issue of long lines, resellers, and fighting, we introduced a fully automated, staffless transactional system to sell exclusive shoes using AR and digital lockers.\nDeliveries\nStrategy, Production, Design, UX, Development & QA\nAtransactionthatwouldhavetakenovertwohoursinthepastisnowservedwithinminutesoftheARrelease.\nTheapppresenteduserswithanAR-poweredmobilestore,democratizingtheshoppingexperience.\nadidashasintentionstocompletelychangethewayconsumersshop.\nApproach\nThisisashoe-ocracy.\nWe set out to eliminate staff and create an automated system that no one needed to line up for. Through this we were able to democratize the purchasing experience — meaning anyone with the app had an equal chance of getting shoes. This also meant we had ubiquitous presence around the convention without the need for a booth. So rather than one location, we were everywhere.\nEverybodygetsashotatsomefreshkicks,nobodygetstrampled.Thisiswhatthesneakerdropofthefuturelookslike.\nChallenges\nAbrandnewsystem,madefromscratch.\nWith only weeks to develop the system and put all the parts in motion, our key challenge was ensuring the experience would work seamlessly on such a large scale. From the AR graphics to programming the smart lockers, every aspect had to be comprehensive and intuitive (and functional). Through extensive QAing and a few late nights, we managed to pull it off.\nFeatures\nScan.Buy.Pick-up.\nFive drop spots featuring AR markers were located throughout the convention floor. When the in-app countdown hit zero and a new shoe was released, people could head to a drop spot, scan it, see the AR shoe spring to life, and snag a pair. In-app purchasing made for a seamless buying experience, and digital lockers meant shoes could be picked up anytime.\nResults\nOver1,000limitededition adidassoldin48hours.\nAveragetimespentwas1.5minutes—2.5hoursfasterthantheaveragepurchasingexperience.\nAwards\n3XFWA\n5XTheOneShowAward\nCreativeTechnology\nComplexLand\nRedefiningthefutureofvirtualevents&e-commercewithashoppable3Dworld.",
+    "markdown": "# adidas Originals | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2019/05/hero-adidas-complexcon.jpg?fit=max&auto=compress,format)\n\nExperientialMarketing\\-AR/VR\n\n## adidasredefinesthe  \nretailexperiencewithARandsmartproductreleases.\n\n#### Overview\n\n## Nofights,nolines,noproblem.\n\nTo solve the issue of long lines, resellers, and fighting, we introduced a fully automated, staffless transactional system to sell exclusive shoes using AR and digital lockers.\n\n#### Deliveries\n\nStrategy, Production, Design, UX, Development & QA\n\n![](https://jam3-media.imgix.net/uploads/2019/05/Clock-adidas-original-minified.svg?fit=max&auto=compress,format)\n\n![](https://jam3-media.imgix.net/uploads/2019/05/Texture-adidas-original-minified.svg?fit=max&auto=compress,format)\n\n*   AtransactionthatwouldhavetakenovertwohoursinthepastisnowservedwithinminutesoftheARrelease.\n    \n    ![](https://jam3-media.imgix.net/uploads/2019/05/engadget-1.svg?fit=max&auto=compress,format)\n    \n*   TheapppresenteduserswithanAR-poweredmobilestore,democratizingtheshoppingexperience.\n    \n    ![](https://jam3-media.imgix.net/uploads/2019/05/forbes.svg?fit=max&auto=compress,format)\n    \n*   adidashasintentionstocompletelychangethewayconsumersshop.\n    \n    ![](https://jam3-media.imgix.net/uploads/2019/05/sneaker-news-1.svg?fit=max&auto=compress,format)\n    \n\n#### Approach\n\n## Thisisashoe-ocracy.\n\nWe set out to eliminate staff and create an automated system that no one needed to line up for. Through this we were able to democratize the purchasing experience — meaning anyone with the app had an equal chance of getting shoes. This also meant we had ubiquitous presence around the convention without the need for a booth. So rather than one location, we were everywhere.\n\n![](https://jam3-media.imgix.net/uploads/2019/05/background.jpg?fit=max&auto=compress,format)\n\nEverybodygetsashotatsomefreshkicks,nobodygetstrampled.Thisiswhatthesneakerdropofthefuturelookslike.\n\n#### Challenges\n\n## Abrandnewsystem,madefromscratch.\n\nWith only weeks to develop the system and put all the parts in motion, our key challenge was ensuring the experience would work seamlessly on such a large scale. From the AR graphics to programming the smart lockers, every aspect had to be comprehensive and intuitive (and functional). Through extensive QAing and a few late nights, we managed to pull it off.\n\n#### Features\n\n## Scan.Buy.Pick-up.\n\nFive drop spots featuring AR markers were located throughout the convention floor. When the in-app countdown hit zero and a new shoe was released, people could head to a drop spot, scan it, see the AR shoe spring to life, and snag a pair. In-app purchasing made for a seamless buying experience, and digital lockers meant shoes could be picked up anytime.\n\n## Results\n\nOver1,000limitededition adidassoldin48hours.\n\nAveragetimespentwas1.5minutes—2.5hoursfasterthantheaveragepurchasingexperience.\n\n## Awards\n\n*   3XFWA\n    \n*   5XTheOneShowAward\n    \n\n* * *\n\n*   [\n    \n    CreativeTechnology\n    \n    ## ComplexLand\n    \n    Redefiningthefutureofvirtualevents&e-commercewithashoppable3Dworld.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/complexland/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/complexland/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/complexland/",
+      "loadedTime": "2025-04-26T18:43:45.853Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/complexland/",
+      "title": "ComplexLand | Jam3",
+      "description": "ComplexLand is a 3D e-commerce-enabled video game where users can shop from over 60 brands. The free, immersive virtual experience featured exclusive drops, shopping, music, food, concerts and the full Complex Networks community.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "ComplexLand | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "ComplexLand is a 3D e-commerce-enabled video game where users can shop from over 60 brands. The free, immersive virtual experience featured exclusive drops, shopping, music, food, concerts and the full Complex Networks community."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/complexland/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2021/05/0-Hero.jpg"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "date": "Sat, 26 Apr 2025 05:52:30 GMT",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "MF2ZLLp0Q0FSWvOZ3StTzUereN7SR_v_",
+        "etag": "W/\"1a856e2ba1160f6be553ade8622fab51\"",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "VlQYfTNeLq4dTuhz5IdQboyN7kWFBzFl8BTqFcpQJBqlYfh7Lxp2CA==",
+        "age": "46236",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "ComplexLand | Jam3\nWebExperience\nRedefiningthefutureofvirtualevents&e-commercewithashoppable3Dworld.\nOverview\nAmind-blowingvirtualexperience.\nTo recapture the cultural clout of ComplexCon in the age of isolation, Jam3 and Complex Networks created ComplexLand: a first-of-its-kind gamified web experience for ecommerce and culture. Part sci-fi treasure hunt, part virtual bazaar, part Club Penguin for sneakerheads, ComplexLand was a five-day convergence of music, fashion, celebrity, and hype.\nDeliveries\nStrategy, Design, Production\nDevelopment, UX & QA\nChallenges\nReimagininganicon\nComplexCon is an absolute institution - a nexus of hyped brands, creators, artists, and consumers. Referred to for years as “the cultural superbowl”, it showed no signs of slowing down. And then the pandemic hit and it had to stop. \nThat left a big gap to fill, and raised lots of new questions How do you move an event of that scale from in-person to virtual without losing its hype? How do you turn it into an expansive world and make it globally accessible? How do you help over 60 brands sell inventory while giving fans a mind-blowing experience?\nApproach\nPushingtheboundariesofvirtualevents.\nWe dissected the style and structure of the massively successful event to reassemble it as an abstract webgame - ComplexLand. Unlike many virtual events which tried (and often failed) to capture the energy of a crowded room, ComplexLand was a single-player experience. The focus was on global accessibility, incredible partnerships and lots of fully-shoppable merch.\nWe used webGL to make the event run in any browser, from desktop or mobile. The experience itself was like a retro-futurist roleplaying game. Guests could customize an avatar, roam a 3D map and even compete for exclusive product drops. Exploring even led to musical performances, food deliveries and celebrity panel discussions and screenings.\nComplexturneditsfashionandmusicfestivalintoafuturisticvideogame.\nComplexLandmadevirtualshoppingareality.\nComplexLandisaresponsiblealternativetoComplexConandcouldrevolutionizehowlargeeventsareexperienced.\nResults\n10,000itemssoldinjust5days.\n1+MillionUSDsold,withsomebrandssellingouttheirinventory.\n174differentcountries+725,000visitorsessionsthroughouttheweek.\nDesign&Interaction\nPostmatesServe\nMeetalittlerobotthat’sredefiningfooddelivery.",
+    "markdown": "# ComplexLand | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2021/05/01-_-Hero_2.png?fit=max&auto=compress,format)\n\nWebExperience\n\n## Redefiningthefutureofvirtualevents&e-commercewithashoppable3Dworld.\n\n#### Overview\n\n## Amind-blowingvirtualexperience.\n\nTo recapture the cultural clout of ComplexCon in the age of isolation, Jam3 and Complex Networks created ComplexLand: a first-of-its-kind gamified web experience for ecommerce and culture. Part sci-fi treasure hunt, part virtual bazaar, part Club Penguin for sneakerheads, ComplexLand was a five-day convergence of music, fashion, celebrity, and hype.\n\n#### Deliveries\n\nStrategy, Design, Production  \nDevelopment, UX & QA\n\n#### Challenges\n\n## Reimagininganicon\n\nComplexCon is an absolute institution - a nexus of hyped brands, creators, artists, and consumers. Referred to for years as “the cultural superbowl”, it showed no signs of slowing down. And then the pandemic hit and it had to stop.   \nThat left a big gap to fill, and raised lots of new questions How do you move an event of that scale from in-person to virtual without losing its hype? How do you turn it into an expansive world and make it globally accessible? How do you help over 60 brands sell inventory while giving fans a mind-blowing experience?\n\n#### Approach\n\n## Pushingtheboundariesofvirtualevents.\n\nWe dissected the style and structure of the massively successful event to reassemble it as an abstract webgame - ComplexLand. Unlike many virtual events which tried (and often failed) to capture the energy of a crowded room, ComplexLand was a single-player experience. The focus was on global accessibility, incredible partnerships and lots of fully-shoppable merch.  \nWe used webGL to make the event run in any browser, from desktop or mobile. The experience itself was like a retro-futurist roleplaying game. Guests could  customize an avatar, roam a 3D map and even compete for exclusive product drops. Exploring even led to musical performances, food deliveries and celebrity panel discussions and screenings.\n\n*   Complexturneditsfashionandmusicfestivalintoafuturisticvideogame.\n    \n*   ComplexLandmadevirtualshoppingareality.\n    \n*   ComplexLandisaresponsiblealternativetoComplexConandcouldrevolutionizehowlargeeventsareexperienced.\n    \n\n## Results\n\n10,000itemssoldinjust5days.\n\n1+MillionUSDsold,withsomebrandssellingouttheirinventory.\n\n174differentcountries+725,000visitorsessionsthroughouttheweek.\n\n*   [\n    \n    Design&Interaction\n    \n    ## PostmatesServe\n    \n    Meetalittlerobotthat’sredefiningfooddelivery.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/postmates-serve/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/ebay/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/ebay/",
+      "loadedTime": "2025-04-26T18:43:46.712Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/ebay/",
+      "title": "eBay | Jam3",
+      "description": "We built a fully-customized brand management tool and training platform for eBay that's practical, impeccably organized, and beautiful.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "eBay | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "We built a fully-customized brand management tool and training platform for eBay that's practical, impeccably organized, and beautiful."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/ebay/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/05/eBay.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "CSUWFUv15VxzcFemvE0N8R5nbLuXjPTt",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 05:52:41 GMT",
+        "etag": "W/\"99b079e0bf9dbfa3463a85011bd638fe\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "cPmrV3DCOukvmOHjMA3qo6Bw0I9qhESzDlMN4IIJUFP3jiT9k6QPFQ==",
+        "age": "46237",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "eBay | Jam3\nPlatform\nHoweBaymadebrandtrainingworthcaringabout.\nOverview\nThisishowyoubrand.\neBay approached us to help tell their brand story to their entire global team. From the sales division to product development, an internal tool like this is a massive undertaking, and when done properly, has the power to unite an entire company around a central mission. We set out to create an innovative internal tool that would inform, surprise, and entertain.\nDeliveries\nStrategy, Design, Development & QA\nApproach\nDesigninginformation.\nIn order to tell this brand story, we developed the “map,” a visual language that functioned as a comprehensive UI and complemented eBay’s mosaic style guide. We mapped out every beat of the experience, working closely with the strategy team to define every chapter, source every image, write every article, and design the interactivity — including quizzes, graphs, and videos.\nChallenges\nBecomingthemaster.\nIn order to convey the look, the history, and the pillars of the eBay brand, we became exceedingly well-versed in their ecosystem. This meant working very closely with our partners, ensuring every aspect of the training was authentic to the company. We also had to ensure this would be comprehensive enough for every member of their organization. Our primary challenge was creating an experience that would provide a clear vision of the company to every person working there.\nFeatures\nAglobalteamintheknow.\nThe brand training comes in 30 and 60-minute versions, and is mandatory for all employees and third-party vendors. The training also features an introductory video, made entirely in-house, that shows the importance and effectiveness of a cohesive brand. The key takeaway here is that strong brands are made through the cooperation of every team member.\nResults\nIthasevennamed“thebesttrainingplatformintheworld”byourveryownclient.\nLogomotiongraphicswereusedineBay’sTVcommercials.\nCreativeTechnology\nadidas-OperationAirDrop\nBreakingtheinternetwithDonaldGloverandanAirdropatCoachella.",
+    "markdown": "# eBay | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2019/05/hero-ebay.jpg?fit=max&auto=compress,format)\n\nPlatform\n\n## HoweBaymadebrandtrainingworthcaringabout.\n\n#### Overview\n\n## Thisishowyoubrand.\n\neBay approached us to help tell their brand story to their entire global team. From the sales division to product development, an internal tool like this is a massive undertaking, and when done properly, has the power to unite an entire company around a central mission. We set out to create an innovative internal tool that would inform, surprise, and entertain.\n\n#### Deliveries\n\nStrategy, Design, Development & QA\n\n![](https://jam3-media.imgix.net/uploads/2019/05/ebay-brand-portal-02.jpg?fit=max&auto=compress,format)\n\n#### Approach\n\n## Designinginformation.\n\nIn order to tell this brand story, we developed the “map,” a visual language that functioned as a comprehensive UI and complemented eBay’s mosaic style guide. We mapped out every beat of the experience, working closely with the strategy team to define every chapter, source every image, write every article, and design the interactivity — including quizzes, graphs, and videos.\n\n#### Challenges\n\n## Becomingthemaster.\n\nIn order to convey the look, the history, and the pillars of the eBay brand, we became exceedingly well-versed in their ecosystem. This meant working very closely with our partners, ensuring every aspect of the training was authentic to the company. We also had to ensure this would be comprehensive enough for every member of their organization. Our primary challenge was creating an experience that would provide a clear vision of the company to every person working there.\n\n#### Features\n\n## Aglobalteamintheknow.\n\nThe brand training comes in 30 and 60-minute versions, and is mandatory for all employees and third-party vendors. The training also features an introductory video, made entirely in-house, that shows the importance and effectiveness of a cohesive brand. The key takeaway here is that strong brands are made through the cooperation of every team member.\n\n## Results\n\nIthasevennamed“thebesttrainingplatformintheworld”byourveryownclient.\n\nLogomotiongraphicswereusedineBay’sTVcommercials.\n\n*   [\n    \n    CreativeTechnology\n    \n    ## adidas\\-OperationAirDrop\n    \n    BreakingtheinternetwithDonaldGloverandanAirdropatCoachella.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/adidas-operation-airdrop/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/postmates-serve/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/postmates-serve/",
+      "loadedTime": "2025-04-26T18:43:47.212Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/postmates-serve/",
+      "title": "Postmates Serve | Jam3",
+      "description": "Jam3 Captured the charm of Postmate’s food-delivering robot, with a friendly, fluid web experience. See how we did it.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Postmates Serve | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "Jam3 Captured the charm of Postmate’s food-delivering robot, with a friendly, fluid web experience. See how we did it."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/postmates-serve/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/05/Postmates.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "date": "Sat, 26 Apr 2025 04:45:03 GMT",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "L8uE6TqQGvjJghgHM94oasyw4z_dsxUL",
+        "etag": "W/\"8164aa1088262156c9ad9d16629cba74\"",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "yc7KvJ_T9dHDinUL8AiPBzs6wukscOeEdfiPn-JyZerfFGvUGLRNCg==",
+        "age": "50295",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Postmates Serve | Jam3\nPlatform\nApowerfulwebsite\nforPostmate's\ncutting-edgedelivery\nrobot.\nOverview\nIntroductionsdon’thavetobescary.\nWe set out to tell the story of the delivery process, from point A to B, with Serve as our hero. Check out their sophisticated nav system. Look how they integrate into the community. Every step was an opportunity to show off Serve’s charm and impressive features. To tell this fluid story, we treated the site as one living image, so every aspect felt seamless and inviting.\nDeliveries\nStrategy, Design, Development & QA\nTherobotitselfisadorable…itlookslikeasmallclosedshoppingcartormaybemorelikeaportablecooleronwheels.\nPostmateshascreatedarobottospeedupandautomateitsdeliveries.\nApproach\nMakeitfriendlyandkeep\nthingsmoving.\nChallenges\nHeretoservethecommunity.\nOur key concern was making sure Serve didn’t come across as intimidating or unnecessary, so we storyboarded every aspect of the experience to make sure he felt like part of the community. That meant innovative, well-constructed, and helpful for individuals and small businesses alike.\nFeatures\nBouncewithme,bouncewithme.\nKey to this project was nailing Serve’s 3D likeness. We had to get the renderings, lighting, and movement just right so he looked just as good as his IRL counterpart.\nResults\nLedtoarticlesonWired,TechCrunch,FastCompanyandVergepraisingthisforward-thinkingbrand.\nAwards\n1XFWA\nSOTD - Dec 28, 2018\n4XCSSDesignAwards\n3XAwwwards\nDesign&Interaction\neBayBrandPortal\nDesigninginformationforaFortune500company.",
+    "markdown": "# Postmates Serve | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2019/05/postmates-hero-2.jpg?fit=max&auto=compress,format)\n\nPlatform\n\n## Apowerfulwebsite  \nforPostmate's  \ncutting-edgedelivery  \nrobot.\n\n#### Overview\n\n## Introductionsdon’thavetobescary.\n\nWe set out to tell the story of the delivery process, from point A to B, with Serve as our hero. Check out their sophisticated nav system. Look how they integrate into the community. Every step was an opportunity to show off Serve’s charm and impressive features. To tell this fluid story, we treated the site as one living image, so every aspect felt seamless and inviting.\n\n#### Deliveries\n\nStrategy, Design, Development & QA\n\n![](https://jam3-media.imgix.net/uploads/2019/05/fullmedia.png?fit=max&auto=compress,format)\n\n*   Therobotitselfisadorable…itlookslikeasmallclosedshoppingcartormaybemorelikeaportablecooleronwheels.\n    \n    ![](https://jam3-media.imgix.net/uploads/2019/05/ar-post-1.svg?fit=max&auto=compress,format)\n    \n*   Postmateshascreatedarobottospeedupandautomateitsdeliveries.\n    \n    ![](https://jam3-media.imgix.net/uploads/2019/05/the-verge-1.svg?fit=max&auto=compress,format)\n    \n\n#### Approach\n\n## Makeitfriendlyandkeep  \nthingsmoving.\n\n#### Challenges\n\n## Heretoservethecommunity.\n\nOur key concern was making sure Serve didn’t come across as intimidating or unnecessary, so we storyboarded every aspect of the experience to make sure he felt like part of the community. That meant innovative, well-constructed, and helpful for individuals and small businesses alike.\n\n#### Features\n\n## Bouncewithme,bouncewithme.\n\nKey to this project was nailing Serve’s 3D likeness. We had to get the renderings, lighting, and movement just right so he looked just as good as his IRL counterpart.\n\n## Results\n\nLedtoarticlesonWired,TechCrunch,FastCompanyandVergepraisingthisforward-thinkingbrand.\n\n## Awards\n\n*   1XFWA\n    \n    SOTD - Dec 28, 2018\n    \n*   4XCSSDesignAwards\n    \n*   3XAwwwards\n    \n\n*   [\n    \n    Design&Interaction\n    \n    ## eBayBrandPortal\n    \n    DesigninginformationforaFortune500company.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/ebay/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/facebook-communities/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/facebook-communities/",
+      "loadedTime": "2025-04-26T18:43:52.501Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/facebook-communities/",
+      "title": "Facebook Communities | Jam3",
+      "description": "By immersing ourselves in the product and staying agile in our process, we built an elegant, modular community management guide for Facebook.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Facebook Communities | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "By immersing ourselves in the product and staying agile in our process, we built an elegant, modular community management guide for Facebook."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/facebook-communities/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/05/Facebook.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "date": "Sat, 26 Apr 2025 05:52:18 GMT",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "m8VovfbPIQ6eVPJRbmufOgrZl6INGkWX",
+        "etag": "W/\"e040eb57a36bf873ab0f1c363dbf7cb6\"",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "nqRFPqRQnONZWd5Njrs8yJgxmIt13Irzo_0sUz9hK7tiI9CxZxavIQ==",
+        "age": "46287",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Facebook Communities | Jam3\nPlatform\nApowerfulhubtobuildcommunitiesandbringtheworldclosertogether.\nOverview\nGobeyondtheassignment.\nFacebook Communities is a feature that lets anyone start a group and build community around a mutual interest — be it cosplay, Boston Terriers, or anything else you can think of. To help community leaders organize, we designed & developed a site housing tips and videos made by successful group leaders — essentially a best practice guidebook for the product. What made it interesting was how we did it.\nDeliveries\nStrategy, Design, UX,\nDevelopment & QA\nApproach\nQuickworkflow,scalablesite.Keepitmodular.\nGetmodular.\nIn order to create a cohesive site, our team worked in sprints. The UX team, the design team, and the developers worked fluidly to develop an integrated site architecture that was both modular and scalable to best accommodate Facebook’s needs.\nChallenges\nBecomingcommunityexperts.Reexaminingroles.\nAs an outside agency, a key challenge can be developing a product for a global brand like Facebook. So we set out to develop this site in a completely different way. To achieve the best results, our UX team became project managers, completely immersing themselves in the world of Facebook Communities. By becoming experts, they were able to challenge the client’s goals and offer better, more strategic solutions to the task at hand.\nFeatures\nAnecosystembuiltfromthegroundup.\nWe were responsible for every aspect of this design system—which has since become the gold standard at Facebook. Our development team built the entire ecosystem from the ground up, allowing for a scalable and flexible experience. Meanwhile our design team crafted each page, and our strategy and UX team helped redefine the way we worked with this savvy partner.\nResults\nOurapproachtothisprojectleadtoustakingovertheentireFacebookCommunitiesecosystem,farbeyondtheeducationalcomponent.\nCreativeTechnology\nNBAPixelArena\nTheworld’sfirstcustomizablemetaverseworldforNBAfans.",
+    "markdown": "# Facebook Communities | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2019/05/hero-f.jpg?fit=max&auto=compress,format)\n\nPlatform\n\n## Apowerfulhubtobuildcommunitiesandbringtheworldclosertogether.\n\n#### Overview\n\n## Gobeyondtheassignment.\n\nFacebook Communities is a feature that lets anyone start a group and build community around a mutual interest — be it cosplay, Boston Terriers, or anything else you can think of. To help community leaders organize, we designed & developed a site housing tips and videos made by successful group leaders — essentially a best practice guidebook for the product. What made it interesting was how we did it.\n\n#### Deliveries\n\nStrategy, Design, UX,  \nDevelopment & QA\n\n![](https://jam3-media.imgix.net/uploads/2019/05/Base-1.png?fit=max&auto=compress,format)\n\n#### Approach\n\n## Quickworkflow,scalablesite.Keepitmodular.  \nGetmodular.\n\nIn order to create a cohesive site, our team worked in sprints. The UX team, the design team, and the developers worked fluidly to develop an integrated site architecture that was both modular and scalable to best accommodate Facebook’s needs.\n\n#### Challenges\n\n## Becomingcommunityexperts.Reexaminingroles.\n\nAs an outside agency, a key challenge can be developing a product for a global brand like Facebook. So we set out to develop this site in a completely different way. To achieve the best results, our UX team became project managers, completely immersing themselves in the world of Facebook Communities. By becoming experts, they were able to challenge the client’s goals and offer better, more strategic solutions to the task at hand.\n\n#### Features\n\n## Anecosystembuiltfromthegroundup.\n\nWe were responsible for every aspect of this design system—which has since become the gold standard at Facebook. Our development team built the entire ecosystem from the ground up, allowing for a scalable and flexible experience. Meanwhile our design team crafted each page, and our strategy and UX team helped redefine the way we worked with this savvy partner.\n\n## Results\n\nOurapproachtothisprojectleadtoustakingovertheentireFacebookCommunitiesecosystem,farbeyondtheeducationalcomponent.\n\n*   [\n    \n    CreativeTechnology\n    \n    ## NBAPixelArena\n    \n    Theworld’sfirstcustomizablemetaverseworldforNBAfans.\n    \n    \n    \n    \n    \n    ](https://www.jam3.com/work/nba-pixel-arena-2-0/)",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/archive",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/archive/",
+      "loadedTime": "2025-04-26T18:44:00.316Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/archive/",
+      "title": "Archive | Jam3",
+      "description": "To say we’ve done some cool stuff is an understatement. Check out some classic Jam3 projects from the archive.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Archive | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "To say we’ve done some cool stuff is an understatement. Check out some classic Jam3 projects from the archive."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/archive/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/07/Jam3.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:02 GMT",
+        "x-amz-version-id": "xPWtGB5Z25YVxJe4vjgnNTsTDdqvKml0",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 05:54:38 GMT",
+        "etag": "W/\"4d11eb85e0880ce8af721f5702f47bcd\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "EDZnu7mtlJqpb3mI3kg_-oeg-JcsRTgqRo7EisbIypg_JGyt17d3og==",
+        "age": "46161",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Archive | Jam3\nallarchive(27)\nDesign&Interaction(13)\nCreativeTechnology(10)\nContent&Storytelling(4)\nIntroducing Experience.Monks!\nJam3 is now part of Media.Monks leading the Brand Experience Design & Innovation practice. Hit the button to discover more about us.\nVISIT US HERE\nAW HECK!\nYour mail app was supposed to launch. But it didn't.\nGotta do it the old fashioned way.\nPLEASE EMAIL US AT\nGet in touch",
+    "markdown": "# Archive | Jam3\n\n*   allarchive(27)\n    \n*   Design&Interaction(13)\n    \n*   CreativeTechnology(10)\n    \n*   Content&Storytelling(4)\n    \n\nIntroducing Experience.Monks!\n\nJam3 is now part of Media.Monks leading the Brand Experience Design & Innovation practice. Hit the button to discover more about us.\n\n[VISIT US HERE](https://media.monks.com/solutions/experience)\n\n![Jam3](https://www.jam3.com/static/popup-bg.d2725bef.jpg?fit=max&auto=compress,format)\n\nAW HECK!\n\nYour mail app was supposed to launch. But it didn't.\n\n## Gotta do it the old fashioned way.\n\nPLEASE EMAIL US AT\n\nGet in touch",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/careers",
+    "crawl": {
+      "loadedUrl": "https://www.monks.com/careers",
+      "loadedTime": "2025-04-26T18:44:14.630Z",
+      "referrerUrl": "https://www.jam3.com/",
+      "depth": 1,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.monks.com/careers",
+      "title": "Careers | Monks",
+      "description": "Looking for a career at one of the fastest growing rocket ships in the Ad Industry? See if we have the perfect position for your career needs.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Careers"
+        },
+        {
+          "property": "og:description",
+          "content": "Looking for a career at one of the fastest growing rocket ships in the Ad Industry? See if we have the perfect position for your career needs."
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.monks.com/data/styles/1200x630/s3/2024-07/monks-hero-image-16x9.jpg?VersionId=QVPYCz8N8fb59z_QZA7r.vvGkZGNUGch&h=d1cb525d&itok=gUAzZGbo"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "CloudFront",
+        "date": "Sat, 26 Apr 2025 18:40:12 GMT",
+        "cache-control": "public, s-maxage=300, max-age=3600, public, s-maxage=300",
+        "content-language": "en",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "last-modified": "Sat, 26 Apr 2025 18:40:12 GMT",
+        "etag": "W/\"1745692812\"",
+        "content-security-policy": "default-src 'none'; script-src 'self' https: blob: 'unsafe-inline' 'unsafe-eval' cdn.cookielaw.org www.googletagmanager.com www.googleadservices.com snap.licdn.com/li.lms-analytics/insight.min.js js.hs-scripts.com/4398552.js googleads.g.doubleclick.net/pagead/; style-src 'self' 'unsafe-inline'; img-src 'self' https: data: blob: android-webview-video-poster: px.ads.linkedin.com www.googletagmanager.com; media-src 'self' https: monkapps.com; frame-src 'self' https: www.youtube.com; frame-ancestors 'self'; font-src 'self' data: https: fonts.gstatic.com; connect-src 'self' https: cdn.cookielaw.org www.googleadservices.com www.google.com/pagead/ googleads.g.doubleclick.net/pagead/ www.google-analytics.com/g/collect; manifest-src 'self'; script-src-elem 'self' https: 'unsafe-inline' www.googletagmanager.com www.googleadservices.com; report-uri https://sentry.nadapada.net/api/125/security/?sentry_key=b569db56805c4e5f98879e39f0fc3053",
+        "x-xss-protection": "0, 1; mode=block",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "from-origin": "same",
+        "referrer-policy": "no-referrer-when-downgrade, origin-when-cross-origin",
+        "content-encoding": "gzip",
+        "x-mm-edge-version": "30",
+        "vary": "Accept-Encoding, Cookie",
+        "x-cache": "Hit from cloudfront",
+        "via": "1.1 2ee0342f98cb641cdcc63a09c0ecbdc0.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA50-P1",
+        "x-amz-cf-id": "vwTRXqqTDdmT1WUPPP6vgnic_TT1oHy0oLFVWSs14E3PWhucaTmfGw==",
+        "age": "229",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Careers | Monks\nThe website has been translated to English with the help of Humans and AI\nPlease note that S4 or Monks will never ask for any form of payment, financial information, or fees as part of our recruitment process.\nAll legitimate job opportunities with us are listed on our official website and our verified \npage.\n(opens in a new tab) \nIf you suspect a fraudulent job posting or communication claiming to be from us, please report it immediately to \n(opens in a new tab). Protect yourself by verifying any job opportunity directly through our official channels.\nOur Promise\nPutting\nDiversity\nin\nAction\nAs a global community living our purpose-driven culture, we are committed to supporting a sustainable community and business, driven by the values of diversity, equity and inclusion.\nBusiness \nCreative \nData \nDevelopment \nFinance \nGrowth \nInternal Operations \nMedia \nPeople \nStrategy \nWinning the decade \nWe're\nhere\nto\nwin\nthe\ndecade\nin\nevery\nsense:\nmaking\nbest-in-class\nwork,\nbeing\nthe\nbest\nplace\nto\nwork\nand\nbuilding\na\nmodel\nthat\nis\nfoundationally\ndifferent.\nChanging the work \nWe\nbelieve\nin\ndigital's\nrole\nto\nenhance\nlife\nand\nforge\ndeep\nconnections\nbetween\npeople.\nIt's\nthe\nambition\nthat\nunites\nus\nand\nis\nin\nour\nDNA.\nChanging who does the work \nNo\nmatter\ntheir\ndiscipline,\ncountry\nof\norigin,\ngender\nor\nother\nfactor,\nour\nteam\nis\nhome\nto\nthe\nbest\ndigital\nexperts\naround\nthe\nworld.\nChanging what the work can do \nWe\naim\nto\nbe\na\ncatalyst\nfor\nchange\nin\nour\nindustry\nand\nour\ncommunities\nthrough\ntechnological\ninnovation,\ncreativity\nand\nimpactful\nwork.\nBuenos Aires, Argentina \n39 Jobs\nMexico City, Mexico \n16 Jobs\nBoston, Massachusetts \n5 Jobs\nKentucky, United States \n1 Jobs\nLos Angeles, California \n6 Jobs\nMinnesota, United States \n1 Jobs\nMountain View, California \n1 Jobs\nNew York City, New York \n5 Jobs\nPhiladelphia, Pennsylvania \n5 Jobs\nSalt Lake City, Utah \n2 Jobs\nSan Diego, California \n2 Jobs\nSan Francisco, California \n4 Jobs\nSeattle, Washington \n2 Jobs\nVancouver, British Columbia \n1 Jobs\nKuala Lumpur, Malaysia \n11 Jobs\nMelbourne, Australia \n8 Jobs\nSeoul, South Korea \n4 Jobs\nSydney, Australia \n14 Jobs\nAmsterdam, Netherlands \n3 Jobs\nHilversum, Netherlands \n3 Jobs\nRiyadh, Saudi Arabia \n3 Jobs\nStuttgart, Germany \n3 Jobs\nThe website has been translated to English with the help of Humans and AI",
+    "markdown": "# Careers | Monks\n\nThe website has been translated to English with the help of Humans and AI\n\nPlease note that S4 or Monks will never ask for any form of payment, financial information, or fees as part of our recruitment process.\n\nAll legitimate job opportunities with us are listed on our official website and our verified[](https://www.linkedin.com/company/monks/jobs/)\n\n[\n\npage.\n\n(opens in a new tab)](https://www.linkedin.com/company/monks/jobs/)\n\nIf you suspect a fraudulent job posting or communication claiming to be from us, please report it immediately to[](mailto:security@monks.com)\n\n[(opens in a new tab)](mailto:security@monks.com). Protect yourself by verifying any job opportunity directly through our official channels.\n\nOur Promise\n\n## \n\nPutting\n\nDiversity\n\nin\n\nAction\n\nAs a global community living our purpose-driven culture, we are committed to supporting a sustainable community and business, driven by the values of diversity, equity and inclusion.\n\n ![A production studio with a track and large camera filming a stage](https://www.monks.com/data/2023-01/FindARole-careers-media.monks_.jpg?VersionId=yeRgYjlGrKNWF7aBylIN6ZrG3TtIAV13) ![A group of employees working at a desk together](https://www.monks.com/data/styles/2880xauto/s3/2023-01/BusinessOperations-careers-media.monks-final.jpg?VersionId=KH6ExrKYaCFlhOIDCpvLRPR_nHksgBPt&itok=jx1WtQ3b)  ![A person working over a desktop designing](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Creative-careers-media.monks-final.jpg?VersionId=zqgjSJf21GgifSgeKzl20tePQNA0JUq7&itok=kRniSriq)  ![A person working at a laptop](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Data-careers-media.monks-final.jpg?VersionId=vlyqfmfySzdIqMTnG3Z6As.Zn7cMURH2&itok=Nlstwjam)  ![Two employees working on a desktop together](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Development-careers-media.monks-final.jpg?VersionId=29hF0oZo15MxGa0JFPA2aoegMNxT_e.Z&itok=lR3-TdQs)  ![Two employees chatting at their desks](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Marketing-careers-media.monks-final.jpg?VersionId=n1ssjuO0Gz9VejyC2N7jQh._97qUVvfD&itok=pd2qc3zL)  ![Two employees chatting at their desks](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Sales-careers-media.monks-final.jpg?VersionId=lOvhPeSPGI6Qty0_ulJKVxG6Ln2qQObZ&itok=sBHoBMgQ)  ![Two employees in a meeting on laptops](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Operations-careers-media.monks-final.jpg?VersionId=al.SNJaXvnLUev4osEh.4qMWkZdprExW&itok=F09dmFmD)  ![An employee works on their desktop](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Media-careers-media.monks-final.jpg?VersionId=cI46AuIr4.p1MG_bh24.g8BuO6_.4D71&itok=njQXWzZ0)  ![Employees working together](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Accounts-careers-media.monks-final.jpg?VersionId=s7SyeBlkegtakFodyEBAZn5il4ZiuvF9&itok=xoJrvrn0)  ![A woman working on a whiteboard](https://www.monks.com/data/styles/2880xauto/s3/2023-01/Design-careers-media.monks-final.jpg?VersionId=hcKrJy0bDG0i.TwHe1rvqL.lOdqLJdLo&itok=dFOUliQL)\n\n*   [Business](https://www.jam3.com/careers/department/business-content)\n*   [Creative](https://www.jam3.com/careers/department/creative-content)\n*   [Data](https://www.jam3.com/careers/department/data-ddm)\n*   [Development](https://www.jam3.com/careers/department/development-content)\n*   [Finance](https://www.jam3.com/careers/department/finance-content)\n*   [Growth](https://www.jam3.com/careers/department/growth-ddm)\n*   [Internal Operations](https://www.jam3.com/careers/department/internal-operations-content)\n*   [Media](https://www.jam3.com/careers/department/media-content)\n*   [People](https://www.jam3.com/careers/department/people-ddm)\n*   [Strategy](https://www.jam3.com/careers/department/strategy-content)\n\n*   ### Winning the decade\n    \n    We're\n    \n    here\n    \n    to\n    \n    win\n    \n    the\n    \n    decade\n    \n    in\n    \n    every\n    \n    sense:\n    \n    making\n    \n    best-in-class\n    \n    work,\n    \n    being\n    \n    the\n    \n    best\n    \n    place\n    \n    to\n    \n    work\n    \n    and\n    \n    building\n    \n    a\n    \n    model\n    \n    that\n    \n    is\n    \n    foundationally\n    \n    different.\n    \n*   ### Changing the work\n    \n    We\n    \n    believe\n    \n    in\n    \n    digital's\n    \n    role\n    \n    to\n    \n    enhance\n    \n    life\n    \n    and\n    \n    forge\n    \n    deep\n    \n    connections\n    \n    between\n    \n    people.\n    \n    It's\n    \n    the\n    \n    ambition\n    \n    that\n    \n    unites\n    \n    us\n    \n    and\n    \n    is\n    \n    in\n    \n    our\n    \n    DNA.\n    \n*   ### Changing who does the work\n    \n    No\n    \n    matter\n    \n    their\n    \n    discipline,\n    \n    country\n    \n    of\n    \n    origin,\n    \n    gender\n    \n    or\n    \n    other\n    \n    factor,\n    \n    our\n    \n    team\n    \n    is\n    \n    home\n    \n    to\n    \n    the\n    \n    best\n    \n    digital\n    \n    experts\n    \n    around\n    \n    the\n    \n    world.\n    \n*   ### Changing what the work can do\n    \n    We\n    \n    aim\n    \n    to\n    \n    be\n    \n    a\n    \n    catalyst\n    \n    for\n    \n    change\n    \n    in\n    \n    our\n    \n    industry\n    \n    and\n    \n    our\n    \n    communities\n    \n    through\n    \n    technological\n    \n    innovation,\n    \n    creativity\n    \n    and\n    \n    impactful\n    \n    work.\n    \n\n*   *   [](https://www.jam3.com/careers/office/bogota)\n    *   [\n        \n        Buenos Aires, Argentina\n        \n        39 Jobs\n        \n        ](https://www.jam3.com/careers/office/buenos-aires)\n    *   [\n        \n        Mexico City, Mexico\n        \n        16 Jobs\n        \n        ](https://www.jam3.com/careers/office/mexico-city)\n    *   [](https://www.jam3.com/careers/office/sao-paulo)\n    \n*   *   [](https://www.jam3.com/careers/office/atlanta)\n    *   [](https://www.jam3.com/careers/office/austin)\n    *   [\n        \n        Boston, Massachusetts\n        \n        5 Jobs\n        \n        ](https://www.jam3.com/careers/office/boston)\n    *   [](https://www.jam3.com/careers/office/chicago)\n    *   [](https://www.jam3.com/careers/office/cincinnati)\n    *   [](https://www.jam3.com/careers/office/dallas)\n    *   [](https://www.jam3.com/careers/office/denver)\n    *   [](https://www.jam3.com/careers/office/detroit)\n    *   [](https://www.jam3.com/careers/office/houston)\n    *   [\n        \n        Kentucky, United States\n        \n        1 Jobs\n        \n        ](https://www.jam3.com/careers/office/kentucky)\n    *   [](https://www.jam3.com/careers/office/las-vegas)\n    *   [\n        \n        Los Angeles, California\n        \n        6 Jobs\n        \n        ](https://www.jam3.com/careers/office/los-angeles)\n    *   [](https://www.jam3.com/careers/office/miami)\n    *   [\n        \n        Minnesota, United States\n        \n        1 Jobs\n        \n        ](https://www.jam3.com/careers/office/minnesota)\n    *   [\n        \n        Mountain View, California\n        \n        1 Jobs\n        \n        ](https://www.jam3.com/careers/office/mountain-view)\n    *   [\n        \n        New York City, New York\n        \n        5 Jobs\n        \n        ](https://www.jam3.com/careers/office/new-york-city)\n    *   [\n        \n        Philadelphia, Pennsylvania\n        \n        5 Jobs\n        \n        ](https://www.jam3.com/careers/office/philadelphia)\n    *   [](https://www.jam3.com/careers/office/portland)\n    *   [\n        \n        Salt Lake City, Utah\n        \n        2 Jobs\n        \n        ](https://www.jam3.com/careers/office/salt-lake-city)\n    *   [\n        \n        San Diego, California\n        \n        2 Jobs\n        \n        ](https://www.jam3.com/careers/office/san-diego)\n    *   [\n        \n        San Francisco, California\n        \n        4 Jobs\n        \n        ](https://www.jam3.com/careers/office/san-francisco)\n    *   [\n        \n        Seattle, Washington\n        \n        2 Jobs\n        \n        ](https://www.jam3.com/careers/office/seattle)\n    *   [](https://www.jam3.com/careers/office/toronto)\n    *   [\n        \n        Vancouver, British Columbia\n        \n        1 Jobs\n        \n        ](https://www.jam3.com/careers/office/vancouver)\n    \n*   *   [](https://www.jam3.com/careers/office/bangalore)\n    *   [](https://www.jam3.com/careers/office/bangkok)\n    *   [\n        \n        Kuala Lumpur, Malaysia\n        \n        11 Jobs\n        \n        ](https://www.jam3.com/careers/office/kuala-lumpur)\n    *   [\n        \n        Melbourne, Australia\n        \n        8 Jobs\n        \n        ](https://www.jam3.com/careers/office/melbourne)\n    *   [](https://www.jam3.com/careers/office/mumbai)\n    *   [](https://www.jam3.com/careers/office/noida)\n    *   [\n        \n        Seoul, South Korea\n        \n        4 Jobs\n        \n        ](https://www.jam3.com/careers/office/seoul)\n    *   [](https://www.jam3.com/careers/office/shanghai)\n    *   [\n        \n        Sydney, Australia\n        \n        14 Jobs\n        \n        ](https://www.jam3.com/careers/office/sydney)\n    *   [](https://www.jam3.com/careers/office/tokyo)\n    \n*   *   [\n        \n        Amsterdam, Netherlands\n        \n        3 Jobs\n        \n        ](https://www.jam3.com/careers/office/amsterdam)\n    *   [](https://www.jam3.com/careers/office/berlin)\n    *   [](https://www.jam3.com/careers/office/cairo)\n    *   [](https://www.jam3.com/careers/office/dublin)\n    *   [\n        \n        Hilversum, Netherlands\n        \n        3 Jobs\n        \n        ](https://www.jam3.com/careers/office/hilversum)\n    *   [](https://www.jam3.com/careers/office/london)\n    *   [](https://www.jam3.com/careers/office/milan)\n    *   [](https://www.jam3.com/careers/office/munich)\n    *   [](https://www.jam3.com/careers/office/paris)\n    *   [](https://www.jam3.com/careers/office/portugal)\n    *   [\n        \n        Riyadh, Saudi Arabia\n        \n        3 Jobs\n        \n        ](https://www.jam3.com/careers/office/riyadh)\n    *   [\n        \n        Stuttgart, Germany\n        \n        3 Jobs\n        \n        ](https://www.jam3.com/careers/office/stuttgart)\n    \n\nThe website has been translated to English with the help of Humans and AI",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/one-oncology/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/one-oncology/",
+      "loadedTime": "2025-04-26T18:44:59.028Z",
+      "referrerUrl": "https://www.jam3.com/archive",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/one-oncology/",
+      "title": "One Oncology | Jam3",
+      "description": "Jam3 worked closely with OneOncology to develop a cohesive brand and website that communicates their life-saving mission effectively. See how we did it.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "One Oncology | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "Jam3 worked closely with OneOncology to develop a cohesive brand and website that communicates their life-saving mission effectively. See how we did it."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/one-oncology/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2020/04/Background_option-2.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "date": "Sat, 26 Apr 2025 18:44:13 GMT",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "74isFG_SmieHsZuLAVU6I8NlKqNNHIdr",
+        "etag": "W/\"1c6361ce52da580b3b8c3798f6264acd\"",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "vary": "Accept-Encoding",
+        "x-cache": "Miss from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "wCup1jrfUgCUhcHaXpd9oIfAxt7-BNS6Z0yCkfjjsevel9eOoeRteA==",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "One Oncology | Jam3\nPlatform\nAbrandrevampthatdemystifiesOneOncology'smission.\nOverview\nDesignrootedinresearchandpurpose.\nThrough in-depth interviews & user-testing with doctors and those touched by cancer we identified their unique pain points. To eliminate these, we embraced an empathetic approach that made One Oncology’s brand and site feel more personal, focused, and calm. The new brand voice positions One Oncology as a technology-powered brand that doesn’t lose sight of their compassion and care expertise.\nDeliveries\nStrategy, Design,\nDevelopment, UX & QA\nChallenges\nConnectingscience\nandempathy\nAs a startup, One Oncology’s messaging and visual presence was still being formed. It needed to be simple, specific and welcoming to their two unique audiences: doctors and patients. This is a delicate task, as what’s insightful to one group could be overwhelming to another.\nIn-depth interviews and user-testing helped validate our decisions, particularly from doctors who just need to get to the point of how One Oncology can make them more efficient. Our solution was to temper technical efficiency and advanced data processing with soft branding: light colors, greens, circles, no hard edges. \nApproach\nBuildingtrust,\nthroughclarity\nIn order to humanize their offerings, it was vital to position One Oncology’s services, not as operational efficiency, but as a health partner that enables doctors to spend more quality time with patients. \nIt was also important to demonstrate empathy for both potential partners and patients, so we developed a voice that is flexible to deliver various tones of content. This helped us switch communication with authority while maintaining a singular, consistent brand.\nWe created a design system that respects a patient’s need for critical information by stripping away unnecessary ornament. We prioritized thoughtful UX, real photography of patients and doctors, clear typography, and clean layouts.\nFeatures\nAmindfulapproachtobranding\nThe new design system modernizes and elevates the One Oncology brand while removing all unnecessary ornament, allowing the critical information a patient is looking for to shine through.\nThe web experience features a high standard of accessibility (AA), with special attention placed on performance, ease of navigation, and smooth and direct interactions. \nThe backend is powered by a bespoke CMS, ensuring the site can grow and evolve with greater ease as One Oncology itself grows and evolves.",
+    "markdown": "# One Oncology | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2020/04/Background_option-2.png?fit=max&auto=compress,format)\n\nPlatform\n\n## AbrandrevampthatdemystifiesOneOncology'smission.\n\n#### Overview\n\n## Designrootedinresearchandpurpose.\n\nThrough in-depth interviews & user-testing with doctors and those touched by cancer we identified their unique pain points. To eliminate these, we embraced an empathetic approach that made One Oncology’s brand and site feel more personal, focused, and calm. The new brand voice positions One Oncology as a technology-powered brand that doesn’t lose sight of their compassion and care expertise.\n\n#### Deliveries\n\nStrategy, Design,  \nDevelopment, UX & QA\n\n![](https://jam3-media.imgix.net/uploads/2020/04/drwgrwgerwgre.png?fit=max&auto=compress,format)\n\n#### Challenges\n\n## Connectingscience  \nandempathy\n\nAs a startup, One Oncology’s messaging and visual presence was still being formed. It needed to be simple, specific and welcoming to their two unique audiences: doctors and patients. This is a delicate task, as what’s insightful to one group could be overwhelming to another.  \nIn-depth interviews and user-testing helped validate our decisions, particularly from doctors who just need to get to the point of how One Oncology can make them more efficient. Our solution was to temper technical efficiency and advanced data processing with soft branding: light colors, greens, circles, no hard edges. \n\n#### Approach\n\n## Buildingtrust,  \nthroughclarity\n\nIn order to humanize their offerings, it was vital to position One Oncology’s services, not as operational efficiency, but as a health partner that enables doctors to spend more quality time with patients.   \nIt was also important to demonstrate empathy for both potential partners and patients, so we developed a voice that is flexible to deliver various tones of content. This helped us switch communication with authority while maintaining a singular, consistent brand.  \nWe created a design system that respects a patient’s need for critical information by stripping away unnecessary ornament. We prioritized thoughtful UX, real photography of patients and doctors, clear typography, and clean layouts.\n\n#### Features\n\n## Amindfulapproachtobranding\n\nThe new design system modernizes and elevates the One Oncology brand while removing all unnecessary ornament, allowing the critical information a patient is looking for to shine through.  \nThe web experience features a high standard of accessibility (AA), with special attention placed on performance, ease of navigation, and smooth and direct interactions.   \nThe backend is powered by a bespoke CMS, ensuring the site can grow and evolve with greater ease as One Oncology itself grows and evolves.",
+    "competitorName": "Jam3"
+  },
+  {
+    "url": "https://www.jam3.com/work/the-wall/",
+    "crawl": {
+      "loadedUrl": "https://www.jam3.com/work/the-wall/",
+      "loadedTime": "2025-04-26T18:45:05.135Z",
+      "referrerUrl": "https://www.jam3.com/archive",
+      "depth": 2,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.jam3.com/work/the-wall/",
+      "title": "The Wall | Jam3",
+      "description": "We worked with reporters to create a pulitzer-winning interactive look at Trump’s proposed border wall.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "The Wall | Jam3"
+        },
+        {
+          "property": "og:description",
+          "content": "We worked with reporters to create a pulitzer-winning interactive look at Trump’s proposed border wall."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:url",
+          "content": "https://www.jam3.com/work/the-wall/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Jam3"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1200"
+        },
+        {
+          "property": "og:image:height",
+          "content": "630"
+        },
+        {
+          "property": "og:image",
+          "content": "https://jam3-media.imgix.net/uploads/2019/05/The-Wall.png"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "content-type": "text/html",
+        "last-modified": "Tue, 11 Feb 2025 15:29:03 GMT",
+        "x-amz-version-id": "5xNIEaCWu86Fg_ywk5i0HIc84yqnAmq_",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block",
+        "referrer-policy": "same-origin",
+        "content-security-policy": "default-src *.jam3.net *.jam3.com boards.greenhouse.io; manifest-src 'self';  base-uri 'self';  form-action 'self';  font-src 'self' data:;  frame-ancestors 'self';  object-src 'none'; media-src *.imgix.net 'self'; img-src *.imgix.net *.hsforms.com *.hubspot.com *.doubleclick.net *.trackjs.com 'self' blob: data: *.google-analytics.com; connect-src 'self' *.jam3.com *.doubleclick.net *.hubspot.com *.trackjs.com *.google-analytics.com;  script-src 'self' 'unsafe-inline' 'unsafe-eval' boards.greenhouse.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com *.hscollectedforms.net *.googletagmanager.com *.google-analytics.com; style-src 'self' 'unsafe-inline' tagmanager.google.com;",
+        "content-encoding": "gzip",
+        "date": "Sat, 26 Apr 2025 18:44:45 GMT",
+        "etag": "W/\"720bfe6b32c10d7ca050c915bc1fa8a2\"",
+        "vary": "Accept-Encoding",
+        "x-cache": "RefreshHit from cloudfront",
+        "via": "1.1 e1f65ba06022d8499dfa37a9c3123554.cloudfront.net (CloudFront)",
+        "x-amz-cf-pop": "MIA3-P2",
+        "x-amz-cf-id": "ruEgE6eUvwcCceQ9ozbUQpLdzHqxojq5oqp_YXcHKkfX0HQ2NhbN8A==",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "The Wall | Jam3\nPlatform\nHelpingUSATodaytellamomentusstoryandwinaPulitzerPrize.\nOverview\nThinkoutsidethearticle.\nThe Arizona Republic, a subsidiary of USA Today, was preparing to undergo a massive undertaking — an extensive investigative report on the sociological and ecological effects of Trump’s border wall. Before they set out on dozens of interviews and research, we were brought in to help them strategize, plan, and design an interactive, scalable storytelling platform to house their ambitious project.\nDeliveries\nStrategy, Design, UX,\nDevelopment & QA\nApproach\nEducationandcollaboration.\nWe flew to Arizona to host a two-day workshop, introducing their team to interactive storytelling and the power of non-linear narratives. We then set out to develop the strategy and define our audience. From there we designed and storyboarded the feature, creating an extensive UX roadmap to ensure the best possible experience for the reader.\nChallenges\nMaintainingtheintegrityofjournalism.\nWe set out to completely transform a long-form piece for a new medium. This meant making sure the integrity of the piece wasn’t lost in the design, and that the 30 journalists and photographers who worked on the piece were happy with how their investigative work was presented.\nFeatures\nDozensofstores,6uniquepaths.\nUpon arrival, readers can explore six different paths, each one seamlessly flowing into the next. The site includes 12 stories, a series of short documentaries, an interactive map, podcasts, and an immersive VR experience.\nResults\nThefeaturewon\naPulitzerPrize.\nAwards\n1XThePulitzerPrizesAward\nWinner in Explanatory Reporting 2018",
+    "markdown": "# The Wall | Jam3\n\n![](https://jam3-media.imgix.net/uploads/2019/05/hero-the-wall.jpg?fit=max&auto=compress,format)\n\nPlatform\n\n## HelpingUSATodaytellamomentusstoryandwinaPulitzerPrize.\n\n#### Overview\n\n## Thinkoutsidethearticle.\n\nThe Arizona Republic, a subsidiary of USA Today, was preparing to undergo a massive undertaking — an extensive investigative report on the sociological and ecological effects of Trump’s border wall. Before they set out on dozens of interviews and research, we were brought in to help them strategize, plan, and design an interactive, scalable storytelling platform to house their ambitious project.\n\n#### Deliveries\n\nStrategy, Design, UX,  \nDevelopment & QA\n\n![](https://jam3-media.imgix.net/uploads/2019/05/the-wall-01.png?fit=max&auto=compress,format)\n\n#### Approach\n\n## Educationandcollaboration.\n\nWe flew to Arizona to host a two-day workshop, introducing their team to interactive storytelling and the power of non-linear narratives. We then set out to develop the strategy and define our audience. From there we designed and storyboarded the feature, creating an extensive UX roadmap to ensure the best possible experience for the reader.\n\n![](https://jam3-media.imgix.net/uploads/2019/05/background-the-wall.jpg?fit=max&auto=compress,format)\n\n#### Challenges\n\n## Maintainingtheintegrityofjournalism.\n\nWe set out to completely transform a long-form piece for a new medium. This meant making sure the integrity of the piece wasn’t lost in the design, and that the 30 journalists and photographers who worked on the piece were happy with how their investigative work was presented.\n\n#### Features\n\n## Dozensofstores,6uniquepaths.\n\nUpon arrival, readers can explore six different paths, each one seamlessly flowing into the next. The site includes 12 stories, a series of short documentaries, an interactive map, podcasts, and an immersive VR experience.\n\n## Results\n\nThefeaturewon  \naPulitzerPrize.\n\n## Awards\n\n*   1XThePulitzerPrizesAward\n    \n    Winner in Explanatory Reporting 2018",
+    "competitorName": "Jam3"
+  }
+]

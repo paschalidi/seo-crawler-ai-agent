@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "url": "https://www.b-reel.com/",
+    "crawl": {
+      "loadedUrl": "https://www.b-reel.com/",
+      "loadedTime": "2025-04-26T18:51:41.907Z",
+      "referrerUrl": "https://www.b-reel.com/",
+      "depth": 0,
+      "httpStatusCode": 200
+    },
+    "metadata": {
+      "canonicalUrl": "https://www.b-reel.com/",
+      "title": "B-REEL — B-Reel",
+      "description": "B-REEL exists to pursue creative projects at the intersection of Storytelling and Technology.",
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "B-REEL"
+        },
+        {
+          "property": "og:description",
+          "content": "B-REEL exists to pursue creative projects at the intersection of Storytelling and Technology."
+        },
+        {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/64716/1707427295-b-reel-sky.png?auto=format&fit=max&w=1200"
+        },
+        {
+          "property": "og:image:width",
+          "content": "960"
+        },
+        {
+          "property": "og:image:height",
+          "content": "960"
+        },
+        {
+          "property": "og:locale",
+          "content": "en"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:site_name",
+          "content": "B-Reel"
+        },
+        {
+          "property": "article:modified_time",
+          "content": "2024-09-12T12:59:34Z"
+        },
+        {
+          "property": "article:publisher",
+          "content": "https://www.facebook.com/breel.creative/"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "age": "396",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 26 Apr 2025 18:44:54 GMT",
+        "etag": "W/\"539xkpjf4d40e6\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-matched-path": "/en",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "STALE",
+        "x-vercel-id": "sfo1::iad1::tl8ff-1745693491847-d7a2e44ff0e1",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "B-REEL — B-Reel\nB-REEL pursues creative projects at the intersection of Storytelling and Technology since 1999.\nB-REEL is an umbrella ☂︎ for on-going ventures [more below ↓] – in addition to being available for special projects.\n[↑] By Feels Like: ① Live wallpaper for Pixel, ② AI research (internal), ③ Website for Suno.ai, ④ Website for LVMH Prize, ⑤ Geo research (internal)\nFeels Like is a brand new, 25 year-old digital design & innovation studio. Feels Like creates interfaces that do & feel more, with teams in Barcelona and LA.\nAccomplish more. Stress less. The State app helps improve your mental and physical well-being through breathwork. Born in science, the app gives you the skills to take control of your state in any situation - in record time. Initially developed together with Andrew Huberman and Brian Mackenzie.\n↓ B-REEL OUTPUT ARCHIVE ↓\nWORK, VENTURES + MISC.\nYEARS 1999-2024 \n[↑] Advertising work: Storytel: 1984, The North Face: We've always got your back, 3: Say you Say Tre, Nike: Alex Roca, Storytel, Save The Children: The Future Can't Wait, H&M Man: Pete Davidson, 3: Flamenco, Ramsbury: Never Out of Place.\nEarth Studio is an animation tool for Google Earth's geo dataset. Initiated and developed at B-Reel/Feels Like. (Acquired by Google.)\nLive Boutique: A proprietary soft- and hardware platform for richer live shopping. An all-in-one film studio, asset repository and presentation tool enabling a personal shopper to conduct “enhanced” video calls with customers on common platforms such as FaceTime, Zoom and Skype. Initial version developed in partnership with Teenage Engineering.\n\"THE BEST HORROR GAME YOU'LL NEVER GET TO PLAY\"\nArticle from whatculture.com)\n\"Hotel 626 is a strange beast. Now forgotten to the world of YouTube walkthroughs and only known by those who were curious enough to give it a go, the online horror experience was something entirely unique to the ever growing generation of internet dwellers when it first appeared in 2008. Utilising a range of invasive technology tricks, Hotel 626 prided itself on creating an atmosphere that wasn't confined simply to the screen - bringing your own phone, webcam, and microphone into the mix to make something truly unpredictable.\nPerhaps the most interesting thing about the game though is that it was built entirely on the back of a marketing stunt, by none other than the crisp powerhouse themselves - Doritos. Bringing the Black Pepper Jack and Smokin' Cheddar BBQ flavours 'back from the dead', the promotional packs advertised a mysterious website listed as www.hotel626.com, titled for its access hours of 6pm to 6am everyday. [...]\nSo what was so special about it?\nHotel 626 was a genuinely inventive little horror game, especially for a simple flash player effort, bringing together cinematic-quality cutscenes with fourth-wall breaking interaction. The premise is simple: you wake up in bed at 2:00am and have to escape a haunted hotel, traversing through different rooms filled with monstrous inhabitants. Playing in first person, you're constantly faced with an impending, tentacle-like darkness creeping in, forcing you to run wherever the hotel dictates you to. [..] If all that wasn't enough, entering your phone details results in a real-life call to tell you exactly how to escape. But as many players soon found out, that wasn't exactly the end of it - the game would call you at a later date to tell you that you never really left the hotel, and that there's no real escape from its horrors. If anything was enough to make you shut your laptop and never mess with the internet again, this was definitely it.\" - whatculture.com",
+    "markdown": "# B-REEL — B-Reel\n\n_B-REEL_ pursues creative projects at the intersection of **Storytelling and Technology** since 1999.\n\n_B-REEL_ is an umbrella ☂︎ for on-going ventures \\[more below ↓\\] – in addition to being available for special projects.\n\n\\[↑\\] By Feels Like: ① Live wallpaper for Pixel, ② AI research (internal), ③ Website for Suno.ai, ④ Website for LVMH Prize, ⑤ Geo research (internal)\n\n_Feels Like_ is a brand new, 25 year-old digital design & innovation studio. _Feels Like_ creates interfaces that do & feel more, with teams in Barcelona and LA.\n\n**_Accomplish more. Stress less._** The State app helps improve your mental and physical well-being through breathwork. Born in science, the app gives you the skills to take control of your state in any situation - in record time. Initially developed together with [Andrew Huberman](https://en.wikipedia.org/wiki/Andrew_Huberman) and Brian Mackenzie.\n\n**↓** _**B-REEL OUTPUT ARCHIVE**_ **↓**\n\n_**WORK, VENTURES + MISC.**_\n\n_**YEARS 1999-2024**_\n\n\\[↑\\] Advertising work: Storytel: 1984, The North Face: We've always got your back, 3: Say you Say Tre, Nike: Alex Roca, Storytel, Save The Children: The Future Can't Wait, H&M Man: Pete Davidson, 3: Flamenco, Ramsbury: Never Out of Place.\n\n_**Earth Studio**_ is an animation tool for Google Earth's geo dataset. Initiated and developed at B-Reel/Feels Like. (Acquired by Google.)\n\n**_Live Boutique:_** A proprietary soft- and hardware platform for richer live shopping. An all-in-one film studio, asset repository and presentation tool enabling a personal shopper to conduct “enhanced” video calls with customers on common platforms such as FaceTime, Zoom and Skype. Initial version developed in partnership with [Teenage Engineering](https://teenage.engineering/).\n\n_**\"THE BEST HORROR GAME YOU'LL NEVER GET TO PLAY\"**_\n\nArticle from [whatculture.com](https://whatculture.com/))\n\n\"Hotel 626 is a strange beast. Now forgotten to the world of YouTube walkthroughs and only known by those who were curious enough to give it a go, the online horror experience was something entirely unique to the ever growing generation of internet dwellers when it first appeared in 2008. Utilising a range of invasive technology tricks, Hotel 626 prided itself on creating an atmosphere that wasn't confined simply to the screen - bringing your own phone, webcam, and microphone into the mix to make something truly unpredictable.\n\nPerhaps the most interesting thing about the game though is that it was built entirely on the back of a marketing stunt, by none other than the crisp powerhouse themselves - Doritos. Bringing the Black Pepper Jack and Smokin' Cheddar BBQ flavours 'back from the dead', the promotional packs advertised a mysterious website listed as www.hotel626.com, titled for its access hours of 6pm to 6am everyday. \\[...\\]\n\n_**So what was so special about it?**_\n\nHotel 626 was a genuinely inventive little horror game, especially for a simple flash player effort, bringing together cinematic-quality cutscenes with fourth-wall breaking interaction. The premise is simple: you wake up in bed at 2:00am and have to escape a haunted hotel, traversing through different rooms filled with monstrous inhabitants. Playing in first person, you're constantly faced with an impending, tentacle-like darkness creeping in, forcing you to run wherever the hotel dictates you to. \\[..\\] If all that wasn't enough, entering your phone details results in a real-life call to tell you exactly how to escape. But as many players soon found out, that wasn't exactly the end of it - the game would call you at a later date to tell you that you never really left the hotel, and that there's no real escape from its horrors. If anything was enough to make you shut your laptop and never mess with the internet again, this was definitely it.\" - whatculture.com",
+    "competitorName": "B-Reel"
+  }
+]
