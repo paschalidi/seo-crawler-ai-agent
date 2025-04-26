@@ -169,26 +169,6 @@ export async function crawlCompetitorSites(
   return results;
 }
 
-/**
- * Alternative: Use CheerioWebBaseLoader for sites that don't need complex crawling
- * @param urls Array of URLs to load
- * @returns Array of Documents
- */
-export async function loadWebsitesDirectly(urls: string[]): Promise<Document[]> {
-  let allDocs: Document[] = [];
-
-  for (const url of urls) {
-    try {
-      const loader = new CheerioWebBaseLoader(url);
-      const docs = await loader.load();
-      allDocs = [...allDocs, ...docs];
-    } catch (error) {
-      console.error(`Error loading ${url}:`, error);
-    }
-  }
-
-  return allDocs;
-}
 
 /**
  * Creates embeddings from the crawled data and stores in vector database
@@ -352,34 +332,6 @@ export async function generateBlogPost(blogParams: BlogPostParams): Promise<stri
 }
 
 // For backward compatibility with the class-based approach
-export class CompetitorIntelligenceSystem {
-  constructor(
-    private openaiApiKey: string = process.env.OPENAI_API_KEY || "",
-    private apifyApiKey: string = process.env.APIFY_API_KEY || ""
-  ) {
-  }
-
-  async crawlCompetitorSites(competitors: CompetitorData[], customCrawlPatterns?: string[], debug: boolean = false): Promise<Record<string, any>[]> {
-    return crawlCompetitorSites(competitors, customCrawlPatterns, debug);
-  }
-
-  async loadWebsitesDirectly(urls: string[]): Promise<Document[]> {
-    return loadWebsitesDirectly(urls);
-  }
-
-  async processCompetitorData(crawledData: Record<string, any>[]): Promise<void> {
-    return processCompetitorData(crawledData);
-  }
-
-  async loadExistingVectorStore(): Promise<boolean> {
-    const vectorStore = await loadExistingVectorStore();
-    return vectorStore !== null;
-  }
-
-  async generateBlogPost(blogParams: BlogPostParams): Promise<string> {
-    return generateBlogPost(blogParams);
-  }
-}
 
 // Example usage as a script
 export async function runExample() {
