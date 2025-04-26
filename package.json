@@ -4,15 +4,15 @@
   "description": "Generate blog posts based on competitor intelligence",
   "main": "dist/competitive-blog-generator-ts.js",
   "bin": {
-    "blog-generator": "./dist/cli.js"
+    "blog-generator": "./dist/src/cli.js"
   },
   "scripts": {
-    "build": "tsc",
-    "start": "node dist/cli.js",
-    "add": "node dist/cli.js add-competitor",
-    "list": "node dist/cli.js list-competitors",
-    "crawl": "node dist/cli.js crawl",
-    "generate": "node dist/cli.js generate-blog"
+    "build": "rm -rf dist && tsc",
+    "start": "npm run build && node dist/src/cli.js",
+    "add": "npm run build && node dist/src/cli.js add-competitor",
+    "list": "npm run build && node dist/src/cli.js list-competitors",
+    "crawl": "npm run build && node dist/src/cli.js crawl",
+    "generate": "npm run build && node dist/src/cli.js generate"
   },
   "keywords": [
     "langchain",

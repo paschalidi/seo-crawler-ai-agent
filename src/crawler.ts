@@ -3,12 +3,8 @@
 
 import { ApifyClient } from 'apify-client';
 import { Document } from "@langchain/core/documents";
-import { StringOutputParser } from "@langchain/core/output_parsers";
-import { RunnableSequence } from "@langchain/core/runnables";
 import { ChatOpenAI, OpenAIEmbeddings } from "@langchain/openai";
-import { CheerioWebBaseLoader } from "@langchain/community/document_loaders/web/cheerio";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
-import { PromptTemplate } from "@langchain/core/prompts";
 import { Chroma } from "@langchain/community/vectorstores/chroma";
 import * as dotenv from 'dotenv';
 import * as fs from 'fs';
@@ -23,15 +19,7 @@ export interface CompetitorData {
   name: string;
 }
 
-export interface BlogPostParams {
-  topic: string;
-  keywords?: string[];
-  targetWordCount?: number;
-  tone?: string;
-}
 
-// Global configuration
-const PERSIST_DIRECTORY = "./chroma_db";
 const COLLECTION_NAME = "competitor_intelligence";
 
 // Initialize clients based on environment variables
@@ -42,7 +30,7 @@ function initializeClients() {
   const apifyClient = new ApifyClient({ token: apifyApiKey });
   const embeddings = new OpenAIEmbeddings({ openAIApiKey: openaiApiKey });
   const llm = new ChatOpenAI({
-    modelName: "gpt-4o",
+    model: "gpt-4o",
     temperature: 0.7,
     openAIApiKey: openaiApiKey
   });
@@ -174,7 +162,17 @@ export async function crawlCompetitorSites(
  * Creates embeddings from the crawled data and stores in vector database
  * @param crawledData Data from crawlers or direct loaders
  */
-export async function processCompetitorData(crawledData: Record<string, any>[]): Promise<void> {
+export interface CrawledDataItem {
+  text?: string;
+  content?: string;
+  title?: string;
+  url?: string;
+  competitorName?: string;
+  metadata?: Record<string, string>;
+  [key: string]: any; // Allow for other properties
+}
+
+export async function processCompetitorData(crawledData: CrawledDataItem[]): Promise<void> {
   const { embeddings } = initializeClients();
 
   // Extract text content from the crawled data
@@ -221,157 +219,4 @@ export async function processCompetitorData(crawledData: Record<string, any>[]):
   console.log("Competitor data processed and stored in vector database");
 }
 
-/**
- * Loads existing vector store if available
- * @returns True if successfully loaded, false otherwise
- */
-export async function loadExistingVectorStore(): Promise<Chroma | null> {
-  const { embeddings } = initializeClients();
 
-  try {
-    if (fs.existsSync(PERSIST_DIRECTORY)) {
-      const vectorStore = await Chroma.fromExistingCollection(
-        embeddings,
-        { collectionName: COLLECTION_NAME, url: "http://localhost:8000" }
-      );
-      console.log("Loaded existing vector store");
-      return vectorStore;
-    }
-    return null;
-  } catch (error) {
-    console.error("Error loading existing vector store:", error);
-    return null;
-  }
-}
-
-/**
- * Generates a blog post based on a topic and the competitive intelligence
- * @param blogParams Parameters for the blog post
- * @returns Generated blog post content
- */
-export async function generateBlogPost(blogParams: BlogPostParams): Promise<string> {
-  const { llm } = initializeClients();
-
-  // Load the vector store
-  const vectorStore = await loadExistingVectorStore();
-  if (!vectorStore) {
-    throw new Error("Vector store not initialized. Process competitor data first.");
-  }
-
-  const { topic, keywords = [], targetWordCount = 1500, tone = "professional" } = blogParams;
-
-  // Create a retriever from the vector store
-  const retriever = vectorStore.asRetriever({
-    k: 10, // Retrieve 10 most relevant chunks
-    searchType: "mmr", // Use Maximal Marginal Relevance for diversity
-    filter: { source: "competitor_crawl" }
-  });
-
-  // Retrieve relevant competitor content
-  const relevantDocs = await retriever.getRelevantDocuments(topic);
-
-  // Build context from the retrieved documents
-  const competitorContext = relevantDocs.map(doc => {
-    return `Source: ${doc.metadata.competitorName}\nTitle: ${doc.metadata.title || 'N/A'}\nContent: ${doc.pageContent}\n---`;
-  }).join("\n");
-
-  // Create a prompt for the blog post generation
-  const blogPromptTemplate = PromptTemplate.fromTemplate(`
-  You are an expert content writer for a high-end digital products agency.
-
-  TASK: Create a comprehensive, engaging, and SEO-optimized blog post on the topic: "${topic}".
-
-  TARGET WORD COUNT: Approximately ${targetWordCount} words.
-
-  DESIRED TONE: ${tone}
-
-  KEYWORDS TO INCLUDE: ${keywords.join(", ")}
-
-  COMPETITIVE INTELLIGENCE CONTEXT:
-  Below is content from industry competitors related to this topic. Use this to:
-  1. Identify gaps in their content that you can fill
-  2. Find unique angles they haven't covered
-  3. Understand the depth and style of industry coverage
-  4. Ensure your content is more valuable and comprehensive
-
-  ---
-  COMPETITOR CONTENT:
-  ${competitorContext}
-  ---
-
-  INSTRUCTIONS:
-  1. Create an attention-grabbing headline
-  2. Include an engaging introduction that hooks the reader
-  3. Structure the content with clear H2 and H3 headings
-  4. Incorporate the keywords naturally
-  5. Include practical examples and actionable insights
-  6. End with a strong conclusion and call-to-action
-  7. Ensure the content is original and not directly copied from competitors
-  8. Format the blog post in Markdown
-
-  YOUR BLOG POST:
-  `);
-
-  // Create the generation chain
-  const blogChain = RunnableSequence.from([
-    blogPromptTemplate,
-    llm,
-    new StringOutputParser()
-  ]);
-
-  // Generate the blog post
-  const blogPost = await blogChain.invoke({
-    topic,
-    keywords: keywords.join(", "),
-    targetWordCount: targetWordCount.toString(),
-    tone,
-    competitorContext
-  });
-
-  return blogPost;
-}
-
-// For backward compatibility with the class-based approach
-
-// Example usage as a script
-export async function runExample() {
-  // Ensure API keys are set
-  if (!process.env.OPENAI_API_KEY || !process.env.APIFY_API_KEY) {
-    console.error("Please set OPENAI_API_KEY and APIFY_API_KEY environment variables");
-    return;
-  }
-
-  // Try to load existing vector store
-  const vectorStore = await loadExistingVectorStore();
-
-  if (!vectorStore) {
-    // List of competitors to analyze
-    const competitors: CompetitorData[] = [
-      { url: "https://example-competitor1.com", name: "Competitor One" },
-      { url: "https://example-competitor2.com", name: "Competitor Two" }
-    ];
-
-    // Crawl competitor sites
-    const crawledData = await crawlCompetitorSites(competitors);
-
-    // Process and embed the competitor data
-    await processCompetitorData(crawledData);
-  }
-
-  // Generate a blog post
-  const blogPost = await generateBlogPost({
-    topic: "The Future of AI in Digital Product Design",
-    keywords: ["AI-driven design", "user experience", "digital transformation"],
-    targetWordCount: 1500,
-    tone: "thought leadership"
-  });
-
-  console.log("Generated Blog Post:");
-  console.log(blogPost);
-
-  // Save the blog post to a file
-  fs.writeFileSync('generated_blog_post.md', blogPost);
-}
-
-// Uncomment to run the example
-// runExample().catch(console.error);
