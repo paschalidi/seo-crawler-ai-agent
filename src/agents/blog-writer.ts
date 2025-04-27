@@ -4,10 +4,13 @@
 import { Document } from "@langchain/core/documents";
 import { StringOutputParser } from "@langchain/core/output_parsers";
 import { RunnableSequence } from "@langchain/core/runnables";
-import { ChatOpenAI, OpenAIEmbeddings } from "@langchain/openai";
+import { OpenAIEmbeddings } from "@langchain/openai";
+import { ChatGoogleGenerativeAI } from "@langchain/google-genai";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { PromptTemplate } from "@langchain/core/prompts";
 import { MemoryVectorStore } from "langchain/vectorstores/memory";
+import { humanizeBlogPost, HumanizerParams } from "./blog-humanizer";
+import { generateImage, ImageGenerationParams } from "./image-generator";
 import * as dotenv from 'dotenv';
 import * as fs from 'fs';
 import * as path from 'path';
@@ -38,6 +41,13 @@ export interface BlogPostParams {
   saveOutline?: boolean;
   modelName?: string;
   temperature?: number;
+  // Humanization parameters
+  humanize?: boolean;
+  humanizeParams?: HumanizerParams;
+  // Image generation parameters
+  generateImage?: boolean;
+  imageParams?: ImageGenerationParams;
+  useStyleTemplate?: boolean;
 }
 
 // Interface for crawled items
@@ -53,7 +63,10 @@ export interface CrawledItem {
 export interface BlogPostContent {
   content: string;
   title?: string;
+  seoTitle?: string;
   wordCount?: number;
+  formattedContent?: string; // Content with frontmatter
+  imagePath?: string; // Path to the generated thumbnail image
 }
 
 // Global configuration
@@ -62,14 +75,21 @@ const CRAWLED_DATA_DIR = "./crawled_data";
 // Initialize clients based on environment variables
 function initializeClients() {
   const openaiApiKey = process.env.OPENAI_API_KEY || "";
+  const googleApiKey = process.env.GOOGLE_API_KEY || "";
 
+  if (!googleApiKey) {
+    throw new Error("GOOGLE_API_KEY is not set in environment variables");
+  }
+
+  // Still using OpenAI for embeddings as Gemini doesn't provide embedding API
   const embeddings = new OpenAIEmbeddings({ openAIApiKey: openaiApiKey });
 
-  // Using GPT-4 for better reasoning, but you can adjust based on cost/performance needs
-  const llm = new ChatOpenAI({
-    modelName: "gpt-4-turbo-preview", // Using a more capable model for ReAct approach
+  // Using Gemini for primary content generation
+  const llm = new ChatGoogleGenerativeAI({
+    model: "gemini-2.5-pro-exp-03-25", // Using Gemini's most capable model for blog generation
     temperature: 0.7,
-    openAIApiKey: openaiApiKey
+    apiKey: googleApiKey,
+    maxOutputTokens: 8192 // Ensure we can generate long blog posts
   });
 
   return { embeddings, llm };
@@ -350,6 +370,8 @@ async function generateFullBlogPost(
 
   10. ACTION: Make final refinements to ensure keyword inclusion, readability, and overall value. Include only the blog post never any "Review and Refinement" section at the end.
 
+  11. ACTION: The markdown section should never be in any markdown wrapper, all the rest of the tools expect the markdown text to come without any wrapper.
+
   Now, write the complete blog post in Markdown format. Make it comprehensive, engaging, and uniquely valuable compared to competitor content. Include an attention-grabbing headline.
   `);
 
@@ -384,6 +406,74 @@ async function generateFullBlogPost(
     title,
     wordCount
   };
+}
+
+/**
+ * Generates frontmatter for the blog post
+ * @param title The blog post title
+ * @param seoTitle SEO-friendly title
+ * @param date Current date in YYYY-MM-DD format
+ * @param imagePath Path to the thumbnail image
+ * @returns Formatted frontmatter in YAML format
+ */
+function generateFrontmatter(title: string, seoTitle: string, date: string, imagePath: string = '/images/blog/agency-partnership.jpg'): string {
+  return `---
+title: '${title}'
+date: '${date}'
+excerpt: 'Navigate the complex landscape of digital agencies to find partners that deliver exceptional quality without breaking the bank.'
+coverImage: '${imagePath}'
+author:
+  name: 'Christos Paschalidis'
+  picture: '/images/authors/christos-paschalidis.jpg'
+---
+
+`;
+}
+
+/**
+ * Generates a short SEO-friendly title based on a topic
+ * @param topic The original topic or description
+ * @param keywords Keywords to include if possible
+ * @returns A short SEO-friendly title (max 60 characters)
+ */
+async function generateSEOTitle(topic: string, keywords: string[] = []): Promise<string> {
+  const { llm } = initializeClients();
+
+  // Create a prompt for the SEO title generation
+  const seoTitlePromptTemplate = PromptTemplate.fromTemplate(`
+  You are an SEO expert specializing in creating concise, effective titles for blog posts.
+
+  TASK: Create a short, SEO-friendly title based on this topic description:
+  "${topic}"
+
+  KEYWORDS TO INCLUDE IF POSSIBLE: ${keywords.join(", ")}
+
+  REQUIREMENTS:
+  - Maximum 60 characters (including spaces)
+  - Must be catchy and attention-grabbing
+  - Should clearly communicate the main value proposition
+  - Include primary keywords naturally if possible
+  - Avoid clickbait tactics
+
+  Return ONLY the title, with no quotes, explanations, or additional text.
+  `);
+
+  // Create the SEO title generation chain
+  const seoTitleChain = RunnableSequence.from([
+    seoTitlePromptTemplate,
+    llm,
+    new StringOutputParser()
+  ]);
+
+  // Generate the SEO title
+  console.log("Generating SEO-friendly title...");
+  const seoTitle = await seoTitleChain.invoke({
+    topic,
+    keywords: keywords.join(", ")
+  });
+
+  // Ensure the title is not too long
+  return seoTitle.trim().substring(0, 60);
 }
 
 /**
@@ -470,10 +560,76 @@ export async function generateBlogPost(blogParams: BlogPostParams, debug: boolea
 
   // 2. Generate full blog post based on the outline
   console.log("Step 2: Generating full blog post based on outline...");
-  const blogPost = await generateFullBlogPost(topic, outline, competitorContext, blogParams);
+  let blogPost = await generateFullBlogPost(topic, outline, competitorContext, blogParams);
 
-  console.log("Blog post generated successfully using ReAct approach");
-  // The blogPost should already be a BlogPostContent object
+  // 2.5. Generate a short SEO-friendly title for the filename
+  console.log("Generating SEO-friendly title for filename...");
+  const seoTitle = await generateSEOTitle(topic, keywords);
+  blogPost.seoTitle = seoTitle;
+
+  // 2.6. Generate thumbnail image if requested
+  let imagePath = '/images/blog/agency-partnership.jpg'; // Default image path
+  if (blogParams.generateImage) {
+    console.log("Generating thumbnail image for the blog post...");
+    try {
+      const imageParams: ImageGenerationParams = {
+        ...blogParams.imageParams,
+        enhancePrompt: !blogParams.useStyleTemplate,
+        styleTemplate: blogParams.useStyleTemplate ? 'glassy-anime-portrait' : undefined,
+        subject: blogParams.imageParams?.subject || 'character',
+        outputPath: path.join(process.cwd(), 'public', 'images', 'blog')
+      };
+      imagePath = await generateImage(blogPost.content, imageParams);
+      blogPost.imagePath = imagePath;
+      console.log(`Thumbnail image generated: ${imagePath}`);
+    } catch (error) {
+      console.error("Error generating thumbnail image:", error);
+      console.log("Using default image instead");
+    }
+  }
+
+  // 2.7. Add frontmatter to the content
+  console.log("Adding frontmatter to the blog post...");
+  const date = new Date().toISOString().split('T')[0];
+  const title = blogPost.title || seoTitle || topic;
+  const frontmatter = generateFrontmatter(title, seoTitle, date, imagePath);
+  blogPost.formattedContent = frontmatter + blogPost.content;
+
+  // 3. Humanize the blog post with Claude if requested
+  if (blogParams.humanize) {
+    console.log("Step 3: Humanizing blog post with Claude...");
+    try {
+      const humanizedContent = await humanizeBlogPost(
+        blogPost.content,
+        blogParams.humanizeParams || {
+          // Default humanization parameters
+          writingStyle: blogParams.tone || "conversational yet professional",
+          personalityTraits: ["knowledgeable", "approachable", "thoughtful"],
+          preserveKeywords: blogParams.keywords || [],
+          preserveSEO: true,
+          preserveStructure: true
+        },
+        debug
+      );
+
+      // Update the blog post content with the humanized version
+      blogPost = {
+        ...blogPost,
+        content: humanizedContent,
+        // Also update the formatted content with frontmatter
+        formattedContent: frontmatter + humanizedContent,
+        // Recalculate word count
+        wordCount: humanizedContent.split(/\s+/).length
+      };
+
+      console.log("Blog post successfully humanized with Claude");
+    } catch (error) {
+      console.error("Error humanizing blog post with Claude:", error);
+      console.log("Continuing with the original blog post content");
+    }
+  }
+
+  console.log("Blog post generation completed successfully");
   return blogPost;
 }
 
@@ -488,11 +644,23 @@ export async function generateBlogExample(topic: string, debug: boolean = false)
       audience: "small business owners looking for digital services"
     }, debug);
 
-    // Save the blog post to a file
-    const sanitizedTopic = topic
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-')
-      .replace(/(^-|-$)/g, '');
+    // Use SEO title for filename if available, otherwise sanitize the topic
+    let filenameBase;
+    if (blogPost.seoTitle) {
+      // Sanitize the SEO title for use in filename
+      filenameBase = blogPost.seoTitle
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/(^-|-$)/g, '');
+      console.log(`Using SEO title for filename: ${blogPost.seoTitle}`);
+    } else {
+      // Fallback to sanitized topic (but limit length to avoid filename too long error)
+      filenameBase = topic
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/(^-|-$)/g, '')
+        .substring(0, 50); // Limit to 50 chars to avoid filename too long errors
+    }
 
     const date = new Date().toISOString().split('T')[0];
     const outputDir = './generated_posts';
@@ -501,13 +669,19 @@ export async function generateBlogExample(topic: string, debug: boolean = false)
       fs.mkdirSync(outputDir, { recursive: true });
     }
 
-    const filePath = path.join(outputDir, `${date}-${sanitizedTopic}.md`);
+    const filePath = path.join(outputDir, `${date}-${filenameBase}.md`);
     fs.writeFileSync(filePath, blogPost.content);
 
     console.log(`Blog post saved to: ${filePath}`);
+    if (blogPost.title) {
+      console.log(`Title: ${blogPost.title}`);
+    }
+    if (blogPost.seoTitle) {
+      console.log(`SEO Title: ${blogPost.seoTitle}`);
+    }
 
     // Optional: Also save the outline for reference
-    const outlineFilePath = path.join(outputDir, `${date}-${sanitizedTopic}-outline.md`);
+    // const outlineFilePath = path.join(outputDir, `${date}-${filenameBase}-outline.md`);
     // You would need to modify the code to return the outline separately to enable this feature
 
   } catch (error) {

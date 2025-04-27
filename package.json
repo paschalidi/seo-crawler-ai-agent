@@ -12,7 +12,8 @@
     "add": "npm run build && node dist/src/cli.js add-competitor",
     "list": "npm run build && node dist/src/cli.js list-competitors",
     "crawl": "npm run build && node dist/src/cli.js crawl",
-    "generate": "npm run build && node dist/src/cli.js generate"
+    "generate": "npm run build && node dist/src/cli.js generate",
+    "generate-img": "npm run build && node dist/src/cli.js generate-image"
   },
   "keywords": [
     "langchain",
@@ -24,15 +25,19 @@
   "author": "Your Digital Agency",
   "license": "MIT",
   "dependencies": {
+    "@langchain/anthropic": "^0.3.19",
     "@langchain/community": "^0.3.41",
     "@langchain/core": "^0.3.49",
+    "@langchain/google-genai": "^0.2.5",
     "@langchain/openai": "^0.5.7",
     "apify-client": "^2.12.3",
     "chromadb": "^2.3.0",
     "commander": "^13.1.0",
     "dotenv": "^16.5.0",
     "inquirer": "^12.6.0",
-    "langchain": "^0.3.24"
+    "langchain": "^0.3.24",
+    "openai": "^4.96.0",
+    "sharp": "^0.34.1"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
